@@ -4,6 +4,6 @@ git:
     file_format: KEYVALUEJSON
     source_file_extension: json
     source_language: jp
-    source_file_dir: source-jp
+    source_file_dir: jp
     translation_files_expression: '<lang>'
     
