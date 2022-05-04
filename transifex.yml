@@ -1,7 +1,7 @@
 git:
  filters:
   - filter_type: dir
-    file_format: STRUCTURED_JSON
-    source_language: en
-    source_file_dir: 
+    file_format: KEYVALUEJSON
+    source_language: jp
+    source_file_dir: source-jp
     translation_files_expression: '<lang>'
