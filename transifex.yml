@@ -1,1 +1,7 @@
-
+git:
+ filters:
+  - filter_type: dir
+    file_format: STRUCTURED_JSON
+    source_language: en
+    source_file_dir: 
+    translation_files_expression: '<lang>'
