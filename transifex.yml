@@ -3,6 +3,6 @@ git:
     - filter_type: dir
       file_format: KEYVALUEJSON
       source_file_extension: json
-      source_language: jp
-      source_file_dir: jp
+      source_language: ja
+      source_file_dir: ja
       translation_files_expression: "<lang>"
