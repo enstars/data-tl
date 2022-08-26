@@ -1,0 +1,29 @@
+name: Update data from Google Sheets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5,17 * * *"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y/%m/%d %H:%M')"
+
+      - name: Checkout current branch
+        uses: actions/checkout@v3
+
+      - name: Fetch Sheets info
+        uses: enstars/googlesheet-actions@master
+        with:
+          sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
+          repo: ${{ github.repository }}
+
+      - name: Commit to current branch
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updated at ${{ steps.date.outputs.date }}
