@@ -1,0 +1,137 @@
+[
+  {
+    "unit_id": 1,
+    "unit": "trickstar",
+    "unit_name": "Trickstar",
+    "tagline": "The Southern Cross Sparkling in the Night Sky!",
+    "unit_desc": "A fairly orthodox idol unit led by Hokuto Hidaka. Their fanservice is both dazzling and comfortably personal with their audience. Trickstar overflows with a calming energy and genuine character, so their work in media focuses on appearing in variety shows, hosting official events, acting as radio personalities, and being the face of advertising campaigns in commercials. Their theme color is orange.",
+    "image_color": "#ff8b0d",
+    "agency": "stapro"
+  },
+  {
+    "unit_id": 2,
+    "unit": "fine",
+    "unit_name": "fine",
+    "tagline": "The Heavenly Orchestra",
+    "unit_desc": "An elegant unit led by Eichi Tenshouin. fine is a unit whose polished and polite fanservice allows them to take command of their audience. When doing work in media, they focus primarily on publicity work to improve the images of corporations. This includes appearing on some variety programs, and largely participating in talk shows, hosting official events, fashion modelling, appearing in things like commercials, and acting as the face of advertising campaigns. Their theme color is ivory.",
+    "image_color": "#ffd7a0",
+    "agency": "stapro"
+  },
+  {
+    "unit_id": 3,
+    "unit": "undead",
+    "unit_name": "UNDEAD",
+    "tagline": "A Wild Hunt in the Dead of Night",
+    "unit_desc": "A wild unit led by Rei Sakuma. When it comes to fan-service each member delights with their individual style. Their ability to be highly flexible gives them plenty of publicity as variety show hosts, radio personalities, in commercials, and even as fashion models. Work that utilizes their character and visual style is their main focus. Their theme color is purple.",
+    "image_color": "#64368f",
+    "agency": "rhylin"
+  },
+  {
+    "unit_id": 4,
+    "unit": "knights",
+    "unit_name": "Knights",
+    "tagline": "An Order of Knights Devoting Songs to You",
+    "unit_desc": "A chivalrous unit led by Tsukasa Suou. They make full use of their knightly personae and engage in plenty of fanservice. When doing work in media, their jobs include commercials, fashion modelling, variety programs, gourmet reports, dramas, and other jobs that make use of their appearance. Their theme color is navy blue.",
+    "image_color": "#305daa",
+    "agency": "newdim"
+  },
+  {
+    "unit_id": 5,
+    "unit": "ryuseitai",
+    "unit_name": "Ryuseitai",
+    "tagline": "Heroes Burning with Passion☆",
+    "unit_desc": "A squadron that fights for justice led by Chiaki Morisawa. Their fanservice is laden with the quirkiness of their varied personalities. When doing work in media, they participate in anything that best utilizes the character of their unit. Thus, they focus on work involving sports variety programs, gourmet reports, and acting as main characters of children's programs. They continue to do volunteer work and hold hero shows regularly, and have continued to do so since their time as units. Their theme colors are the five colors of each member's role, which are based off of super sentai roles.",
+    "image_color": "#d8162d",
+    "agency": "stapro"
+  },
+  {
+    "unit_id": 6,
+    "unit": "rabits",
+    "unit_name": "Ra*bits",
+    "tagline": "A Toy Box Packed with Dreams♪",
+    "unit_desc": "A cutesy unit led by Tomoya Mashiro. Their fanservice is bright and cheerful. Ra*bits utilizes their inexperienced but fresh approach when taking on work. Their work in media tends to consist of appearing on commercials as mascots, reporting street events, performing as kid's show characters, and narration work. Their primary focus is work that allows them to leave a clear, positive impression. Their theme color is light blue.",
+    "image_color": "#68c0f4",
+    "agency": "rhylin"
+  },
+  {
+    "unit_id": 7,
+    "unit": "2wink",
+    "unit_name": "2wink",
+    "tagline": "Together as One Happy Melody☆",
+    "unit_desc": "A twin technopop unit led by Hinata Aoi. They're a mischievous unit known for their bright and flashy fanservice. They excel in playing by ear and adapting flexibly to any situation, so their media work focuses on capitalizing on their experience portraying such lively and vibrant personalities, such as playing children's TV show and variety show personalities, acting as live commentators, and hosting events. Their theme color is neon.",
+    "image_color": "#ff3b9a",
+    "agency": "cospro"
+  },
+  {
+    "unit_id": 8,
+    "unit": "akatsuki",
+    "unit_name": "Akatsuki",
+    "tagline": "Steady, Graceful Beauty Illuminated by Moonlight",
+    "unit_desc": "A Japanese-style unit led by Keito Hasumi. They are reserved in their fanservice in an effort to maintain an air of gravity. Akatsuki does work in media pertaining to news commentary, dramas, movies, and as radio show personalities. Their primary focus is more traditional, cultural work. Their theme color is red .",
+    "image_color": "#962828",
+    "agency": "rhylin"
+  },
+  {
+    "unit_id": 9,
+    "unit": "valkyrie",
+    "unit_name": "Valkyrie",
+    "tagline": "A Museum of Art Interwoven",
+    "unit_desc": "A prestigious unit of fine arts led by Shu Itsuki. They're a group with their own, distinct perspective on the world and retain a highly individual, inflexible distance when interacting with their fans. Their media work primarily focuses on capitalizing on their artistic attributes, such as participating in talk shows as guests, acting as narrators for fine arts programs, and appearing in movies and plays. Their theme color is wine red.",
+    "image_color": "#8c2346",
+    "agency": "cospro"
+  },
+  {
+    "unit_id": 10,
+    "unit": "switch",
+    "unit_name": "Switch",
+    "tagline": "A Magical Party of Everlasting Happiness",
+    "unit_desc": "A unit of magicians that strives to be unique led by Natsume Sakasaki. An entertaining group that showcases the unifying power of their worldview through on-stage banter towards their fans. In terms of their media work, Switch makes the most of their ability to chat by taking on jobs as radio personalities, guests on talk shows, acting commentators, doing event performances, and by performing on kid-oriented variety shows. Work that utilizes their performance style is their main focus. Their theme color is yellow-green.",
+    "image_color": "#a3ea34",
+    "agency": "newdim"
+  },
+  {
+    "unit_id": 11,
+    "unit": "mam",
+    "unit_name": "MaM",
+    "tagline": "Bringing Heart-pounding Thrills to You!",
+    "unit_desc": "A unit where Madara Mikejima works solo. He mainly focuses on campaign jobs such as commercials, variety shows, food reviews, sports variety shows, live broadcasts, and other active hosting jobs. His theme color is gray.",
+    "image_color": "#5a6964",
+    "agency": "newdim"
+  },
+  {
+    "unit_id": 14,
+    "unit": "eden",
+    "unit_name": "Eden",
+    "tagline": "An Eternal Paradise that Tempts the Heart",
+    "unit_desc": "When Adam and Eve combine, they become Eden, a noble unit that brims with life led by Nagisa Ran. As a group, they're known for how flashy they are; their performances are dramatic, and their fanservice can unify their audience through only their words. When doing work in media, they focus on jobs that utilizes their dazzling looks as a group, which includes being guests on talk programs, acting as commercial campaign personae, working as fashion models, and starring in both movies and theater plays. Their theme color is black.",
+    "image_color": "#5f5b5d",
+    "agency": "cospro"
+  },
+  {
+    "unit_id": 15,
+    "unit": "alkaloid",
+    "unit_name": "ALKALOID",
+    "tagline": "Piercing Through the Suit of your Heart!",
+    "unit_desc": "The rising stars of Starmaker Production, ALKALOID is a cutting-edge rock band unit led by Hiiro Amagi. With a cool and rebellious attitude, they're an aggressive unit that rushes into things head-first. When doing work in media, they focus on jobs like talk shows, appearing as radio show guests, helping out with music programs, fashion modeling, publicity work, and similar. Their theme color is turquoise.",
+    "image_color": "#2bb7ca",
+    "agency": "stapro"
+  },
+  {
+    "unit_id": 16,
+    "unit": "crazyb",
+    "unit_name": "Crazy:B",
+    "tagline": "Bees Flying Free",
+    "unit_desc": "The rising stars of Cosmic Production, Crazy:B is a passionate party unit led by Rinne Amagi. They specialize in live shows where they get things hyped with their fans. Their media coverage focuses on jobs that best convey their individual qualities, like participating as guests on variety shows and talk shows, acting as radio personalities, and doing fashion modelling for commercials. Their theme color is yellow.",
+    "image_color": "#ffd400",
+    "agency": "cospro"
+  },
+  {
+    "unit_id": 17,
+    "unit": "doubleface",
+    "unit_name": "Double Face",
+    "tagline": "Binocular Dusty Hounds",
+    "unit_desc": "A mysterious, underground idol unit led by Madara Mikejima. He and Kohaku Oukawa continue to do activities with their original units, MaM and Crazy:B respectively, but they've begun doing activities as a duo as well. Their media work primarily focuses on modeling for magazines and appearing in commercials, dramas, and theater. Their theme color is dark teal.",
+    "image_color": "#2c4f54",
+    "agency": "newdim"
+  }
+]

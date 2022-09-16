@@ -1,0 +1,102 @@
+[
+  {
+    "circle": "archivebook",
+    "circle_name": "Archives: BIBLION",
+    "seq": 1
+  },
+  {
+    "circle": "archivemanga",
+    "circle_name": "Archives: Manga Club",
+    "seq": 2
+  },
+  {
+    "circle": "asobi",
+    "circle_name": "ASOBI Club",
+    "seq": 3
+  },
+  {
+    "circle": "bandbb",
+    "circle_name": "Band BB",
+    "seq": 4
+  },
+  {
+    "circle": "bioanimal",
+    "circle_name": "Biology Club: ANIMALS",
+    "seq": 5
+  },
+  {
+    "circle": "bioocean",
+    "circle_name": "Biology Club: OCEANS",
+    "seq": 6
+  },
+  {
+    "circle": "craftmonster",
+    "circle_name": "CRAFTMONSTER",
+    "seq": 7
+  },
+  {
+    "circle": "dramatica",
+    "circle_name": "Dramatica Theater Company",
+    "seq": 8
+  },
+  {
+    "circle": "gardenia",
+    "circle_name": "Gardenia",
+    "seq": 9
+  },
+  {
+    "circle": "kitchen",
+    "circle_name": "Niki's Kitchen",
+    "seq": 10
+  },
+  {
+    "circle": "lectureibara",
+    "circle_name": "ES Lessons: Ibara Lecture",
+    "seq": 11
+  },
+  {
+    "circle": "lecturekeito",
+    "circle_name": "ES Lessons: Keito Lecture",
+    "seq": 12
+  },
+  {
+    "circle": "mystery",
+    "circle_name": "Mystery Researchers",
+    "seq": 13
+  },
+  {
+    "circle": "overnight",
+    "circle_name": "Overnight Outdoors Party",
+    "seq": 14
+  },
+  {
+    "circle": "pretty5",
+    "circle_name": "Pretty5",
+    "seq": 15
+  },
+  {
+    "circle": "shin",
+    "circle_name": "Martial Artists SHIN",
+    "seq": 16
+  },
+  {
+    "circle": "sports",
+    "circle_name": "Sports Survivors",
+    "seq": 17
+  },
+  {
+    "circle": "sweets",
+    "circle_name": "Sweets Fan Club",
+    "seq": 18
+  },
+  {
+    "circle": "teaflavor",
+    "circle_name": "Tea Party: FLAVOR",
+    "seq": 19
+  },
+  {
+    "circle": "teakaori",
+    "circle_name": "Tea Party: Kaori",
+    "seq": 20
+  }
+]
