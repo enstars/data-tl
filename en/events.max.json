@@ -16,7 +16,8 @@
     "banner_id": 2201,
     "five_star": {
       "card_id": 2201
-    }
+    },
+    "unit_id": 1
   },
   {
     "compliant": "TRUE",
@@ -34,9 +35,7 @@
     "story_season": "summer",
     "banner_id": 2409,
     "five_star": {
-      "card_id": [
-        2409
-      ]
+      "card_id": 2409
     }
   },
   {
@@ -54,10 +53,9 @@
     "story_season": "summer",
     "banner_id": 2213,
     "five_star": {
-      "card_id": [
-        2213
-      ]
-    }
+      "card_id": 2213
+    },
+    "unit_id": "5,15"
   },
   {
     "compliant": "TRUE",
@@ -76,7 +74,8 @@
     "banner_id": 2416,
     "five_star": {
       "card_id": 2416
-    }
+    },
+    "unit_id": 2
   },
   {
     "compliant": "TRUE",
@@ -95,7 +94,8 @@
     "banner_id": 2424,
     "five_star": {
       "card_id": 2424
-    }
+    },
+    "unit_id": 14
   },
   {
     "compliant": "TRUE",
@@ -112,10 +112,9 @@
     "story_season": "summer",
     "banner_id": 2436,
     "five_star": {
-      "card_id": [
-        2436
-      ]
-    }
+      "card_id": 2436
+    },
+    "unit_id": "7,16"
   },
   {
     "compliant": "TRUE",
@@ -134,7 +133,8 @@
     "banner_id": 2452,
     "five_star": {
       "card_id": 2452
-    }
+    },
+    "unit_id": 6
   },
   {
     "compliant": "FALSE",
