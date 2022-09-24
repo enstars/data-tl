@@ -111,11 +111,16 @@
   },
   {
     "compliant": "FALSE",
-    "event_id": 208
+    "event_id": 208,
+    "type": "tour",
+    "name": "Learning from the Past／Succession Match",
+    "event_gacha": "Scout! Dollhouse"
   },
   {
     "compliant": "FALSE",
-    "event_id": 209
+    "event_id": 209,
+    "name": "Fresh Faces! The Eye-Opening Dark Night's Passing",
+    "event_gacha": "Scout! Dead End Land"
   },
   {
     "compliant": "FALSE",
