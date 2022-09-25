@@ -137,19 +137,50 @@
     "unit_id": 6
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 208,
+    "start_date": "2022-10-01",
+    "end_date": "2022-10-09",
     "type": "tour",
-    "name": "Learning from the Past／Succession Match"
+    "name": "Learning from the Past／Succession Match",
+    "event_gacha": "Dollhouse",
+    "gacha_id": 320,
+    "story_name": "Succession Match",
+    "banner_id": 2469,
+    "five_star": {
+      "card_id": 2470
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 209,
-    "name": "Fresh Faces! The Eye-Opening Dark Night's Passing"
+    "start_date": "2022-10-15",
+    "end_date": "2022-10-23",
+    "type": "song",
+    "name": "Fresh Faces! The Eye-Opening Dark Night's Passing",
+    "event_gacha": "Dead End Land",
+    "gacha_id": 322,
+    "song_name": "\\=EYE\\=",
+    "story_name": "Fresh Faces",
+    "banner_id": 2488,
+    "five_star": {
+      "card_id": 2489
+    }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 210
+    "compliant": "TRUE",
+    "event_id": 210,
+    "start_date": "2022-10-29",
+    "end_date": "2022-11-06",
+    "type": "tour",
+    "name": "Advancing to the Future / Next Door",
+    "event_gacha": "Summer Snow",
+    "gacha_id": 324,
+    "story_name": "Next Door",
+    "banner_id": 2503,
+    "five_star": {
+      "card_id": 2504
+    }
   },
   {
     "compliant": "FALSE",
