@@ -39,6 +39,7 @@
     "family": "Parents, younger brother, younger sister",
     "favorite_food": "Miso soup",
     "handedness": "Right",
+    "height_old": "165 cm",
     "circle/2": "gardenia"
   },
   {
@@ -352,7 +353,8 @@
     "dislike": "Disturbance of sleep & garlic",
     "family": "Parents, Rei Sakuma (older brother)",
     "favorite_food": "Carbonated drinks",
-    "handedness": "Left"
+    "handedness": "Left",
+    "height_old": "170 cm"
   },
   {
     "compliant": "TRUE",
@@ -372,7 +374,8 @@
     "dislike": "Sharp objects",
     "family": "Parents, younger sister",
     "favorite_food": "Ramen",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "169 cm"
   },
   {
     "compliant": "TRUE",
@@ -390,7 +393,8 @@
     "dislike": "Dogs",
     "family": "Parents",
     "favorite_food": "White fish",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "175 cm"
   },
   {
     "compliant": "TRUE",
@@ -429,6 +433,7 @@
     "family": "Parents, older brother",
     "favorite_food": "Spicy Foods",
     "handedness": "Right",
+    "height_old": "178 cm",
     "circle/2": "archivemanga"
   },
   {
@@ -446,7 +451,8 @@
     "dislike": "Hospital food, IV drops",
     "family": "Mother, father",
     "favorite_food": "Sautéed veal",
-    "handedness": "Left"
+    "handedness": "Left",
+    "height_old": "179 cm"
   },
   {
     "compliant": "TRUE",
@@ -463,7 +469,8 @@
     "dislike": "People that gripe and nag",
     "family": "Father, older brother, older sister",
     "favorite_food": "Pancakes with lots of cream",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "178 cm"
   },
   {
     "compliant": "TRUE",
@@ -479,7 +486,8 @@
     "dislike": "Heat",
     "family": "Parents",
     "favorite_food": "Shrimp",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "172 cm"
   },
   {
     "compliant": "TRUE",
@@ -496,7 +504,8 @@
     "dislike": "Eggplants",
     "family": "Parents",
     "favorite_food": "French fries",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "175 cm"
   },
   {
     "compliant": "TRUE",
@@ -548,7 +557,8 @@
     "dislike": "Hot water",
     "family": "Unknown",
     "favorite_food": "Soy sauce",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "176 cm"
   },
   {
     "compliant": "TRUE",
@@ -565,7 +575,8 @@
     "dislike": "Noisy things",
     "family": "Parents, Ritsu Sakuma (younger brother)",
     "favorite_food": "Dry-cured ham",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "179 cm"
   },
   {
     "compliant": "TRUE",
@@ -581,7 +592,8 @@
     "dislike": "Frogs",
     "family": "Parents, pet rabbit",
     "favorite_food": "Ice cream",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "160 cm"
   },
   {
     "compliant": "TRUE",
@@ -597,7 +609,8 @@
     "dislike": "People who disturb his naps",
     "family": "Parents",
     "favorite_food": "Corn soup",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "178 cm"
   },
   {
     "compliant": "TRUE",
@@ -613,7 +626,8 @@
     "dislike": "Slovenly people",
     "family": "Parents",
     "favorite_food": "White wine, Spaghetti alle vongole",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "178 cm"
   },
   {
     "compliant": "TRUE",
@@ -650,7 +664,8 @@
     "dislike": "His own eyes, others' gazes",
     "family": "Parents",
     "favorite_food": "Candy",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "171 cm"
   },
   {
     "compliant": "TRUE",
@@ -666,7 +681,8 @@
     "dislike": "Places with many people",
     "family": "Grandfather, parents, older brother, older sister",
     "favorite_food": "Croissants",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "177 cm"
   },
   {
     "compliant": "TRUE",
@@ -724,7 +740,8 @@
     "dislike": "The cold, hurting others",
     "family": "Parents, stepfather, older brother",
     "favorite_food": "Warm, sweet foods (like just-made pancakes and anman)",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "176 cm"
   },
   {
     "compliant": "TRUE",
@@ -742,6 +759,7 @@
     "family": "Parents, younger sister",
     "favorite_food": "Soba, onigiri",
     "handedness": "Right",
+    "height_old": "180 cm",
     "unit/1": "doubleface"
   },
   {
@@ -758,7 +776,8 @@
     "dislike": "Old things, romanticists",
     "family": "Parents, older brother, pet dog",
     "favorite_food": "Pie, quiche (especially with salmon)",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "177 cm"
   },
   {
     "compliant": "TRUE",
@@ -776,7 +795,8 @@
     "dislike": "Harassment from Hiyori",
     "family": "Parents",
     "favorite_food": "Strawberries",
-    "handedness": "Right"
+    "handedness": "Right",
+    "height_old": "173 cm"
   },
   {
     "compliant": "TRUE",
@@ -792,7 +812,9 @@
     "like": "Interesting people",
     "dislike": "Himself",
     "family": "Parents, younger sister, younger brother",
-    "favorite_food": "Chocolate"
+    "favorite_food": "Chocolate",
+    "handedness": "Right",
+    "height_old": "178 cm"
   },
   {
     "compliant": "TRUE",
@@ -812,7 +834,8 @@
     "dislike": "Incompetence​",
     "family": "Parents",
     "favorite_food": "Nutritional supplements",
-    "handedness": "Left"
+    "handedness": "Left",
+    "height_old": "172 cm"
   },
   {
     "compliant": "FALSE",
