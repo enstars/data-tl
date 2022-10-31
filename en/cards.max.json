@@ -5,8 +5,14 @@
     "title": "An Idol",
     "name": "Tetora Nagumo",
     "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
       "live": {
         "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
       }
     },
     "quote": {

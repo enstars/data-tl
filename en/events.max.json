@@ -72,22 +72,27 @@
     "event_id": 208,
     "name": "Learning from the Past／Succession Match",
     "event_gacha": "Dollhouse",
-    "story_name": "Succession Match"
+    "intro_lines": "When they were little, Keito and Rei watched a TV show called \"Vampire Shogun.\" As Rhythm Link was involved in its production, talk began of using it in the renewal performane for a live house, and...",
+    "story_name": "Learning from the Past",
+    "story_author": "Akira"
   },
   {
     "compliant": "TRUE",
     "event_id": 209,
     "name": "Fresh Faces! The Eye-Opening Dark Night's Passing",
     "event_gacha": "Dead End Land",
+    "intro_lines": "Kohaku is gathering information under certain circumstances. As he his following the clues, he encounters Madara, who is suspicious. He learns that Leo is connected to the person Kohaku is after, and...",
     "song_name": "\\=EYE\\=",
-    "story_name": "Fresh Faces"
+    "story_name": "A Dark Night's Passing",
+    "story_author": "Akira"
   },
   {
     "compliant": "TRUE",
     "event_id": 210,
     "name": "Advancing to the Future / Next Door",
     "event_gacha": "Summer Snow",
-    "story_name": "Next Door"
+    "story_name": "Next Door",
+    "story_author": "Akira"
   },
   {
     "compliant": "FALSE",
