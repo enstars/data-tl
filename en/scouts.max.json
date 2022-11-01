@@ -80,7 +80,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 320,
-    "name": "Dollhouse"
+    "name": "Doll House"
   },
   {
     "compliant": "TRUE",
@@ -88,18 +88,58 @@
     "name": "Mitsuru Tenma"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 322,
     "name": "Dead End Land"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 323,
     "name": "HiMERU"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 324,
     "name": "Summer Snow"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 325,
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 326,
+    "name": "Flowers of the Wasteland"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 327,
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 328,
+    "name": "Moon-Viewing Story"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 329,
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 330,
+    "name": "Werewolf"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 331,
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 332,
+    "name": "Spy THE Mission"
   }
 ]
