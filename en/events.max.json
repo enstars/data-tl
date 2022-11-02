@@ -91,120 +91,337 @@
     "event_id": 210,
     "name": "Advancing to the Future / Next Door",
     "event_gacha": "Summer Snow",
+    "intro_lines": "Tsumugi seems to be overworked from handling the agency's matters. Leo is worried about him, and the severity of the state that NewDi is in causes Leo to recall his own past experience with hardship.",
     "story_name": "Next Door",
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 211,
-    "name": "Descent! The Neverland We Begin to Spin"
+    "name": "Descent! The Neverland We Begin to Spin",
+    "event_gacha": "Flowers of the Wasteland",
+    "intro_lines": "Shu has returned to Japan in preparation for the 'Japan Neverland Cup', a festival for artistic musicians. Mika had also been making preparations for Shu's return, but he reaches an impasse in his work.",
+    "song_name": "Eternal Weaving",
+    "story_name": "Neverland",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 212,
-    "name": "Heat Haze ◆ Remnants of Summer and Hot Limit"
+    "name": "Heat Haze ◆ Remnants of Summer and Hot Limit",
+    "event_gacha": "Tsukimigatari",
+    "intro_lines": "Rinne proudly announces to the members of Crazy:B, who are killing time in Cafe Cinnamon, that he's gotten them an official job. But Niki has a situation of his own, and the memories of when he first met Rinne come back to him.",
+    "song_name": "Honeycomb Summer",
+    "story_name": "Hot Limit",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 213,
-    "name": "Fight to the Death on the Silver Screen／Fist of the Shangri-la Idol!"
+    "name": "Fight to the Death on the Silver Screen／Fist of the Shangri-la Idol!",
+    "event_gacha": "Werewolf",
+    "intro_lines": "It comes to be that auditions will be held for the lead role in a kung fu movie, and Trickstar will participate. At the audition venue, fine will judge the acting, but...",
+    "story_name": "Fist of the Shangri-la Idol",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 214,
-    "name": "Envy ♦︎ The Feather-Light Brush of Small Wings"
+    "name": "Envy ♦︎ The Feather-Light Brush of Small Wings",
+    "event_gacha": "Spy THE Mission",
+    "intro_lines": "Aira is feeling down about errors during lives and the difference in ability between him and the other members in practice. Tatsumi, who sees him struggling to bridge the difference between his ideal and reality, confides in him about his own worries.",
+    "song_name": "Living on the Edge",
+    "story_name": "Feather Touch",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 215
+    "compliant": "TRUE",
+    "event_id": 215,
+    "name": "Howl! Nightless City That Burns the Soul",
+    "event_gacha": "Halloween BOX",
+    "intro_lines": "Koga doesn't seem to be doing very well. Kaoru tries to talk to him, but Koga absolutely refuses him. At both seniors' request, Adonis casually asks Koga about what's going on. It turns out the Live House is the source.",
+    "song_name": "Nightless World",
+    "story_name": "Nightless City Live",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 216
+    "compliant": "TRUE",
+    "event_id": 216,
+    "name": "Variety and Tag／Bogie Time!",
+    "event_gacha": "Turn of the Century Wars",
+    "intro_lines": "Nagisa's decision causes Eden to accept a performance in a variety show that they had been avoiding, and the scheduling is driving Ibara up the wall. On top of that, Hiyori and Nagisa cause the script to be changed, and thus Eden ends up forming pairs with Ra*bits, who have been chosen as their costars.",
+    "story_name": "Bogie Time",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 217
+    "compliant": "TRUE",
+    "event_id": 217,
+    "name": "SHUFFLE × The Veil of Darkness and the Butlers",
+    "event_gacha": "XXVeil",
+    "intro_lines": "As part of the cross agency plan, Makoto and the others arrive at the chalk white mansion to film a movie. The filming seems to be going well, but Izumi's fastidiousness results in retakes. They lodge together while trying to get into character.",
+    "song_name": "Midnight Butlers",
+    "story_name": "Butlers",
+    "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 218
+    "compliant": "TRUE",
+    "event_id": 218,
+    "name": "SHUFFLE × White Snow's Merry Xmas",
+    "event_gacha": "Branco",
+    "intro_lines": "Tori and others are gathered for the Shuffle Unit project. However, the project manager goes missing. They end up having to plan the project themselves, but some minor things cause Tori to feel concerned about how Aira is doing...",
+    "song_name": "Sweet Sweet White Song",
+    "story_name": "Merry Xmas",
+    "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 219
+    "compliant": "TRUE",
+    "event_id": 219,
+    "name": "Transform! The Comet Show Connecting the Stars",
+    "event_gacha": "Ushimairi (Part One)",
+    "intro_lines": "Ryuseitai is being restructured at the request of their agency. Now, Ryuseitai-M and Ryuseitai-N will combine into just one Ryuseitai with other sub-units, but suddenly Chiaki and Kanata announce that they're leaving the unit at their next live...",
+    "song_name": "Suisei HALATION",
+    "story_name": "Comet Show",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 220
+    "compliant": "TRUE",
+    "event_id": 220,
+    "name": "Beyond! Resonating Twin Peaks",
+    "event_gacha": "Ushimairi (Part Two)",
+    "intro_lines": "2wink, who both reconcile with each other and disagree. They are asked by Ibara to perform in a music program which is considered one of the stepping stones for advancement. However, there is only a slot for one performer, and... ",
+    "song_name": "Fighting Dreamer",
+    "story_name": "Twin Peaks",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 221
+    "compliant": "TRUE",
+    "event_id": 221,
+    "name": "Revealing Hidden Treasures／Antique Legend",
+    "event_gacha": "White Lily",
+    "intro_lines": "An antique market took place near ES. However, Double Face, who sensed something suspicious about it, unilaterally challenge Valkyrie to a showdown, attempting to get them to give up information...",
+    "story_name": "Antique Legend",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 222
+    "compliant": "TRUE",
+    "event_id": 222,
+    "name": "One Battle! The Pride-Showing Unification by Force",
+    "event_gacha": "Sweet Hunt",
+    "intro_lines": "Souma encountered Kuro and Keito arguing. It ended without him hearing the reason for the fight, but he hears around that Akatsuki’s position in the office is in danger, and...",
+    "song_name": "Akatsuki Iroha Uta",
+    "story_name": "Unification by Force",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 223
+    "compliant": "TRUE",
+    "event_id": 223,
+    "name": "Daydream＊Slumbering Euthanasia",
+    "event_gacha": "Fake Phantom Thieves",
+    "intro_lines": "Izumi and Tsukasa argue about the direction Knights should take. Ritsu, seeing it did not seem it would come to a conclusion, suggested trial by combat, and intended that it be a match that also sent the loser to a “happy death.”",
+    "song_name": "Little Romance",
+    "story_name": "Euthanasia",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 224
+    "compliant": "TRUE",
+    "event_id": 224,
+    "name": "Projection★The Magic Lantern That Reflects the Heart",
+    "event_gacha": "Spring Bed",
+    "intro_lines": "Subaru and Sora, who found a machine-like thing in the courtyard of the Seisoukan. Sora brings it to Natsume as a topic of conversation, but it seems he is not very interested, and... ",
+    "song_name": "Omoi no kakera",
+    "story_name": "Magic Lantern",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 225
+    "compliant": "TRUE",
+    "event_id": 225,
+    "name": "Chocolat♥︎Primavera of Fluttering Sweet Breezes",
+    "event_gacha": "RELOADED",
+    "intro_lines": "Chocolat Festival was planned to be held, but it is jeopardized by certain circumstances. Eichi and Yuzuru decide to hide the situation, but Tori is concerned, and...",
+    "song_name": "Koi wa Primavera!",
+    "story_name": "Primavera",
+    "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 226
+    "compliant": "TRUE",
+    "event_id": 226,
+    "name": "SS Arc／1st Stage Satellite",
+    "event_gacha": "ASOBI Club",
+    "intro_lines": "The preliminaries for the SS begin, and Trickstar and Alkaloid each head for a venue in Hokkaido. However, for some reason, Trickstar is wandering through a jungle, and...",
+    "story_name": "Satellite",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 227
+    "compliant": "TRUE",
+    "event_id": 227,
+    "name": "Wander! Black Bunny in UNDERLAND",
+    "event_gacha": "Pretty 5",
+    "intro_lines": "Ra*bits were holding off on having a meeting about their next live. However, a ball comes flying at Mitsuru, who had finished his club activities, and hits him directly, making him lose his memories...",
+    "song_name": "FALLIN' LOVE=IT'S WONDERLAND",
+    "story_name": "Black Bunny",
+    "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 228
+    "compliant": "TRUE",
+    "event_id": 228,
+    "name": "Assault! The Labyrinth Bound by Ariadne's Thread",
+    "event_gacha": "Budding Spring→Ride ON!",
+    "intro_lines": "Crazy:B are on their way to work in the countryside. But when they arrive at a labyrinth instead, they realize the story is different from what they heard. Now thanks to Ibara, it's a challenge-based variety show, and prizes and penalties have been prepared for each of them...",
+    "song_name": "Yubisaki no Ariadne",
+    "story_name": "Ariadne",
+    "story_author": "Kino Seitaro"
   },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
+  {
+    "compliant": "TRUE",
+    "event_id": 229,
+    "name": "SS Arc／2nd Stage Submarine",
+    "event_gacha": "Burning Azaleas",
+    "intro_lines": "As soon as Akatsuki makes landfall in Okinawa, they're besieged by local idols. Ryuseitai also gets caught up in the battle, and they're devising a plan to break free of the conflict—but they're restricted by respective orders.",
+    "story_name": "Submarine",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 230,
+    "name": "SHUFFLE × The Ring That Sounds the Bells",
+    "event_gacha": "Ring.A.Bell",
+    "intro_lines": "Midori and Mao happen upon the producer after school one day at a bookstore, happily picking out a wedding magazine... From this they conclude that she is about to get married.★",
+    "song_name": "Aisle, be with you",
+    "story_name": "Ring",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "event_id": 231,
+    "event_gacha": "GemSphere"
+  },
+  {
+    "event_id": 232,
+    "event_gacha": "Prison Breakers"
+  },
+  {
+    "event_id": 233,
+    "event_gacha": "Frontline Watchdogs"
+  },
+  {
+    "event_id": 234,
+    "event_gacha": "Roaring Sea Marina"
+  },
+  {
+    "event_id": 235,
+    "event_gacha": "Getto Spectacle"
+  },
+  {
+    "event_id": 236,
+    "event_gacha": "One-Man Army"
+  },
+  {
+    "event_id": 237,
+    "event_gacha": "Fruitful OCTOBER"
+  },
+  {
+    "event_id": 238,
+    "event_gacha": "Dramatica"
+  },
+  {
+    "event_id": 239,
+    "event_gacha": "Soleil"
+  },
+  {
+    "event_id": 240,
+    "event_gacha": "Detactive DANCE (Decadance)"
+  },
+  {
+    "event_id": 241,
+    "event_gacha": "Hot Winter"
+  },
+  {
+    "event_id": 242,
+    "event_gacha": "La Mort"
+  },
+  {
+    "event_id": 243,
+    "event_gacha": "Tiger of the Fifth Earth Star"
+  },
+  {
+    "event_id": 244,
+    "event_gacha": "Dance of the White Tiger"
+  },
+  {
+    "event_id": 245,
+    "event_gacha": "Astraea's Atelier"
+  },
+  {
+    "event_id": 246,
+    "event_gacha": "Romantic? Date"
+  },
+  {
+    "event_id": 247,
+    "event_gacha": "Myriad of Colors and Flowers"
+  },
+  {
+    "event_id": 248,
+    "event_gacha": "White Brim"
+  },
+  {
+    "event_id": 249,
+    "event_gacha": "Whimsical City Rider"
+  },
+  {
+    "event_id": 250,
+    "event_gacha": "Puffy☆Bunny"
+  },
+  {
+    "event_id": 251,
+    "event_gacha": "Band BB"
+  },
+  {
+    "event_id": 252,
+    "event_gacha": "Orient"
+  },
+  {
+    "event_id": 253,
+    "event_gacha": "Sweet Sweet Hunger"
+  },
+  {
+    "event_id": 254,
+    "event_gacha": "Bankara Graffiti"
+  },
+  {
+    "event_id": 255,
+    "event_gacha": "Keito Lecture"
+  },
+  {
+    "event_id": 256,
+    "event_gacha": "Polka Dots"
+  },
+  {
+    "event_id": 257,
+    "event_gacha": "ANIMALS"
+  },
+  {
+    "event_id": 258,
+    "event_gacha": "Red Hot Island"
+  },
+  {
+    "event_id": 259,
+    "event_gacha": "Butou-kai"
+  },
+  {
+    "event_id": 260,
+    "event_gacha": "MIRAGE"
+  },
+  {
+    "event_id": 261,
+    "event_gacha": "Chill Yellow"
+  },
+  {
+    "event_id": 262,
+    "event_gacha": "PORTRAIT - Look back -"
+  },
+  {
+    "event_id": 263,
+    "event_gacha": "Dolly Night"
+  },
   {},
   {},
   {},
