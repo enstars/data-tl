@@ -171,24 +171,24 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 333,
     "name": "Tsukasa Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 334,
     "name": "Halloween BOX",
     "intro_lines": "Hinata is feeling down after quarrelling with Yuuta and goes to talk to Hiiro. Upon hearing what Niki has to say, Hinata thinks of a plan for them to make up.",
     "intro_lines_tl_credits": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 335,
     "name": "Wataru Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 336,
     "name": "Turn of the Century Wars",
     "story_name": "Turn of the Century Wars",
@@ -197,12 +197,12 @@
     "intro_lines_tl_credits": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 337,
     "name": "Shu Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 338,
     "name": "XXVeil",
     "story_name": "Butlers",
@@ -211,12 +211,12 @@
     "intro_lines_tl_credits": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 339,
     "name": "Rinne Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 340,
     "name": "Branco",
     "story_name": "Merry Xmas",
@@ -225,12 +225,12 @@
     "intro_lines_tl_credits": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 341,
     "name": "Tsumugi Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 342,
     "name": "Ushimairi (Part One)",
     "story_name": "Ushimairi (Part One)",
@@ -239,12 +239,12 @@
     "intro_lines_tl_credits": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 343,
     "name": "Leo Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 344,
     "name": "Ushimairi (Part Two)",
     "story_name": "Ushimairi (Part Two)",
@@ -253,12 +253,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 345,
     "name": "Nazuna Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 346,
     "name": "White Lily",
     "story_name": "White Lily",
@@ -267,12 +267,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 347,
     "name": "Hiyori Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 348,
     "name": "Sweet Hunt",
     "story_name": "Sweet Hunt",
@@ -281,12 +281,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 349,
     "name": "Yuta Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 350,
     "name": "Fake Phantom Thieves",
     "story_name": "Fake Phantom Thieves",
@@ -295,12 +295,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 351,
     "name": "Madara Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 352,
     "name": "Spring Bed",
     "story_name": "Spring Bed",
@@ -309,12 +309,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 353,
     "name": "Rei Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 354,
     "name": "RELOADED",
     "story_name": "RELOADED",
@@ -323,12 +323,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 355,
     "name": "Jun Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 356,
     "name": "ASOBI Club",
     "story_name": "ASOBI Club",
@@ -337,12 +337,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 357,
     "name": "Adonis Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 358,
     "name": "Pretty 5",
     "story_name": "Pretty Mission",
@@ -351,12 +351,12 @@
     "intro_lines_tl_credits": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 359,
     "name": "Natsume Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 360,
     "name": "Budding Spring→Ride ON!",
     "story_name": "Budding Spring→Ride ON!",
@@ -365,12 +365,12 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 361,
     "name": "Mayoi Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 362,
     "name": "Burning Azaleas ",
     "story_name": "Burning Azaleas ",
@@ -379,12 +379,12 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 363,
     "name": "Aira Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 364,
     "name": "Ring.A.Bell",
     "story_name": "Ring",
@@ -393,12 +393,12 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 365,
     "name": "Makoto Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 366,
     "name": "GemSphere",
     "story_name": "GemSphere",
@@ -407,12 +407,12 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 367,
     "name": "Sora Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 368,
     "name": "Prison Breakers",
     "story_name": "Prison Breakers",
@@ -421,12 +421,12 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 369,
     "name": "Chiaki Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 370,
     "name": "Frontline Watchdogs",
     "story_name": "Frontline Watchdogs",
@@ -435,12 +435,12 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 371,
     "name": "Hiiro Feature Scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 372,
     "name": "Roaring Sea Marina",
     "story_name": "Roaring Sea Marina",
@@ -449,7 +449,7 @@
     "intro_lines_tl_credits": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 373,
     "name": "Kohaku Feature Scout"
   },
@@ -462,7 +462,7 @@
     "intro_lines": "The Shuffle Project this time is themed after Kaguya-hime as a tie-in with a popular educational TV program. The five members plan to lodge together, but they can't seem to get in sync. It's then when Hiyori reveals a secret to the other members..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 375,
     "name": "Subaru Feature Scout"
   },
@@ -475,7 +475,7 @@
     "intro_lines": "Mao confronts Souma about his sword due to complaints he received from some first-year students. However, they fail to come to an agreement, and upon Subaru's suggestion, Souma decides to go with a fully defensive strategy."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 377,
     "name": "Tetora Feature Scout"
   },
