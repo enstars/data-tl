@@ -318,7 +318,7 @@
     "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 231,
     "name": "SS Arc／3rd Stage Secret Service",
     "event_gacha": "GemSphere",
@@ -328,7 +328,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 232,
     "name": "Aroma＊Veiled Fragrance",
     "event_gacha": "Prison Breakers",
@@ -339,7 +339,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 233,
     "name": "SS Arc／4th Stage SHINSEKAI -STRANGE NEW WORLD-",
     "event_gacha": "Frontline Watchdogs",
@@ -349,7 +349,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 234,
     "name": "SS Arc／5th Stage Sandstorm",
     "event_gacha": "Roaring Sea Marina",
@@ -359,7 +359,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 235,
     "name": "SHUFFLE × Moonlight Mirror Ball",
     "event_gacha": "Getto Spectacle",
@@ -369,7 +369,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 236,
     "name": "SS Arc／6th Stage Sanctuary",
     "event_gacha": "One-Man Army",
@@ -378,7 +378,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 237,
     "name": "Beating Wings ◆ The Cloud-Scattering Solid Stage",
     "event_gacha": "Fruitful OCTOBER",
@@ -388,7 +388,7 @@
     "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 238,
     "name": "SS Arc／7th Stage Sudden Death",
     "event_gacha": "Dramatica",
@@ -397,7 +397,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 239,
     "name": "Eternal Oni ◆ Scarlet Halloween",
     "event_gacha": "Soleil",
@@ -407,7 +407,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 240,
     "name": "Depths＊The Beast Laying Hidden Beneath",
     "event_gacha": "Detactive DANCE (Decadance)",
@@ -417,7 +417,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 241,
     "name": "In a Pinch!? ☆ Pierce It In Half! Ninja Clan",
     "event_gacha": "Hot Winter",
@@ -427,7 +427,7 @@
     "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 242,
     "name": "SHUFFLE × The Numbing Noir Neige",
     "event_gacha": "La Mort",
@@ -437,7 +437,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 243,
     "name": "SS Arc／Final Stage SS",
     "event_gacha": "Tiger of the Fifth Earth Star",
@@ -447,7 +447,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 244,
     "name": "Focus＊Seasons Through The Viewfinder",
     "event_gacha": "Dance of the White Tiger",
@@ -457,7 +457,7 @@
     "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 245,
     "name": "Voyage ◆ The Phantom Airship that Sails Across Hearts",
     "event_gacha": "Astraea's Atelier",
@@ -467,7 +467,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 246,
     "name": "Chocolat♥Love Letter Covered in Hearts",
     "event_gacha": "Romantic? Date",
@@ -477,7 +477,7 @@
     "story_author": "Umeda Chitose"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 247,
     "name": "Shine▲Polyhedric Tri-Lights",
     "event_gacha": "Myriad of Colors and Flowers",
@@ -487,7 +487,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 248,
     "name": "Sprout＊Waning Hermitage",
     "event_gacha": "White Brim",
@@ -497,7 +497,7 @@
     "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 249,
     "name": "First Bloom＊A Spring Evening's Brief Respite",
     "event_gacha": "Whimsical City Rider",
@@ -507,7 +507,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 250,
     "name": "SHUFFLE × Easter to You☆",
     "event_gacha": "Puffy☆Bunny",
@@ -517,7 +517,7 @@
     "story_author": "Umeda Chitose"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 251,
     "name": "Reminiscence＊The Obbligato Played by Iridescence",
     "event_gacha": "Band BB",
@@ -526,7 +526,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 252,
     "name": "Attack! The Solitary Battle of the VS GAME",
     "event_gacha": "Orient",
@@ -536,7 +536,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 253,
     "name": "Wedding Speech＊Strumming Bride Light",
     "event_gacha": "Sweet Sweet Hunger",
@@ -546,7 +546,7 @@
     "story_author": "Yuumasu"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 254,
     "name": "Halo of Enlightenment◆Black Paradise Flycatcher Looking to the Skies",
     "event_gacha": "Bankara Graffiti",
@@ -556,7 +556,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 255,
     "name": "Yumenosaki Divided／The Tanabata Festival that Bridges Hope",
     "event_gacha": "Keito Lecture",
@@ -565,7 +565,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 256,
     "name": "Voyage! The Cruise That Meets The Sea",
     "event_gacha": "Polka Dots",
@@ -575,7 +575,7 @@
     "story_author": "Nishioka Maiko"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 257,
     "name": "Summer Breeze! Sunshine Dazzling in a Foreign Land",
     "event_gacha": "ANIMALS",
@@ -585,7 +585,7 @@
     "story_author": "Yuumasu"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 258,
     "name": "Battle of Yumenosaki! The Sports Festival to Declare Your Presence",
     "event_gacha": "Red Hot Island",
@@ -594,7 +594,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 259,
     "name": "SHUFFLE × Festival of the Blazing War Dance",
     "event_gacha": "Butou-kai",
@@ -604,7 +604,7 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 260,
     "name": "Fantasy♠Playing Cards in UNDERLAND",
     "event_gacha": "MIRAGE",
@@ -614,7 +614,7 @@
     "story_author": "Umeda Chitose"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 261,
     "name": "Wandering Yumenosaki／School Trip to the Mainland!",
     "event_gacha": "Chill Yellow",
@@ -623,7 +623,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 262,
     "name": "Faint Shadow＊Ghostic Halloween",
     "event_gacha": "PORTRAIT - Look back -",
@@ -633,9 +633,11 @@
     "story_author": "Kino Seitaro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 263,
+    "name": "Desire for Mischief◆Spider Halloween",
     "event_gacha": "Dolly Knight",
+    "intro_lines": "Crazy:B ends up joining the ES Halloween Event. Kohaku who finds it as a mere childish event, steps inside a haunted house notorious for being eerie with the members of Crazy:B.",
     "song_name": "Helter-Spider",
     "story_name": "Spider",
     "story_author": "Nishioka Maiko"

@@ -3,160 +3,223 @@
     "compliant": "TRUE",
     "gacha_id": 304,
     "name": "Mika Feature Scout",
-    "story_name": "The First Outfit",
-    "story_author": "Yuumasu"
+    "story_name": "First Outfit",
+    "story_author": "Yuumasu",
+    "intro_lines": "The producer goes to Mika to consult him about a plan to make a personalized outfit for him. Mika wants to make the outfit himself and gets time to do so, but in the middle of making it, he gets stuck...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 305,
     "name": "Meowsketeers",
+    "story_name": "Meowsketeers",
+    "story_author": "Kino Seitaro",
     "intro_lines": "Ritsu was napping on ES property. When a bad dream woke him up, a cat was on top of him. After that, the cat wouldn’t go away from him, seeming to have taken a liking to him...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 306,
-    "name": "Tatsumi Feature Scout"
+    "name": "Tatsumi Feature Scout",
+    "story_name": "A Saint’s Bemusement",
+    "intro_lines": "Tatsumi is asked by the producer about a personalized outfit for himself, but, hesitating on the design, he asks for and receives a day to think about it. He runs into Aira, who is taking a break, and...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 307,
     "name": "√ AtoZ",
+    "story_name": "Date Plan",
+    "story_author": "Kino Seitaro",
     "intro_lines": "Chiaki and company are to form a shuffle unit. Gathering together members who seem like they can think up a date plan is tough. And Kaoru doesn’t seem to be his normal self either...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 308,
-    "name": "Ibara Feature Scout"
+    "name": "Ibara Feature Scout",
+    "story_name": "The Attacks and Defenses of the Poisonous Snake",
+    "intro_lines": "Ibara is consulted by the producer about a design for a personalized outfit for him, but the wary Ibara suggests a difficult theme, attempting to test the producer's abilities...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 309,
     "name": "Honey Bee",
-    "story_name": "Honeybee",
+    "story_name": "Honey Bee",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Kohaku decides to compete against Rinne to see who can land a better job for them, even though he's never gotten one on his own before. He throws himself into the search, but he has a hard time finding the kind of work he wants...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 310,
-    "name": "Koga Feature Scout"
+    "name": "Koga Feature Scout",
+    "story_name": "Wolf Will Rock You",
+    "intro_lines": "Koga, who hears about the personalized outfits, tells the producer himself that he wants his own outfit, but he is troubled because he can’t get a \"rock\" design to come together.",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 311,
     "name": "Vagabond",
+    "story_name": "Vagabond",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Kuro has been feeling a strange presence recently, and rumors within ES are ever-growing. Kuro tries to solve the problem on his own, but Souma and Keito won't let him, so the three of them work to uncover the truth together.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 312,
-    "name": "Izumi Feature Scout"
+    "name": "Izumi Feature Scout",
+    "story_name": "Flight of the Fairy",
+    "intro_lines": "The producer comes to discuss Izumi’s personalized outfit. However, he tests the producer, saying he wants to see what kind of image the producer has for him. The producer puts forth a design immediately, but...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 313,
     "name": "Gingerbread House",
+    "story_name": "Hansel and Gretel",
+    "story_author": "Kino Seitaro",
     "intro_lines": "In order to deal with the sweets sent by fans, Ritsu proposes that they host a witch's gathering. The members gather for a fun tea party when Hajime discovers that something peculiar has been mixed in with the other gifts.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 314,
-    "name": "Tori Feature Scout"
+    "name": "Tori Feature Scout",
+    "story_name": "Ideal Self",
+    "intro_lines": "Tori is fired up, as it has come to be his turn to get his own personalized outfit. Although he had an ideal image in mind, the response from Hokuto and the others who saw the finished design was not good, and...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 315,
     "name": "King of Thieves",
+    "story_name": "King of Thieves",
+    "story_author": "Kino Seitaro",
     "intro_lines": "Switch was spending a friendly afternoon together. However, they can’t find some lab equipment while working on moving things, and Tsumugi makes Natsume angry. Sora takes action to try to resolve things, but...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 317,
-    "name": "Mao Feature Scout"
+    "name": "Mao Feature Scout",
+    "story_name": "After School, Youth, and the Student Council",
+    "intro_lines": "While performing his work as usual, Mao thinks about his own personalized outfit. Mao, facing the producer in the midst of his busy everyday life, was...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 318,
     "name": "Beast Survival",
+    "story_name": "Beast Survival",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Jun is requested by name to act in a play. He's chosen to play a hyena prince, but he has some trouble understanding the inner workings of animals. After asking an acquaintance for advice, a game of make-believe in the savannah begins...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 319,
-    "name": "Hokuto Feature Scout"
+    "name": "Hokuto Feature Scout",
+    "story_name": "My Dream is to One Day Surpass You",
+    "intro_lines": "Hokuto was consulted about a personalized outfit for him before the recording of a TV program with his father. It seems that Hokuto, having seen a video of his father from the past, has discovered a direction for his own outfit, and...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 320,
     "name": "Dollhouse",
+    "story_name": "Dollhouse",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Midori hears someone's cry for help, and when he goes to check it out, he finds Mika chasing after Daikichi. They go into a warehouse after him, but the door gets stuck...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 321,
-    "name": "Mitsuru Feature Scout"
+    "name": "Mitsuru Feature Scout",
+    "story_name": "Future Superstar☆",
+    "intro_lines": "Wanting an outfit that reflects who he is, Mitsuru conveys his wish regarding a personalized outfit, but his image of a \"superstar\" is vague. When he consults the members of his circle...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 322,
     "name": "Dead End Land",
+    "story_name": "Dead End Land",
+    "story_author": "Kino Seitaro",
     "intro_lines": "The ninja association is asked to assist at a theme restaurant. However, Mayoi can't handle the crowd and runs away.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 323,
-    "name": "HiMERU Feature Scout"
+    "name": "HiMERU Feature Scout",
+    "story_name": "Past, Present and...",
+    "intro_lines": "HiMERU finds something he is interested in using for his personalized outfit among the materials he had once used. It was an outfit that had been considered among others, but had not been made, and...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 324,
     "name": "Summer Snow",
+    "story_name": "Summer Snow",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Rei hears a rumor that there's a youkai within ES that pulls people into the water, so he and Hinata seek out Kanata to find out the truth—and get caught up in a seemingly unavoidable situation.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 325,
-    "name": "Souma Feature Scout"
+    "name": "Souma Feature Scout",
+    "story_name": "After the Summer Rain",
+    "intro_lines": "Souma enthusiastically consults with the producer about a personalized outfit. Souma says he has a design he wants to use for the outfit, but there is a reason he cannot just use it, and he hesitates.",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 326,
     "name": "Flowers of the Wasteland",
+    "story_name": "Flowers of the Wasteland",
+    "story_author": "Kino Seitaro",
     "intro_lines": "Nagisa pays a visit to Yumenosaki Academy, where he finds the basketball club in the middle of practice. They talk a little bit, but Nagisa's eye is on something else...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 327,
-    "name": "Shinobu Feature Scout"
+    "name": "Shinobu Feature Scout",
+    "story_name": "Dear Me, Before I Became a Ninja",
+    "intro_lines": "The personalized outfits steadily progress. Shinobu is asked about his requests by the producer, and decides to answer later. During a conversation with Tetora, he thinks back on his time as a child who admired ninjas.",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 328,
     "name": "Tsukimigatari",
+    "story_name": "Tsukimigatari",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Feeling lonely, Adonis tells some stories about his family. Nazuna tries to cheer him up by telling him the story of the rabbit on the moon, but Adonis takes him seriously, and Nazuna gets backed into a corner.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 329,
-    "name": "Arashi Feature Scout"
+    "name": "Arashi Feature Scout",
+    "story_name": "I'm Just Me",
+    "intro_lines": "Arashi is happily making progress on a personalized outfit with the producer. When she asks Tsukasa, who was interested in it and had come along, for his opinion, Arashi receives an unexpected impression.",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 330,
     "name": "Werewolf",
+    "story_name": "Werewolf",
+    "story_author": "Nishioka Maiko",
     "intro_lines": "Natsume and friends are playing Werewolf in the dorms. Hiyori and some others join in the fun, but soon Sora begins acting strangely...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -167,8 +230,10 @@
     "compliant": "TRUE",
     "gacha_id": 332,
     "name": "Spy THE Mission",
+    "story_name": "Spy THE Mission",
+    "story_author": "Kino Seitaro",
     "intro_lines": "Eichi steals some of Keito's doujinshi to act as a diversion. However, it disappears from the bookshelf where he'd temporarily hidden it. In its place rests a letter...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -179,8 +244,10 @@
     "compliant": "TRUE",
     "gacha_id": 334,
     "name": "Halloween BOX",
+    "story_name": "Sweets Box",
+    "story_author": "Kino Seitaro",
     "intro_lines": "Hinata is feeling down after quarrelling with Yuuta and goes to talk to Hiiro. Upon hearing what Niki has to say, Hinata thinks of a plan for them to make up.",
-    "intro_lines_tl_credits": "iridesenescence"
+    "intro_lines_tl_credit": "iridesenescence"
   },
   {
     "compliant": "TRUE",
@@ -194,7 +261,7 @@
     "story_name": "Turn of the Century Wars",
     "story_author": "Nishoka Maiko",
     "intro_lines": "Tetora is preparing for his promotion exam for the Karate Club. Though he's giving his all during lessons and training sessions, he finds himself getting nowhere. Koga, who sees this, proposes a Dragon King Competition!",
-    "intro_lines_tl_credits": "iridesenescence"
+    "intro_lines_tl_credit": "iridesenescence"
   },
   {
     "compliant": "TRUE",
@@ -208,7 +275,7 @@
     "story_name": "Butlers",
     "story_author": "Kino Seitaro",
     "intro_lines": "As part of the cross agency plan, Makoto and the others arrive at the chalk white mansion to film a movie. The filming seems to be going well, but Izumi's fastidiousness results in retakes. They lodge together while trying to get into character.",
-    "intro_lines_tl_credits": "iridesenescence"
+    "intro_lines_tl_credit": "iridesenescence"
   },
   {
     "compliant": "TRUE",
@@ -222,7 +289,7 @@
     "story_name": "Merry Xmas",
     "story_author": "Nishioka Maiko",
     "intro_lines": "Tori and others are gathered for the Shuffle Unit project. However, the project manager goes missing. They end up having to plan the project themselves, but some minor things cause Tori to feel concerned about how Aira is doing...",
-    "intro_lines_tl_credits": "iridesenescence"
+    "intro_lines_tl_credit": "iridesenescence"
   },
   {
     "compliant": "TRUE",
@@ -236,7 +303,7 @@
     "story_name": "Ushimairi (Part One)",
     "story_author": "Kino Seitaro",
     "intro_lines": "Tomoya's proposal is accepted and he is entrusted with a segment on a horror program, but the rumour they had been hoping to make use of is a bust. Then, Rei declares he has a good idea, and begins to speak...",
-    "intro_lines_tl_credits": "iridesenescence"
+    "intro_lines_tl_credit": "iridesenescence"
   },
   {
     "compliant": "TRUE",
@@ -250,7 +317,7 @@
     "story_name": "Ushimairi (Part Two)",
     "story_author": "Kino Seitaro",
     "intro_lines": "Alkaloid, who are packing up their things to move out of the old Seisoukan building. They safely move into the new dormitory, but Yuzuru finds a wooden carving that it seems was left behind. He looks for it's owner, but no one seems to know. ",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -264,7 +331,7 @@
     "story_name": "White Lily",
     "story_author": "Nishioka Maiko",
     "intro_lines": "Hiiro and company, who are summoned by Eichi. They are selected for a gravure photo shoot for a magazine, but they cannot get the idea of the “princely” boy that is the theme for it, and they come to struggle with it.",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -278,7 +345,7 @@
     "story_name": "Sweet Hunt",
     "story_author": "Kino Seitaro",
     "intro_lines": "Mao and Ritsu found Niki, who had collapsed from hunger, and the sugar of the cola they gave him allowed him to recover. He is moved by the inexpressible flavor of the homemade cola, and asks for the recipe, but...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -292,7 +359,7 @@
     "story_name": "Fake Phantom Thieves",
     "story_author": "Nishioka Maiko",
     "intro_lines": "An expensive painting that had been used in a TV show was brought into the Starmony Dorm. Hinata and company mess around with making copies of the painting, but the picture that Mika draws looks exactly like the real one, and...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -306,7 +373,7 @@
     "story_name": "Spring Bed",
     "story_author": "Kino Seitaro",
     "intro_lines": "Subaru went to the hospital to visit the producer. He finds a Nemophila flower there. He is told the deep meaning it has in flower language, but the reason he was told it is a secret, and...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -320,7 +387,7 @@
     "story_name": "RELOADED",
     "story_author": "Akira",
     "intro_lines": "Tomoya and Izumi were, due to certain circumstances, trying to stay out of sight. However, they were spotted by Nazuna and Kanata and hid themselves in a panic. With hands connected by handcuffs...",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -334,7 +401,7 @@
     "story_name": "ASOBI Club",
     "story_author": "Yuumasu",
     "intro_lines": "An email was delivered to the student council’s comment box. It was a request to teach kindergarten children about games from the old days, so Shinobu consults the ASOBI Club members.",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -348,7 +415,7 @@
     "story_name": "Pretty Mission",
     "story_author": "Akira",
     "intro_lines": "Tori seems out of sorts during the regular Pretty 5 meeting. When Arashi half-forces him outside and confronts him about it, he says that the topic of formal marriage matchmaking has come up for him.",
-    "intro_lines_tl_credits": "doublerainbow82"
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -362,7 +429,7 @@
     "story_name": "Budding Spring→Ride ON!",
     "story_author": "Kino Seitaro",
     "intro_lines": "Tsukasa and the others are asked to appear in a promotional video for a bicycle manufacturer. High in spirits, they decide to take a break and hang out at a restaurant during their filming...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -376,7 +443,7 @@
     "story_name": "Burning Azaleas ",
     "story_author": "Yuumasu",
     "intro_lines": "Rei reveals that he's dissatisfied at one of the regularly-held Summit meetings. But when he sees the azaleas that Tsumugi brought, he comes up with a little plan.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -390,7 +457,7 @@
     "story_name": "Ring",
     "story_author": "Nishioka Maiko",
     "intro_lines": "Midori and Mao happen upon the producer after school one day at a bookstore, happily picking out a wedding magazine... From this they conclude that she is about to get married.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -404,7 +471,7 @@
     "story_name": "GemSphere",
     "story_author": "Yuumasu",
     "intro_lines": "A \"certain box\" brought out during a segment of a variety show ends up never being opened. Nazuna's interest is piqued, and he asks if he and the others can open it themselves.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -418,7 +485,7 @@
     "story_name": "Prison Breakers",
     "story_author": "Nishioka Maiko",
     "intro_lines": "Makoto and co. happen to see Koga and Tori penny-pinching for lunch. When pressed about the situation, the two admit to being in need of some money they earned by themselves. That's when they're introduced to a show that gives a cash prize...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -432,7 +499,7 @@
     "story_name": "Frontline Watchdogs",
     "story_author": "Yuumasu",
     "intro_lines": "Hiyori kicks up a fuss about bringing his pet dog with him to the countryside for a shoot. Ibara tries to persuade him to give it up, but that only ends up with him taking care of her in Hiyori's absence.",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -446,7 +513,7 @@
     "story_name": "Roaring Sea Marina",
     "story_author": "Umeda Chitose",
     "intro_lines": "Izumi and the others are set to go to a tropical island to do a PR shoot for travel goods. They're given an assignment to take some candids of their own, but they all end up looking really awkward...",
-    "intro_lines_tl_credits": "bluefilaments"
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -797,7 +864,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 428,
-    "name": "PORTRAIT - Look back -"
+    "name": "PORTRAIT - Look back -",
+    "story_name": "PORTRAIT",
+    "story_author": "Akira",
+    "intro_lines": "Time has passed, and the truth of a \"certain incident\" is revealed in an interview. This is the story of three child models and a gravure model."
   },
   {
     "compliant": "FALSE",
@@ -807,6 +877,9 @@
   {
     "compliant": "FALSE",
     "gacha_id": 430,
-    "name": "Dolly Knight"
+    "name": "Dolly Knight",
+    "story_name": "Dolly Knight",
+    "story_author": "Kino Seitaro",
+    "intro_lines": "Hajime decides to sell his old toys at the flea market to find them new owners. Adonis, who wants to experience the flea market himself, joins him."
   }
 ]
