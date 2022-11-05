@@ -482,7 +482,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 378,
-    "name": "Fruitful OCTOBER"
+    "name": "Fruitful OCTOBER",
+    "story_name": "Fruitful OCTOBER",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Yuta finds interest in the \"grape juice that grants romantic success\" that was featured in a magazine, and he goes to talk with the producer about it. That's when Kaoru notices them..."
   },
   {
     "compliant": "FALSE",
@@ -492,12 +495,18 @@
   {
     "compliant": "FALSE",
     "gacha_id": 380,
-    "name": "Dramatica"
+    "name": "Dramatica",
+    "story_name": "Dramatica",
+    "story_author": "Yuumasu",
+    "intro_lines": "The theater group Dramatica is organizing their very first show, and Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but..."
   },
   {
     "compliant": "FALSE",
     "gacha_id": 382,
-    "name": "Soleil"
+    "name": "Soleil",
+    "story_name": "Soleil",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Mitsuru and Shu find Tsumugi lying face down on a table in the outfit room. They learn that he's extremely busy preparing a local children's workshop, and, feeling bad for him, they decide to help him out."
   },
   {
     "compliant": "FALSE",
@@ -507,7 +516,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 384,
-    "name": "Detective DANCE (Decadance)"
+    "name": "Detective DANCE (Decadance)",
+    "story_name": "Detective DANCE (Decadance)",
+    "story_author": "Yuumasu",
+    "intro_lines": "Mika and Makoto are nominated for the lead roles of a movie. Mika doesn't have much confidence in his acting. He's encouraged to \"take a break\" by tailing behind Ibara, but..."
   },
   {
     "compliant": "FALSE",
@@ -517,12 +529,18 @@
   {
     "compliant": "FALSE",
     "gacha_id": 386,
-    "name": "Hot Winter"
+    "name": "Hot Winter",
+    "story_name": "Hot Winter",
+    "story_author": "Yuumasu",
+    "intro_lines": "While Izumi was eating lunch in the common room, the most bizarre conversation between Madara and Tatsumi happened before his eyes. According to them, there's some sort of mysterious code plastered on the wall..."
   },
   {
     "compliant": "FALSE",
     "gacha_id": 388,
-    "name": "La Mort"
+    "name": "La Mort",
+    "story_name": "Black Snow",
+    "story_author": "Kino Seitaro",
+    "intro_lines": "The five of them were able to secure cast roles in the movie's audition. However, Ritsu is conflicted about working together with Rei. Rei seems distant all throughout the shooting, but confused as they may be, the other members continue with their roles..."
   },
   {
     "compliant": "FALSE",
@@ -532,7 +550,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 390,
-    "name": "Tiger of the Fifth Earth Star"
+    "name": "Tiger of the Fifth Earth Star",
+    "story_name": "Tiger of the Fifth Earth Star",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Leo hears that Natsume is about to show off his hypnosis skills in the dorms. He's interested and joins the show, but Tetora, who's watching nearby, starts behaving strangely..."
   },
   {
     "compliant": "FALSE",
@@ -542,7 +563,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 392,
-    "name": "Dance of the White Tigerr"
+    "name": "Dance of the White Tiger",
+    "story_name": "Dance of the White Tiger",
+    "story_author": "Yuumasu",
+    "intro_lines": "Subaru and the others are having a snowball fight at Starmony Dorm. They see Rinne nearby loading something onto a truck. Curious, they try to sneak a peek inside..."
   },
   {
     "compliant": "FALSE",
@@ -552,7 +576,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 394,
-    "name": "Astraea's Atelier"
+    "name": "Astraea's Atelier",
+    "story_name": "Astraea's Atelier",
+    "story_author": "Akira",
+    "intro_lines": "Chiaki and Kuro arrive at Paris, where Shu is. The two of them end up staying at Shu's apartment for a few days, until their filming starts."
   },
   {
     "compliant": "FALSE",
@@ -562,7 +589,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 396,
-    "name": "Romantic? Date"
+    "name": "Romantic? Date",
+    "story_name": "Romantic? Date",
+    "story_author": "Akira",
+    "intro_lines": "The idols have been asked to star as characters in the dating sim video game Love★Star. The filming is to be done in pairs, but HiMERU and Tatsumi seem to be having trouble..."
   },
   {
     "compliant": "FALSE",
@@ -572,7 +602,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 398,
-    "name": "Myriad of Colors and Flowers"
+    "name": "Myriad of Colors and Flowers",
+    "story_name": "Myriad of Colors and Flowers",
+    "story_author": "Akira",
+    "intro_lines": "During winter last year... With Repayment Festival on the horizon, Mitsuru searches for Madara. He can't find him anywhere, and instead gets lost in a flower garden he's never seen before."
   },
   {
     "compliant": "FALSE",
@@ -582,7 +615,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 400,
-    "name": "White Brim"
+    "name": "White Brim",
+    "story_name": "White Brim",
+    "story_author": "Akira",
+    "intro_lines": "A certain game is to be hosted at a villa owned by the Tenshouin family. Several people, including Tori, Tsukasa, and Hiyori, are invited to join in the noble game of clam digging..."
   },
   {
     "compliant": "FALSE",
@@ -592,7 +628,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 402,
-    "name": "Whimsical City Rider"
+    "name": "Whimsical City Rider",
+    "story_name": "Whimsical City Rider",
+    "story_author": "Yuumasu",
+    "intro_lines": "Hiyori and the others are talking about a time they filmed in a rural location. A farmer they met there told them that their vegetable harvest was so bountiful that they might have to throw some of it out, and Hiyori volunteered to sell it for them... "
   },
   {
     "compliant": "FALSE",
@@ -602,7 +641,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 404,
-    "name": "Puffy☆Bunny"
+    "name": "Puffy☆Bunny",
+    "story_name": "Easter",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "The springtime event Easter Night has been renewed as Easter Festival. Shinobu and the others learn that there will be a shuffle unit performing. Hinata requests that they form a unit among themselves, but he also wants to include a certain person..."
   },
   {
     "compliant": "FALSE",
@@ -612,7 +654,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 406,
-    "name": "Band BB"
+    "name": "Band BB",
+    "story_name": "Band BB",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Yuta receives a live offer from a live house he used to perform at, but his agency doesn't let him accept it. In order to do something about it, he goes to Koga for advice..."
   },
   {
     "compliant": "FALSE",
@@ -622,7 +667,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 408,
-    "name": "Orient"
+    "name": "Orient",
+    "story_name": "Orient",
+    "story_author": "Yuumasu",
+    "intro_lines": "Midori and co. find a mysterious pair of goggles in the courtyard at Starmony Hall. They think they're part of the VR equipment Natsume had gotten rid of, but when they find out that they still work, they decide to give them a whirl."
   },
   {
     "compliant": "FALSE",
@@ -632,7 +680,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 410,
-    "name": "Sweet Sweet Hunger"
+    "name": "Sweet Sweet Hunger",
+    "story_name": "Sweet Sweet Hunger",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Nagisa shows up to a taste-testing event for sweets that Niki is attending. There, he first hears of a popular dessert called \"Tian Tian,\" which is said to have an indescribable but nonetheless very delicious taste..."
   },
   {
     "compliant": "FALSE",
@@ -642,7 +693,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 412,
-    "name": "Bankara Graffiti"
+    "name": "Bankara Graffiti",
+    "story_name": "Bankara Graffiti",
+    "story_author": "Akira",
+    "intro_lines": "Jun, Kohaku, and the others are appearing on a webcast called \"Bankara School.\" They thought it would be a fun simulation of school life, but it turns out they need to collect \"manliness points,\" and..."
   },
   {
     "compliant": "FALSE",
@@ -652,7 +706,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 414,
-    "name": "Keito Lecture"
+    "name": "Keito Lecture",
+    "story_name": "Keito Lecture",
+    "story_author": "Yuumasu",
+    "intro_lines": "After a study session, Keito deems it necessary to gauge Hiiro's level in general knowledge. With a suggestion from Kuro, they decide to go camping together."
   },
   {
     "compliant": "FALSE",
@@ -662,7 +719,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 416,
-    "name": "Polka Dots"
+    "name": "Polka Dots",
+    "story_name": "Polka Dots",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Tetora had been helping Hinata take care of the garden at school. As thanks, Hinata heads out to invite him to go to the summer festival together, but he encounters many people along the way..."
   },
   {
     "compliant": "FALSE",
@@ -672,7 +732,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 418,
-    "name": "ANIMALS"
+    "name": "ANIMALS",
+    "story_name": "ANIMALS",
+    "story_author": "Kino Seitaro",
+    "intro_lines": "Tomoya says he's still on the fence about getting a pet. But one night, the words \"Hokuto-senpai\" and \"don't get pet food all over the place\" are heard from his room…"
   },
   {
     "compliant": "FALSE",
@@ -682,7 +745,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 420,
-    "name": "Red Hot Island"
+    "name": "Red Hot Island",
+    "story_name": "Red Hot Island",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Chiaki and the others are invited by Eichi to join a test run of the \"treasure hunt\" at Aquaria Park. Chiaki remembers a promise he made one summer."
   },
   {
     "compliant": "FALSE",
@@ -692,7 +758,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 422,
-    "name": "Butou-kai"
+    "name": "Butou-kai",
+    "story_name": " CROSS FIRE",
+    "story_author": "Kino Seitaro",
+    "intro_lines": "In order to promote the mixed martial arts program CROSS FIRE, Madara and them form a shuffle unit full of muscle men who take pride in their physical strength. As the members gather, Tetora proposes a certain competition to prove that Kuro is the strongest man in Yumenosaki."
   },
   {
     "compliant": "FALSE",
@@ -702,7 +771,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 424,
-    "name": "MIRAGE"
+    "name": "MIRAGE",
+    "story_name": "MIRAGE",
+    "story_author": "Akira",
+    "intro_lines": "2wink receives an offer to appear on Volcano Island once more. But when the brothers are requested to appear together, Yuta comes up with a certain little \"prank\"."
   },
   {
     "compliant": "FALSE",
@@ -712,7 +784,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 426,
-    "name": "Chill Yellow"
+    "name": "Chill Yellow",
+    "story_name": "Chill Yellow",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Hokuto and friends are aiming to audition for a film directed by someone they admire. The only characters in this film are \"bad guys”, so they decide to train in order to act like villains."
   },
   {
     "compliant": "FALSE",
@@ -732,6 +807,6 @@
   {
     "compliant": "FALSE",
     "gacha_id": 430,
-    "name": "Dolly Night"
+    "name": "Dolly Knight"
   }
 ]
