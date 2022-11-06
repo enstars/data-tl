@@ -411,7 +411,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 353,
-    "name": "Rei Feature Scout"
+    "name": "Rei Feature Scout",
+    "story_name": "Sway Amidst the Everlasting Darkness",
+    "intro_lines": "It having become his turn for a personalized outfit, Rei calls upon Ritsu to think of a design for it together. He gets a cold reception, but it seems he has his own idea, and...",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -425,7 +428,9 @@
   {
     "compliant": "TRUE",
     "gacha_id": 355,
-    "name": "Jun Feature Scout"
+    "name": "Jun Feature Scout",
+    "story_name": "Traversing the Wilds, Towards the Horizon",
+    "intro_lines": "Jun thinks about his personalized outfit in advance. As he puzzles over what direction he should go with it, he receives a summons from Hiyori..."
   },
   {
     "compliant": "TRUE",
@@ -439,7 +444,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 357,
-    "name": "Adonis Feature Scout"
+    "name": "Adonis Feature Scout",
+    "story_name": "The Song of Wind, the Sound of Sand",
+    "intro_lines": "Adonis saw a design for his personalized outfit which incorporated a motif from his birthplace. He feels the differences between himself and others, and his feelings waver.",
+    "intro_lines_tl_credit": "doublerainbow82"
   },
   {
     "compliant": "TRUE",
@@ -453,7 +461,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 359,
-    "name": "Natsume Feature Scout"
+    "name": "Natsume Feature Scout",
+    "story_name": "Guidance of the Magia",
+    "intro_lines": "The producer has been unsuccessful in her endeavors lately. Natsume sees how she's doing while waiting for a briefing session and offers to tell her fortune...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -467,7 +478,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 361,
-    "name": "Mayoi Feature Scout"
+    "name": "Mayoi Feature Scout",
+    "story_name": "Lead Me",
+    "intro_lines": "The producer is searching for Mayoi to discuss his personalized outfit, but he's nowhere to be found. Shinobu and co. notice this and then devise a plan.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -481,7 +495,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 363,
-    "name": "Aira Feature Scout"
+    "name": "Aira Feature Scout",
+    "story_name": "Sending My Love",
+    "intro_lines": "Aira is excited that his turn is coming up. He shows Hiiro his plans, but he gets worried when he's suddenly told that his costume doesn't match his image.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -495,7 +512,9 @@
   {
     "compliant": "TRUE",
     "gacha_id": 365,
-    "name": "Makoto Feature Scout"
+    "name": "Makoto Feature Scout",
+    "story_name": "Gathering the Puzzle Pieces",
+    "intro_lines": "Makoto has been contacted about his own personalized outfit. To make it feel more like him, he thinks about his hobbies and personal experiences—but he can't narrow things down, so he finds himself at a loss..."
   },
   {
     "compliant": "TRUE",
@@ -509,7 +528,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 367,
-    "name": "Sora Feature Scout"
+    "name": "Sora Feature Scout",
+    "story_name": "Colorful Surroundings",
+    "intro_lines": "To get ideas for his personalized outfit, Sora goes around asking others what they think his color is. But he gets a lot of different responses, and it turns out to be difficult to make all the colors to complement each other...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -523,7 +545,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 369,
-    "name": "Chiaki Feature Scout"
+    "name": "Chiaki Feature Scout",
+    "story_name": "You're a Hero, Too!",
+    "intro_lines": "Chiaki has been putting a lot of thought into making the best outfit. But all of his ideas are too difficult to implement into an idol's costume, so he decides to head to the amusement park to reconsider what heroes are.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -537,7 +562,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 371,
-    "name": "Hiiro Feature Scout"
+    "name": "Hiiro Feature Scout",
+    "story_name": "What To Don on Stage",
+    "intro_lines": "Hiiro is the only one in ALKALOID who hasn't gotten a personalized outfit, so by the time his turn comes around, he's already thought up a design for it. He asks the people around him what they think, but their responses are lukewarm…",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -551,7 +579,10 @@
   {
     "compliant": "TRUE",
     "gacha_id": 373,
-    "name": "Kohaku Feature Scout"
+    "name": "Kohaku Feature Scout",
+    "story_name": "Sakura, Sakura",
+    "intro_lines": "It’s finally Kohaku’s turn for his personalized outfit. However, since he's unfamiliar with non-traditional clothing, he can't seem to visualize what he wants to wear, and struggles to come up with something by himself.",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -564,7 +595,9 @@
   {
     "compliant": "TRUE",
     "gacha_id": 375,
-    "name": "Subaru Feature Scout"
+    "name": "Subaru Feature Scout",
+    "story_name": "Cluster Star",
+    "intro_lines": "Subaru is ecstatic that it's finally his turn to get his outfit. He leaves the design up to the producer, but since it's such a precious opportunity, he decides to go find a \"special sparkle\" with others."
   },
   {
     "compliant": "FALSE",
@@ -577,7 +610,9 @@
   {
     "compliant": "TRUE",
     "gacha_id": 377,
-    "name": "Tetora Feature Scout"
+    "name": "Tetora Feature Scout",
+    "story_name": "The Path That Will One Day Stretch Out To My Ideal",
+    "intro_lines": "Hinata and the others head over to Tetora when they catch news that he's next. They ask him what he's hoping to see for his outfit, but the only words he can think of is \"something cool\"..."
   },
   {
     "compliant": "FALSE",
@@ -590,7 +625,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 379,
-    "name": "Midori Feature Scout"
+    "name": "Midori Feature Scout",
+    "story_name": "Staying True To Myself",
+    "intro_lines": "Midori feels depressed as soon as he hears it's his turn to receive a personal outfit. Despite the pressure, he tries his best to visualize an outfit idea, but all he can think of are things he'd rather not wear...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -611,7 +649,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 383,
-    "name": "Kanata Feature Scout"
+    "name": "Kanata Feature Scout",
+    "story_name": "everyone and the sea and me",
+    "intro_lines": "Kaoru finds seashells and sequins scattered on the floor of the ES building. Curious, he starts picking them up, and there's someone waiting for him at the end of the trail...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -624,7 +665,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 385,
-    "name": "Yuzuru Feature Scout"
+    "name": "Yuzuru Feature Scout",
+    "story_name": "The Essence of a Butler",
+    "intro_lines": "Yuzuru struggles to properly draw a design for his personal outfit. He tries to consult Keito about it, only to be told there’s nothing unique within the design. As he finds himself at a loss, Midori comes to speak to him…",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -645,7 +689,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 389,
-    "name": "Niki Feature Scout"
+    "name": "Niki Feature Scout",
+    "story_name": "Recipe for Idols",
+    "intro_lines": "Niki, who was busy coming up with a new recipe, completely forgot about his personal outfit. He can't think of any ideas on his own, so he decides to go to town with the producer.",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -658,7 +705,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 391,
-    "name": "Hinata Feature Scout"
+    "name": "Hinata Feature Scout",
+    "story_name": "Daybreak Heliolite",
+    "intro_lines": "Hinata tries to come up with a new design after his personal outfit idea ended up looking similar to Yuta's. As he struggles to figure out what represents him, Wataru and Leo show up...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -671,7 +721,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 393,
-    "name": "Hajime Feature Scout"
+    "name": "Hajime Feature Scout",
+    "story_name": "Singing the Present",
+    "intro_lines": "Hajime is both worried and excited for his very own personalized outfit. He isn't sure what to decide on, and goes to Tomoya for advice.",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -684,7 +737,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 395,
-    "name": "Kuro Feature Scout"
+    "name": "Kuro Feature Scout",
+    "story_name": "Donning the Path That Led Me Here",
+    "intro_lines": "Kuro comes up with a concept for his personalized outfit, but is told that it's not \"Kuro\" enough. He decides to try asking his old classmates for advice.",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -697,7 +753,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 397,
-    "name": "Kaoru Feature Scout"
+    "name": "Kaoru Feature Scout",
+    "story_name": "Bringing in a New Breeze",
+    "intro_lines": "Seeing Kanata plead to Anzu for his personalized outfit makes Kaoru realize he can't wait for his turn. As he's making his way to the agency, thinking about how he should bring it up to Anzu...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -710,7 +769,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 399,
-    "name": "Keito Feature Scout"
+    "name": "Keito Feature Scout",
+    "story_name": "Lotus and Oaths",
+    "intro_lines": "The producer, along with Kuro and some others, visits Keito's family home to discuss his personalized outfit. Keito checks the outfit designs they've brought and they have a peaceful discussion, but...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -723,7 +785,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 401,
-    "name": "Ritsu Feature Scout"
+    "name": "Ritsu Feature Scout",
+    "story_name": "Golden Ring",
+    "intro_lines": "Ritsu is concerned about how personalized outfits are adding to the producer's workload, so he decides to come up with his outfit himself. In order to get ideas, he talks to several people...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -736,7 +801,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 403,
-    "name": "Eichi Feature Scout"
+    "name": "Eichi Feature Scout",
+    "story_name": "Compass of the Heavens",
+    "intro_lines": "Because he kept postponing it, Eichi's turn for his personalized outfit ends up becoming one of the last. He decides to go outside to think about the design and have a change of pace...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -749,7 +817,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 405,
-    "name": "Nagisa Feature Scout"
+    "name": "Nagisa Feature Scout",
+    "story_name": "Eternal Journey",
+    "intro_lines": "Nagisa is asked to comment on the design of his personalized outfit that Ibara prepared, but he gives a very abstract reply. They fail to agree on an idea during that meeting, and decide to search for the answer.",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -762,7 +833,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 407,
-    "name": "Izumi Feature Scout 2"
+    "name": "Izumi Feature Scout 2",
+    "story_name": "Stoic and Egoistic",
+    "intro_lines": "Izumi is being interviewed by the producer for a solo project called Feature Live. However, they overhear that a certain photoshoot isn't going well... ",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -775,7 +849,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 409,
-    "name": "Nazuna Feature Scout 2"
+    "name": "Nazuna Feature Scout 2",
+    "story_name": "Pump it up!",
+    "intro_lines": "Nazuna is thinking about the photoshoot for a brochure that will come out at a concert. He doesn’t want to disappoint anyone, and is worried about which aspect of himself he wants to show. ",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -788,7 +865,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 411,
-    "name": "Tsukasa Feature Scout 2"
+    "name": "Tsukasa Feature Scout 2",
+    "story_name": "A Friend, A Detour, A Way Home",
+    "intro_lines": "Tsukasa receives a request to film his everyday life for a shoot, but he only ever goes straight home. Sora sees him worrying about this and invites Tsukasa to play with him after school...",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -801,7 +881,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 413,
-    "name": "Kanata Feature Scout 2"
+    "name": "Kanata Feature Scout 2",
+    "story_name": "\"me\" research",
+    "intro_lines": "Kanata ponders over places to go for a pamphlet photoshoot. However, he realizes he keeps choosing locations that are all about what he likes, so he decides to try a little reverse brainstorming. ",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -814,7 +897,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 415,
-    "name": "Hajime Feature Scout 2"
+    "name": "Hajime Feature Scout 2",
+    "story_name": "Sunny Song",
+    "intro_lines": "Hajime and his friends practice at a café to take candid photos for a concert pamphlet. However, they are worried about not being able to act natural. ",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -827,7 +913,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 417,
-    "name": "Mayoi Feature Scout 2"
+    "name": "Mayoi Feature Scout 2",
+    "story_name": "Spotlight and Silhouette",
+    "intro_lines": "Upon hearing that he is to perform a solo live, Mayoi panics and runs away. While making his escape, he bumps into Leo and spills his fears about the performance… ",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -840,7 +929,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 419,
-    "name": "Ibara Feature Scout 2"
+    "name": "Ibara Feature Scout 2",
+    "story_name": "Mellow Tactician",
+    "intro_lines": "The Feature Live meeting proceeds according to Ibara’s proposal, but it seems like the producer has some suggestions regarding the presentation of the pamphlet... ",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -853,7 +945,9 @@
   {
     "compliant": "FALSE",
     "gacha_id": 421,
-    "name": "Mao Feature Scout 2"
+    "name": "Mao Feature Scout 2",
+    "story_name": "Youthful Player",
+    "intro_lines": "Mao is checking over the sample for the live brochures, but he seems dissatisfied with the photos that are being used. He decides to try and rethink which special moments he wants to show."
   },
   {
     "compliant": "FALSE",
@@ -866,7 +960,10 @@
   {
     "compliant": "FALSE",
     "gacha_id": 423,
-    "name": "Tori Feature Scout 2"
+    "name": "Tori Feature Scout 2",
+    "story_name": "Footprints of Happiness",
+    "intro_lines": "Everyone around Tori is looking forward to his Feature Live, and he begins to worry about how he should show himself off when he's the only one in the spotlight.",
+    "intro_lines_tl_credit": "enstarsENG"
   },
   {
     "compliant": "FALSE",
@@ -879,7 +976,9 @@
   {
     "compliant": "FALSE",
     "gacha_id": 425,
-    "name": "Rei Feature Scout 2"
+    "name": "Rei Feature Scout 2",
+    "story_name": "Moonlit King",
+    "intro_lines": "The producer is dissatisfied with the photos taken for Rei's Feature Live, which all ended up being laid-back candids. Rei decides to reconsider..."
   },
   {
     "compliant": "FALSE",
@@ -892,7 +991,9 @@
   {
     "compliant": "FALSE",
     "gacha_id": 427,
-    "name": "Rinne Feature Scout 2"
+    "name": "Rinne Feature Scout 2",
+    "story_name": "A New Game Rolls Around",
+    "intro_lines": "When Rinne doesn't show up for a scheduled meeting with the Producer, the members of Crazy:B help look for him. But it seems like he has dozed off…"
   },
   {
     "compliant": "FALSE",
@@ -905,7 +1006,9 @@
   {
     "compliant": "FALSE",
     "gacha_id": 429,
-    "name": "Sora Feature Scout 2"
+    "name": "Sora Feature Scout 2",
+    "story_name": "Sora's Reds Yellows and Blues",
+    "intro_lines": "Sora is asked what he'd like to do for his pamphlet photoshoot. He requests that he go someplace with Natsume and Tsumugi where they can interact with animals…"
   },
   {
     "compliant": "FALSE",
