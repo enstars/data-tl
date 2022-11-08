@@ -9555,438 +9555,621 @@
     "name": "Ibara Saegusa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3187,
+    "title": "A Quiet Solitary Stage",
     "name": "Mayoi Ayase"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3188,
+    "title": "Auspiciousness and Gods",
     "name": "Rinne Amagi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3189,
+    "title": "Investigation of the Unidentified",
     "name": "Makoto Yuuki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3190,
+    "title": "Trotting Roll Caller",
     "name": "Chiaki Morisawa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3191,
+    "title": "Trotting Guide",
     "name": "Kanata Shinkai"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3192,
+    "title": "Trotting Greeter",
     "name": "Tetora Nagumo"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3193,
+    "title": "Trotting Worker",
     "name": "Midori Takamine"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3194,
+    "title": "Trotting Inspector",
     "name": "Shinobu Sengoku"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3195,
+    "title": "Trotting Verifier",
     "name": "Tomoya Mashiro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3196,
+    "title": "Trotting Cheerleader",
     "name": "Nazuna Nito"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3197,
+    "title": "Trotting Mover",
     "name": "Mitsuru Tenma"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3198,
+    "title": "Trotting Packager",
     "name": "Hajime Shino"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3199,
+    "title": "Sunshine in a Foreign Country",
     "name": "Leo Tsukinaga"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3200,
+    "title": "Vacation under the Sunshine",
     "name": "Tsukasa Suou"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3201,
+    "title": "Contest in the Sunshine",
     "name": "Izumi Sena"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3202,
+    "title": "Resistance to the Sunshine",
     "name": "Ritsu Sakuma"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3203,
+    "title": "Defying the Sunshine",
     "name": "Arashi Narukami"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3204,
+    "title": "Lively Animals",
     "name": "Subaru Akehoshi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3205,
+    "title": "Cheerful Animals",
     "name": "Wataru Hibiki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3206,
+    "title": "Earnest Animals",
     "name": "Koga Oogami"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3207,
+    "title": "Studious Animals",
     "name": "Tomoya Mashiro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3208,
+    "title": "Friendly Animals",
     "name": "Nazuna Nito"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3209,
+    "title": "A Solo Gambit of Temptation",
     "name": "Ibara Saegusa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3210,
+    "title": "Ever-Changing",
     "name": "HiMERU"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3211,
+    "title": "A Different Kind Of Activity",
     "name": "Souma Kanzaki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3212,
+    "title": "Bewildered Sports Festival",
     "name": "Aira Shiratori"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3213,
+    "title": "Optimistic Sports Festival",
     "name": "Tomoya Mashiro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3214,
+    "title": "Sports Festival Plans",
     "name": "Makoto Yuuki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3215,
+    "title": "Sports Festival Specialty",
     "name": "Sora Harukawa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3216,
+    "title": "Exciting Sports Festival",
     "name": "Subaru Akehoshi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3217,
+    "title": "First Sports Festival",
     "name": "Hiiro Amagi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3218,
+    "title": "Crowded Sports Festival",
     "name": "Mayoi Ayase"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3219,
+    "title": "Advantageous Sports Festival",
     "name": "Yuuta Aoi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3220,
+    "title": "Red Hot Summer",
     "name": "Chiaki Morisawa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3221,
+    "title": "Red Hot Memories",
     "name": "Eichi Tenshouin"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3222,
+    "title": "Red Hot Fun",
     "name": "Kaoru Hakaze"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3223,
+    "title": "Red Hot Invitation",
     "name": "Leo Tsukinaga"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3224,
+    "title": "Crossover of My State and Your Gaze",
     "name": "Mao Isara"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3225,
+    "title": "Testing Out Stones",
     "name": "Nagisa Ran"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3226,
+    "title": "Manga Talk",
     "name": "Midori Takamine"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3227,
+    "title": "Flame Within the Fist",
     "name": "Kuro Kiryu"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3228,
+    "title": "Fighting Spirit's Flame",
     "name": "Tetora Nagumo"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3229,
+    "title": "Gallant Flame",
     "name": "Adonis Otogari"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3230,
+    "title": "Cheerfully Dancing Flame",
     "name": "Madara Mikejima"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3231,
+    "title": "Honest Flame",
     "name": "Jun Sazanami"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3232,
+    "title": "An Inspiration for Someone Out There",
     "name": "Tori Himemiya"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3233,
+    "title": "Cycle of Delicacy",
     "name": "Niki Shiina"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3234,
+    "title": "Laundry Meeting",
     "name": "Hokuto Hidaka"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3235,
+    "title": "Tell Your Song",
     "name": "Hinata Aoi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3236,
+    "title": "Tell Your Rhythm",
     "name": "Yuuta Aoi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3237,
+    "title": "Tell Your Belief",
     "name": "Natsume Sakasaki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3238,
+    "title": "Tell Your Fortune",
     "name": "Tsumugi Aoba"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3239,
+    "title": "Tell Your Heart",
     "name": "Sora Harukawa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3240,
+    "title": "Determined Card",
     "name": "Hiiro Amagi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3241,
+    "title": "Observing Card",
     "name": "Mayoi Ayase"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3242,
+    "title": "Sympathetic Card",
     "name": "Aira Shiratori"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3243,
+    "title": "Reminiscing Card",
     "name": "Tatsumi Kazehaya"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3244,
+    "title": "A Figure Like a Mirage",
     "name": "Yuuta Aoi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3245,
+    "title": "A Wish Within a Mirage",
     "name": "Shinobu Sengoku"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3246,
+    "title": "Mirage and Hesitation",
     "name": "Hinata Aoi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3247,
+    "title": "Mirage and Retrospection",
     "name": "Koga Oogami"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3248,
+    "title": "A Place Close to the Night Sky",
     "name": "Rei Sakuma"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3249,
+    "title": "Taste of a New Dish",
     "name": "Kanata Shinkai"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3250,
+    "title": "Eye-catching Mannerisms",
     "name": "Jun Sazanami"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3251,
+    "title": "Land and Continent",
     "name": "Midori Takamine"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3252,
+    "title": "Land and Sun",
     "name": "Mitsuru Tenma"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3253,
+    "title": "Land and Journey",
     "name": "Tetora Nagumo"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3254,
+    "title": "Land and Foreign Country",
     "name": "Hajime Shino"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3255,
+    "title": "Harsh Land",
     "name": "Tori Himemiya"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3256,
+    "title": "Separated Land",
     "name": "Hinata Aoi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3257,
+    "title": "Land of Change",
     "name": "Tomoya Mashiro"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3258,
+    "title": "Open Land",
     "name": "Sora Harukawa"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3259,
+    "title": "Chill Yellow",
     "name": "Hokuto Hidaka"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3260,
+    "title": "Chill Spot",
     "name": "Keito Hasumi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3261,
+    "title": "Chill time",
     "name": "Rinne Amagi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3262,
+    "title": "Chill out",
     "name": "Tsukasa Suou"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3263,
+    "title": "Thrilling City Lights",
     "name": "Rinne Amagi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3264,
+    "title": "Things Not Seen",
     "name": "Tatsumi Kazehaya"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3265,
+    "title": "Cup of Appreciation",
     "name": "Shinobu Sengoku"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3266,
+    "title": "Ghostic Phenomenon",
     "name": "Yuzuru Fushimi"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3267,
+    "title": "Ghostic Experience",
     "name": "Tori Himemiya"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3268,
-    "name": "eichi Tenshouin"
+    "title": "Focused Ghostic",
+    "name": "Eichi Tenshouin"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3269,
+    "title": "Observing Ghostic",
     "name": "Wataru Hibiki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3270,
+    "title": "Childhood PORTRAIT",
     "name": "Makoto Yuuki"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3271,
+    "title": "Graceful PORTRAIT",
     "name": "Izumi Sena"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3272,
+    "title": "Fleeting PORTRAIT",
     "name": "Arashi Narukami"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3273,
+    "title": "Nostalgic PORTRAIT",
     "name": "Akiomi Kunugi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3274,
+    "title": "Gentle Interactions",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3275,
+    "title": "Swinging Day",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3276,
+    "title": "Mr. Doctor",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3277,
+    "title": "Chivalry's Blossom",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3278,
+    "title": "Chivalry's Elegance",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3279,
+    "title": "Chivalry's Wisdom",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3280,
+    "title": "Chivalry's Compassion",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3281,
+    "title": "Chivalry's Heroism",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3282,
+    "title": "Panic-stricken Spider",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3283,
+    "title": "Sweet Spider",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3284,
+    "title": "Mischievous Spider",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3285,
+    "title": "Accompanying Spider",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3286,
+    "title": "Doll and Memories",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3287,
+    "title": "Doll and Attachment",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3288,
+    "title": "Promoting Doll",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3289,
+    "title": "Inheriting Doll",
+    "name": "Mitsuru Tenma"
   }
 ]
