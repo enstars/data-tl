@@ -1077,5 +1077,13 @@
     "story_name": "Dolly Knight",
     "story_author": "Kino Seitaro",
     "intro_lines": "Hajime decides to sell his old toys at the flea market to find them new owners. Adonis, who wants to experience the flea market himself, joins him."
+  },
+  {
+    "compliant": "FALSE",
+    "gacha_id": 431,
+    "name": "Nagisa Feature Scout 2",
+    "story_name": "Sometimes, Days Like This Are Also",
+    "intro_lines": "Nagisa comes with Jun to a game center to play. There, he bumps into the Producer, and receives her request to capture this experience in photographs.",
+    "intro_lines_tl_credit": "iridesenescence"
   }
 ]
