@@ -252,7 +252,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 333,
     "name": "Tsukasa Feature Scout",
     "story_name": "As a Knight, As a King",
@@ -261,7 +261,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 334,
     "name": "Halloween BOX",
     "story_name": "Sweets Box",
@@ -270,7 +270,7 @@
     "intro_lines_tl_credit": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 335,
     "name": "Wataru Feature Scout",
     "story_name": "That Which is Reflected in Your Eyes",
@@ -279,7 +279,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 336,
     "name": "Turn of the Century Wars",
     "story_name": "Turn of the Century Wars",
@@ -288,7 +288,7 @@
     "intro_lines_tl_credit": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 337,
     "name": "Shu Feature Scout",
     "story_name": "Distant Haute Couture",
@@ -297,7 +297,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 338,
     "name": "XXVeil",
     "story_name": "Butlers",
@@ -306,7 +306,7 @@
     "intro_lines_tl_credit": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 339,
     "name": "Rinne Feature Scout",
     "story_name": "The Bee's Knees",
@@ -315,7 +315,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 340,
     "name": "Branco",
     "story_name": "Merry Xmas",
@@ -324,7 +324,7 @@
     "intro_lines_tl_credit": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 341,
     "name": "Tsumugi Feature Scout",
     "story_name": "The Song Spun at Blue Hour",
@@ -333,7 +333,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 342,
     "name": "Ushimairi (Part One)",
     "story_name": "Ushimairi (Part One)",
@@ -342,7 +342,7 @@
     "intro_lines_tl_credit": "iridesenescence"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 343,
     "name": "Leo Feature Scout",
     "story_name": "Genius Concerto",
@@ -351,7 +351,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 344,
     "name": "Ushimairi (Part Two)",
     "story_name": "Ushimairi (Part Two)",
@@ -360,7 +360,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 345,
     "name": "Nazuna Feature Scout",
     "story_name": "Flowers Need Time to Bloom",
@@ -369,7 +369,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 346,
     "name": "White Lily",
     "story_name": "White Lily",
@@ -378,7 +378,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 347,
     "name": "Hiyori Feature Scout",
     "story_name": "Glowing Red, Brilliantly",
@@ -387,7 +387,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 348,
     "name": "Sweet Hunt",
     "story_name": "Sweet Hunt",
@@ -396,7 +396,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 349,
     "name": "Yuta Feature Scout",
     "story_name": "Twilight Malachite",
@@ -405,7 +405,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 350,
     "name": "Fake Phantom Thieves",
     "story_name": "Fake Phantom Thieves",
@@ -414,7 +414,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 351,
     "name": "Madara Feature Scout",
     "story_name": "The Festive Melodies Beckon",
@@ -423,7 +423,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 352,
     "name": "Spring Bed",
     "story_name": "Spring Bed",
@@ -432,7 +432,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 353,
     "name": "Rei Feature Scout",
     "story_name": "Sway Amidst the Everlasting Darkness",
@@ -441,7 +441,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 354,
     "name": "RELOADED",
     "story_name": "RELOADED",
@@ -450,7 +450,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 355,
     "name": "Jun Feature Scout",
     "story_name": "Traversing the Wilds, Towards the Horizon",
@@ -458,7 +458,7 @@
     "intro_lines": "Jun thinks about his personalized outfit in advance. As he puzzles over what direction he should go with it, he receives a summons from Hiyori..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 356,
     "name": "ASOBI Club",
     "story_name": "ASOBI Club",
@@ -467,7 +467,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 357,
     "name": "Adonis Feature Scout",
     "story_name": "The Song of Wind, the Sound of Sand",
@@ -476,7 +476,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 358,
     "name": "Pretty 5",
     "story_name": "Pretty Mission",
@@ -485,7 +485,7 @@
     "intro_lines_tl_credit": "doublerainbow82"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 359,
     "name": "Natsume Feature Scout",
     "story_name": "Guidance of the Magia",
@@ -494,7 +494,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 360,
     "name": "Budding Spring→Ride ON!",
     "story_name": "Budding Spring→Ride ON!",
@@ -503,7 +503,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 361,
     "name": "Mayoi Feature Scout",
     "story_name": "Lead Me",
@@ -512,7 +512,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 362,
     "name": "Burning Azaleas ",
     "story_name": "Burning Azaleas ",
@@ -521,7 +521,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 363,
     "name": "Aira Feature Scout",
     "story_name": "Sending My Love",
@@ -530,7 +530,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 364,
     "name": "Ring.A.Bell",
     "story_name": "Ring",
@@ -539,7 +539,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 365,
     "name": "Makoto Feature Scout",
     "story_name": "Gathering the Puzzle Pieces",
@@ -547,7 +547,7 @@
     "intro_lines": "Makoto has been contacted about his own personalized outfit. To make it feel more like him, he thinks about his hobbies and personal experiences—but he can't narrow things down, so he finds himself at a loss..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 366,
     "name": "GemSphere",
     "story_name": "GemSphere",
@@ -556,7 +556,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 367,
     "name": "Sora Feature Scout",
     "story_name": "Colorful Surroundings",
@@ -565,7 +565,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 368,
     "name": "Prison Breakers",
     "story_name": "Prison Breakers",
@@ -574,7 +574,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 369,
     "name": "Chiaki Feature Scout",
     "story_name": "You're a Hero, Too!",
@@ -583,7 +583,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 370,
     "name": "Frontline Watchdogs",
     "story_name": "Frontline Watchdogs",
@@ -592,7 +592,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 371,
     "name": "Hiiro Feature Scout",
     "story_name": "What To Don on Stage",
@@ -601,7 +601,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 372,
     "name": "Roaring Sea Marina",
     "story_name": "Roaring Sea Marina",
@@ -610,7 +610,7 @@
     "intro_lines_tl_credit": "bluefilaments"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 373,
     "name": "Kohaku Feature Scout",
     "story_name": "Sakura, Sakura",
@@ -619,7 +619,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 374,
     "name": "Getto Spectacle",
     "story_name": "Kaguya-hime",
@@ -627,7 +627,7 @@
     "intro_lines": "The Shuffle Project this time is themed after Kaguya-hime as a tie-in with a popular educational TV program. The five members plan to lodge together, but they can't seem to get in sync. It's then when Hiyori reveals a secret to the other members..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 375,
     "name": "Subaru Feature Scout",
     "story_name": "Cluster Star",
@@ -635,7 +635,7 @@
     "intro_lines": "Subaru is ecstatic that it's finally his turn to get his outfit. He leaves the design up to the producer, but since it's such a precious opportunity, he decides to go find a \"special sparkle\" with others."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 376,
     "name": "One-Man Army",
     "story_name": "One-Man Army",
@@ -643,7 +643,7 @@
     "intro_lines": "Mao confronts Souma about his sword due to complaints he received from some first-year students. However, they fail to come to an agreement, and upon Subaru's suggestion, Souma decides to go with a fully defensive strategy."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 377,
     "name": "Tetora Feature Scout",
     "story_name": "The Path That Will One Day Stretch Out To My Ideal",
@@ -651,7 +651,7 @@
     "intro_lines": "Hinata and the others head over to Tetora when they catch news that he's next. They ask him what he's hoping to see for his outfit, but the only words he can think of is \"something cool\"..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 378,
     "name": "Fruitful OCTOBER",
     "story_name": "Fruitful OCTOBER",
@@ -659,7 +659,7 @@
     "intro_lines": "Yuta finds interest in the \"grape juice that grants romantic success\" that was featured in a magazine, and he goes to talk with the producer about it. That's when Kaoru notices them..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 379,
     "name": "Midori Feature Scout",
     "story_name": "Staying True To Myself",
@@ -668,7 +668,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 380,
     "name": "Dramatica",
     "story_name": "Dramatica",
@@ -676,7 +676,7 @@
     "intro_lines": "The theater group Dramatica is organizing their very first show, and Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 382,
     "name": "Soleil",
     "story_name": "Soleil",
@@ -684,7 +684,7 @@
     "intro_lines": "Mitsuru and Shu find Tsumugi lying face down on a table in the outfit room. They learn that he's extremely busy preparing a local children's workshop, and, feeling bad for him, they decide to help him out."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 383,
     "name": "Kanata Feature Scout",
     "story_name": "everyone and the sea and me",
@@ -693,7 +693,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 384,
     "name": "Detective DANCE (Decadance)",
     "story_name": "Detective DANCE (Decadance)",
@@ -701,7 +701,7 @@
     "intro_lines": "Mika and Makoto are nominated for the lead roles of a movie. Mika doesn't have much confidence in his acting. He's encouraged to \"take a break\" by tailing behind Ibara, but..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 385,
     "name": "Yuzuru Feature Scout",
     "story_name": "The Essence of a Butler",
@@ -710,7 +710,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 386,
     "name": "Hot Winter",
     "story_name": "Hot Winter",
@@ -718,7 +718,7 @@
     "intro_lines": "While Izumi was eating lunch in the common room, the most bizarre conversation between Madara and Tatsumi happened before his eyes. According to them, there's some sort of mysterious code plastered on the wall..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 388,
     "name": "La Mort",
     "story_name": "Black Snow",
@@ -726,7 +726,7 @@
     "intro_lines": "The five of them were able to secure cast roles in the movie's audition. However, Ritsu is conflicted about working together with Rei. Rei seems distant all throughout the shooting, but confused as they may be, the other members continue with their roles..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 389,
     "name": "Niki Feature Scout",
     "story_name": "Recipe for Idols",
@@ -735,7 +735,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 390,
     "name": "Tiger of the Fifth Earth Star",
     "story_name": "Tiger of the Fifth Earth Star",
@@ -743,7 +743,7 @@
     "intro_lines": "Leo hears that Natsume is about to show off his hypnosis skills in the dorms. He's interested and joins the show, but Tetora, who's watching nearby, starts behaving strangely..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 391,
     "name": "Hinata Feature Scout",
     "story_name": "Daybreak Heliolite",
@@ -752,7 +752,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 392,
     "name": "Dance of the White Tiger",
     "story_name": "Dance of the White Tiger",
@@ -760,7 +760,7 @@
     "intro_lines": "Subaru and the others are having a snowball fight at Starmony Dorm. They see Rinne nearby loading something onto a truck. Curious, they try to sneak a peek inside..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 393,
     "name": "Hajime Feature Scout",
     "story_name": "Singing the Present",
@@ -769,7 +769,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 394,
     "name": "Astraea's Atelier",
     "story_name": "Astraea's Atelier",
@@ -777,7 +777,7 @@
     "intro_lines": "Chiaki and Kuro arrive at Paris, where Shu is. The two of them end up staying at Shu's apartment for a few days, until their filming starts."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 395,
     "name": "Kuro Feature Scout",
     "story_name": "Donning the Path That Led Me Here",
@@ -786,7 +786,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 396,
     "name": "Romantic? Date",
     "story_name": "Romantic? Date",
@@ -794,7 +794,7 @@
     "intro_lines": "The idols have been asked to star as characters in the dating sim video game Love★Star. The filming is to be done in pairs, but HiMERU and Tatsumi seem to be having trouble..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 397,
     "name": "Kaoru Feature Scout",
     "story_name": "Bringing in a New Breeze",
@@ -803,7 +803,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 398,
     "name": "Myriad of Colors and Flowers",
     "story_name": "Myriad of Colors and Flowers",
@@ -811,7 +811,7 @@
     "intro_lines": "During winter last year... With Repayment Festival on the horizon, Mitsuru searches for Madara. He can't find him anywhere, and instead gets lost in a flower garden he's never seen before."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 399,
     "name": "Keito Feature Scout",
     "story_name": "Lotus and Oaths",
@@ -820,7 +820,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 400,
     "name": "White Brim",
     "story_name": "White Brim",
@@ -828,7 +828,7 @@
     "intro_lines": "A certain game is to be hosted at a villa owned by the Tenshouin family. Several people, including Tori, Tsukasa, and Hiyori, are invited to join in the noble game of clam digging..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 401,
     "name": "Ritsu Feature Scout",
     "story_name": "Golden Ring",
@@ -837,7 +837,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 402,
     "name": "Whimsical City Rider",
     "story_name": "Whimsical City Rider",
@@ -845,7 +845,7 @@
     "intro_lines": "Hiyori and the others are talking about a time they filmed in a rural location. A farmer they met there told them that their vegetable harvest was so bountiful that they might have to throw some of it out, and Hiyori volunteered to sell it for them... "
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 403,
     "name": "Eichi Feature Scout",
     "story_name": "Compass of the Heavens",
@@ -854,7 +854,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 404,
     "name": "Puffy☆Bunny",
     "story_name": "Easter",
@@ -862,7 +862,7 @@
     "intro_lines": "The springtime event Easter Night has been renewed as Easter Festival. Shinobu and the others learn that there will be a shuffle unit performing. Hinata requests that they form a unit among themselves, but he also wants to include a certain person..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 405,
     "name": "Nagisa Feature Scout",
     "story_name": "Eternal Journey",
@@ -871,7 +871,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 406,
     "name": "Band BB",
     "story_name": "Band BB",
@@ -879,7 +879,7 @@
     "intro_lines": "Yuta receives a live offer from a live house he used to perform at, but his agency doesn't let him accept it. In order to do something about it, he goes to Koga for advice..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 407,
     "name": "Izumi Feature Scout 2",
     "story_name": "Stoic and Egoistic",
@@ -888,7 +888,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 408,
     "name": "Orient",
     "story_name": "Orient",
@@ -896,7 +896,7 @@
     "intro_lines": "Midori and co. find a mysterious pair of goggles in the courtyard at Starmony Hall. They think they're part of the VR equipment Natsume had gotten rid of, but when they find out that they still work, they decide to give them a whirl."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 409,
     "name": "Nazuna Feature Scout 2",
     "story_name": "Pump it up!",
@@ -905,7 +905,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 410,
     "name": "Sweet Sweet Hunger",
     "story_name": "Sweet Sweet Hunger",
@@ -913,7 +913,7 @@
     "intro_lines": "Nagisa shows up to a taste-testing event for sweets that Niki is attending. There, he first hears of a popular dessert called \"Tian Tian,\" which is said to have an indescribable but nonetheless very delicious taste..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 411,
     "name": "Tsukasa Feature Scout 2",
     "story_name": "A Friend, A Detour, A Way Home",
@@ -922,7 +922,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 412,
     "name": "Bankara Graffiti",
     "story_name": "Bankara Graffiti",
@@ -930,7 +930,7 @@
     "intro_lines": "Jun, Kohaku, and the others are appearing on a webcast called \"Bankara School.\" They thought it would be a fun simulation of school life, but it turns out they need to collect \"manliness points,\" and..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 413,
     "name": "Kanata Feature Scout 2",
     "story_name": "\"me\" research",
@@ -939,7 +939,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 414,
     "name": "Keito Lecture",
     "story_name": "Keito Lecture",
@@ -947,7 +947,7 @@
     "intro_lines": "After a study session, Keito deems it necessary to gauge Hiiro's level in general knowledge. With a suggestion from Kuro, they decide to go camping together."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 415,
     "name": "Hajime Feature Scout 2",
     "story_name": "Sunny Song",
@@ -956,7 +956,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 416,
     "name": "Polka Dots",
     "story_name": "Polka Dots",
@@ -964,7 +964,7 @@
     "intro_lines": "Tetora had been helping Hinata take care of the garden at school. As thanks, Hinata heads out to invite him to go to the summer festival together, but he encounters many people along the way..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 417,
     "name": "Mayoi Feature Scout 2",
     "story_name": "Spotlight and Silhouette",
@@ -973,7 +973,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 418,
     "name": "ANIMALS",
     "story_name": "ANIMALS",
@@ -981,7 +981,7 @@
     "intro_lines": "Tomoya says he's still on the fence about getting a pet. But one night, the words \"Hokuto-senpai\" and \"don't get pet food all over the place\" are heard from his room…"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 419,
     "name": "Ibara Feature Scout 2",
     "story_name": "Mellow Tactician",
@@ -990,7 +990,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 420,
     "name": "Red Hot Island",
     "story_name": "Red Hot Island",
@@ -998,7 +998,7 @@
     "intro_lines": "Chiaki and the others are invited by Eichi to join a test run of the \"treasure hunt\" at Aquaria Park. Chiaki remembers a promise he made one summer."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 421,
     "name": "Mao Feature Scout 2",
     "story_name": "Youthful Player",
@@ -1006,7 +1006,7 @@
     "intro_lines": "Mao is checking over the sample for the live brochures, but he seems dissatisfied with the photos that are being used. He decides to try and rethink which special moments he wants to show."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 422,
     "name": "Butou-kai",
     "story_name": " CROSS FIRE",
@@ -1014,7 +1014,7 @@
     "intro_lines": "In order to promote the mixed martial arts program CROSS FIRE, Madara and them form a shuffle unit full of muscle men who take pride in their physical strength. As the members gather, Tetora proposes a certain competition to prove that Kuro is the strongest man in Yumenosaki."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 423,
     "name": "Tori Feature Scout 2",
     "story_name": "Footprints of Happiness",
@@ -1023,7 +1023,7 @@
     "intro_lines_tl_credit": "enstarsENG"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 424,
     "name": "MIRAGE",
     "story_name": "MIRAGE",
@@ -1031,7 +1031,7 @@
     "intro_lines": "2wink receives an offer to appear on Volcano Island once more. But when the brothers are requested to appear together, Yuta comes up with a certain little \"prank\"."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 425,
     "name": "Rei Feature Scout 2",
     "story_name": "Moonlit King",
@@ -1039,7 +1039,7 @@
     "intro_lines": "The producer is dissatisfied with the photos taken for Rei's Feature Live, which all ended up being laid-back candids. Rei decides to reconsider..."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 426,
     "name": "Chill Yellow",
     "story_name": "Chill Yellow",
@@ -1047,7 +1047,7 @@
     "intro_lines": "Hokuto and friends are aiming to audition for a film directed by someone they admire. The only characters in this film are \"bad guys”, so they decide to train in order to act like villains."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 427,
     "name": "Rinne Feature Scout 2",
     "story_name": "A New Game Rolls Around",
@@ -1055,7 +1055,7 @@
     "intro_lines": "When Rinne doesn't show up for a scheduled meeting with the Producer, the members of Crazy:B help look for him. But it seems like he has dozed off…"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 428,
     "name": "PORTRAIT - Look back -",
     "story_name": "PORTRAIT",
@@ -1063,7 +1063,7 @@
     "intro_lines": "Time has passed, and the truth of a \"certain incident\" is revealed in an interview. This is the story of three child models and a gravure model."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 429,
     "name": "Sora Feature Scout 2",
     "story_name": "Sora's Reds Yellows and Blues",
@@ -1071,7 +1071,7 @@
     "intro_lines": "Sora is asked what he'd like to do for his pamphlet photoshoot. He requests that he go someplace with Natsume and Tsumugi where they can interact with animals…"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 430,
     "name": "Dolly Knight",
     "story_name": "Dolly Knight",
@@ -1079,7 +1079,7 @@
     "intro_lines": "Hajime decides to sell his old toys at the flea market to find them new owners. Adonis, who wants to experience the flea market himself, joins him."
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 431,
     "name": "Nagisa Feature Scout 2",
     "story_name": "Sometimes, Days Like This Are Also",
