@@ -193,8 +193,8 @@
     "event_id": 219,
     "name": "Transform! The Comet Show Connecting the Stars",
     "event_gacha": "Ushimairi (Part One)",
-    "intro_lines": "Ryuseitai is being restructured at the request of their agency. Now, Ryuseitai-M and Ryuseitai-N will combine into just one Ryuseitai with other sub-units, but suddenly Chiaki and Kanata announce that they're leaving the unit at their next live...",
-    "intro_lines_tl_credit": "bluefilaments",
+    "intro_lines": "Ryuseitai is reorganized in accordance with orders from their agency. Rysueitai M and Ryuseitai N are fused and end up as Ryuseitai and other separate squads, but then Chiaki and the others announce that they will be withdrawing after their next live...",
+    "intro_lines_tl_credit": "iridesenescence ",
     "song_name": "Suisei HALATION",
     "story_name": "Comet Show",
     "story_author": "Akira"
@@ -290,8 +290,6 @@
     "event_id": 228,
     "name": "Assault! The Labyrinth Bound by Ariadne's Thread",
     "event_gacha": "Budding Spring→Ride ON!",
-    "intro_lines": "Crazy:B are on their way to work in the countryside. But when they arrive at a labyrinth instead, they realize the story is different from what they heard. Now thanks to Ibara, it's a challenge-based variety show, and prizes and penalties have been prepared for each of them...",
-    "intro_lines_tl_credit": "bluefilaments",
     "song_name": "Yubisaki no Ariadne",
     "story_name": "Ariadne",
     "story_author": "Kino Seitaro"
@@ -301,8 +299,6 @@
     "event_id": 229,
     "name": "SS Arc／2nd Stage Submarine",
     "event_gacha": "Burning Azaleas",
-    "intro_lines": "As soon as Akatsuki makes landfall in Okinawa, they're besieged by local idols. Ryuseitai also gets caught up in the battle, and they're devising a plan to break free of the conflict—but they're restricted by respective orders.",
-    "intro_lines_tl_credit": "bluefilaments",
     "story_name": "Submarine",
     "story_author": "Akira"
   },
@@ -311,8 +307,6 @@
     "event_id": 230,
     "name": "SHUFFLE × The Ring That Sounds the Bells",
     "event_gacha": "Ring.A.Bell",
-    "intro_lines": "Midori and Mao happen upon the producer after school one day at a bookstore, happily picking out a wedding magazine... From this they conclude that she is about to get married.",
-    "intro_lines_tl_credit": "bluefilaments",
     "song_name": "Aisle, be with you",
     "story_name": "Ring",
     "story_author": "Nishioka Maiko"
@@ -322,8 +316,8 @@
     "event_id": 231,
     "name": "SS Arc／3rd Stage Secret Service",
     "event_gacha": "GemSphere",
-    "intro_lines": "As last year's SS runners-up, Eden has been seeded into this year's SS and are now spending their time at leisure in Kyushu. But when they receive a cipher from MaM, Ibara infers something from it and sets off for Shikoku—only to find an unexpected person waiting there... ",
-    "intro_lines_tl_credit": "bluefilaments",
+    "intro_lines": "Having earned seed privileges as the runner-up of last year's SS, Eden is enjoying their time in Kyushu. However, they notice a code sent by Madara, who is currently working as MaM. Ibara heads to Shikoku alone, but waiting there is...",
+    "intro_lines_tl_credit": "iridesenescnece",
     "story_name": "Secret Service",
     "story_author": "Akira"
   },
@@ -332,8 +326,6 @@
     "event_id": 232,
     "name": "Aroma＊Veiled Fragrance",
     "event_gacha": "Prison Breakers",
-    "intro_lines": "Knights receives a request to collaborate with a popular brand on a perfume being developed. Since it's her go-to brand, Arashi is overjoyed—but she seems to be hesitant, saying that she needs some time to think it over. The brand also seems to be a longtime favorite of Akiomi's...",
-    "intro_lines_tl_credit": "bluefilaments",
     "song_name": "Mystic Fragrance",
     "story_name": "Fragrance",
     "story_author": "Kino Seitaro"
@@ -343,8 +335,8 @@
     "event_id": 233,
     "name": "SS Arc／4th Stage SHINSEKAI -STRANGE NEW WORLD-",
     "event_gacha": "Frontline Watchdogs",
-    "intro_lines": "During their qualifying rounds in the Tohoku region, Switch proposes a new rule: winner takes all. Valkyrie claims victory, but when they go outside the following day, they step right into a jungle—where they meet a mini-sized Sora.",
-    "intro_lines_tl_credit": "bluefilaments",
+    "intro_lines": "At Switch's proposal, the Tohoku region preliminaries hold a play-off to determine their winner -- following a set of unique rules. Valkyrie seizes victory, but the following day, when they head outside, they are greeted by the sight of a jungle, and a miniature Sora appears before them.",
+    "intro_lines_tl_credit": "iridesenescence",
     "story_name": "SHINSEKAI -STRANGE NEW WORLD-",
     "story_author": "Akira"
   },
@@ -353,8 +345,8 @@
     "event_id": 234,
     "name": "SS Arc／5th Stage Sandstorm",
     "event_gacha": "Roaring Sea Marina",
-    "intro_lines": "UNDEAD and 2wink are set to participate in Chugoku's qualifying rounds... But when Hinata wakes up in the morning, he finds himself in the middle of a desert. All of a sudden Kaoru shows up on a surfboard in search of \"Desert Coins.\"",
-    "intro_lines_tl_credit": "bluefilaments",
+    "intro_lines": "Undead and 2wink are participating in the Chuukoku region's preliminaries... But when Hinata awakens in the morning, he finds himself in a desert. Kaoru comes by on a surfboard, seeking out \"Desert Coins\".",
+    "intro_lines_tl_credit": "iridesenescence",
     "story_name": "Sandstorm",
     "story_author": "Akira"
   },
@@ -642,8 +634,25 @@
     "story_name": "Spider",
     "story_author": "Nishioka Maiko"
   },
-  {},
-  {},
+  {
+    "compliant": "TRUE",
+    "event_id": 264,
+    "name": "SHUFFLE × A Cup of Rest and Cafeteria",
+    "event_gacha": "BLEND+",
+    "intro_lines": "Shu hears from Tsumugi that his favourite cafe is in danger of closing up shop. In order to protect his place of relaxation, he looks for a way to help the cafe survive.",
+    "song_name": "Heart aid Cafeteria",
+    "story_name": "Autumn Cafeteria",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 265,
+    "name": "Vowing Yumenosaki／The Final Mystery and StarFes",
+    "event_gacha": "Secret Jeweller",
+    "intro_lines": "Preparations begin for the Starlight Festival, Yumenosaki's final event of the year. It seems like it'll be a peaceful Christmas event, but Shinobu worries as Mayoi is nowhere to be found…",
+    "story_name": "Black Jack",
+    "story_author": "Akira"
+  },
   {},
   {},
   {},
