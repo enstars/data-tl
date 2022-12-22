@@ -855,21 +855,6 @@
     "height_old": "172 cm"
   },
   {
-    "compliant": "FALSE",
-    "character_id": 61,
-    "last_name": "Hidaka",
-    "first_name": "Seiya",
-    "character_voice": "Shinichiro Miki",
-    "hobby": "Working",
-    "speciality": "Getting others caught up in his own pace",
-    "quote": "Do your best to follow in my footsteps and become model prisoners of idol jail♪",
-    "tagline": "A Flashing Hawkeye",
-    "introduction": "Hokuto's father, a still-active famous idol who hasn't declined. When it comes to work he's serious and earnest, but he also has a side that likes jokes.",
-    "like": "Photos of Hokuto",
-    "dislike": "His wife's and son's sad faces",
-    "family": "Wife, Hokuto Hidaka (son)"
-  },
-  {
     "compliant": "TRUE",
     "character_id": 67,
     "last_name": "Amagi",
@@ -999,10 +984,5 @@
     "family": "Parents",
     "favorite_food": "Japanese food",
     "handedness": "Left"
-  },
-  {
-    "compliant": "FALSE",
-    "character_id": 75,
-    "first_name": "Gatekeeper"
   }
 ]
