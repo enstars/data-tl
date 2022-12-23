@@ -652,5 +652,15 @@
     "intro_lines": "Preparations begin for the Starlight Festival, Yumenosaki's final event of the year. It seems like it'll be a peaceful Christmas event, but Shinobu worries as Mayoi is nowhere to be found…",
     "story_name": "Black Jack",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 266,
+    "name": "SHUFFLE × The Unknown Holy Night and Nighthead!",
+    "event_gacha": "Flambé",
+    "intro_lines": "Tomoya is happy when he is notified that he'll be in a shuffle unit with familiar members. However, he discovers that the actual unit is a band of strange upperclassmen led by Rinne...!?",
+    "song_name": "Have you been naughty or nice?",
+    "story_name": "Nighthead",
+    "story_author": "Nishioka Maiko"
   }
 ]
