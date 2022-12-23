@@ -8716,23 +8716,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3042,
-    "title": "Souvenirs and Chit-Chat",
-    "name": "Mao Isara",
-    "skills": {
-      "center": {
-        "name": "Memories of New York"
-      },
-      "live": {
-        "name": "Gathering Juniors"
-      },
-      "support": {
-        "name": "Local Sweets"
-      }
-    }
-  },
-  {
-    "compliant": "TRUE",
     "id": 3043,
     "title": "The Burning Star of Hope",
     "name": "Eichi Tenshouin",
@@ -8745,6 +8728,23 @@
       },
       "support": {
         "name": "A Murmured Consultation"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3044,
+    "title": "Souvenirs and Chit-Chat",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Memories of New York"
+      },
+      "live": {
+        "name": "Gathering Juniors"
+      },
+      "support": {
+        "name": "Local Sweets"
       }
     }
   },
@@ -10309,5 +10309,101 @@
     "id": 3312,
     "title": "Big Piece of Jewel",
     "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3313,
+    "title": "Unbridled Existence",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3314,
+    "title": "Late Night Work",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3315,
+    "title": "Creative Play",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3316,
+    "title": "(RE)ALISE",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3317,
+    "title": "(RE)FINE",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3318,
+    "title": "(RE)SIST",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3319,
+    "title": "(RE)SPECT",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3320,
+    "title": "(RE)ACT",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3321,
+    "title": "(RE)CREATE",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3322,
+    "title": "(RE)MIND",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3323,
+    "title": "(RE)BOUND",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3324,
+    "title": "Igniting Motivation",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3325,
+    "title": "Flame that Ignites Sensitivity",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3326,
+    "title": "Flame that Ignites Morale",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3327,
+    "title": "Igniting Passion",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3328,
+    "title": "Flame that Ignites a Fighting Spirit",
+    "name": "Ibara Saegusa"
   }
 ]
