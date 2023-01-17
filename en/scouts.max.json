@@ -1059,6 +1059,7 @@
     "gacha_id": 433,
     "name": "Arashi Feature Scout 2",
     "story_name": "Gorgeously Attractive",
+    "story_author": "Umeda Chitose",
     "intro_lines": "The discussion for Arashi's Feature Live suddenly comes up. She and the producer get all fired up and head to Saison Avenue together."
   },
   {
@@ -1068,5 +1069,46 @@
     "story_name": "Secret Jeweller",
     "story_author": "Kino Seitaro",
     "intro_lines": "Ritsu runs into Kuro in town, who is looking at a jewellery store. After learning that he's looking for a present for his sister, Ritsu decides to give him some advice as a younger sibling."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 435,
+    "name": "Wataru Feature Scout 2",
+    "story_name": "Migratory Birds and Perches",
+    "story_author": "Yuumasu",
+    "intro_lines": "Though the Producer has reached out to him about a live, she doesn't show up, so Wataru starts showing off here and there. At long last they meet up, and when she is asked what happened...",
+    "intro_lines_tl_credit": "iridesenescence"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 436,
+    "name": "Flambé",
+    "story_name": "Nighthead",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Tomoya is happy when he is notified that he'll be in a shuffle unit with familiar members. However, he discovers that the actual unit is a band of strange upperclassmen led by Rinne...!?"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 437,
+    "name": "Mika Feature Scout 2",
+    "story_name": "My Own Story",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Mika is working very hard to prepare for his live. The people around him watch over and cheer him on, but he refrains from contacting Shu..."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 438,
+    "name": "Super Lucky SCRAMBLE",
+    "story_name": "Super Lucky SCRAMBLE",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "HiMERU appears on a fortune telling show hosted by Rei and receives a \"good fortune\" reading. He is skeptical about the result, but lucky things keep happening to him one after the other."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 439,
+    "name": "Keito Feature Scout 2",
+    "story_name": "Shutter Chance",
+    "story_author": "Yuumasu",
+    "intro_lines": "Keito is waiting by himself at Cafe COCHI for his meeting, when the producer, who needs a natural pose from him, comes along with a flustered Souma…"
   }
 ]
