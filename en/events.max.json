@@ -672,5 +672,35 @@
     "song_name": "HELLO, NEW YEAR!",
     "story_name": "Poltergeist",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 268,
+    "name": "Members of Society☆Off to a New Start GO!",
+    "event_gacha": "Stormcloud FUMBLE",
+    "intro_lines": "Ra*bits is participating in the planning of a \"Work Experience at a Menswear Company\" project. Riding crowded trains, they struggle deeply with the unfamiliar work. Hajime appears to be worried about a newbie at work…",
+    "song_name": "Harenohi Sugar Wave",
+    "story_name": "New Start GO!",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 269,
+    "name": "Colored Stars! The Universe that Encompasses All",
+    "event_gacha": "Fair Waltz",
+    "intro_lines": "An accident during training created a rift within RYUSEITAI. Half a year later, news broke that Tetora had left the unit to become the leader of a new group…?",
+    "song_name": "Colors Arise",
+    "story_name": "Supervillain",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 270,
+    "name": "Chocolat◆An Exceptional Rouge and Ruby",
+    "event_gacha": "CRAFTMONSTER",
+    "intro_lines": "ES will be holding its own Chocolat Fes from this year onwards. Wanting to show off Eden's authority, Ibara announces that they will also be performing on stage as Adam & Eve.",
+    "song_name": "Melting Rouge Soul, Ruby Love",
+    "story_name": "Rouge&Ruby",
+    "story_author": "Umeda Chitose"
   }
 ]
