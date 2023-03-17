@@ -702,5 +702,15 @@
     "song_name": "Melting Rouge Soul, Ruby Love",
     "story_name": "Rouge&Ruby",
     "story_author": "Umeda Chitose"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 271,
+    "name": "Originality◆The Corridor of Machina Going Ahead",
+    "event_gacha": "Blush Flash",
+    "intro_lines": "Distraught over what to do for a new performance, Mika looks to those around him for inspiration for ideas. When Makoto and Sora introduce him to SSVRS' newly established \"Test World\", he quickly gets immersed in the world of VR.",
+    "song_name": "Meikyuu Denshi Kairou",
+    "story_name": "Machina",
+    "story_author": "Umeda Chitose"
   }
 ]

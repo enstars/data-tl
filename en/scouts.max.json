@@ -1150,5 +1150,13 @@
     "story_name": "CRAFTMONSTER",
     "story_author": "Nishioka Maiko",
     "intro_lines": "CRAFTMONSTER has fallen into a crisis due to a budget deficit, so in order to increase their activity funds, Ritsu comes up with a scheme to sell their works in ES."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 445,
+    "name": "Blush Flash",
+    "story_name": "Blush Flash",
+    "story_author": "Kino Seitaro",
+    "intro_lines": "For a White Day photoshoot, Shinobu and Sora were asked to fulfill a special facial expression. They vow to level up so they can meet the photographer's expectations at the next photoshoot session."
   }
 ]

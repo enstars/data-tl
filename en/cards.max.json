@@ -10537,5 +10537,407 @@
     "id": 3350,
     "title": "Ensnared Bunny",
     "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3351,
+    "title": "Sunspot's Gaze",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3352,
+    "title": "A Kindred Spirit's Passion",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3353,
+    "title": "Reminiscing on Travels",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3354,
+    "title": "Angel's Parade",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3355,
+    "title": "Exhilarating Parade",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3356,
+    "title": "Parade of Hope",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3357,
+    "title": "Parade of Enticement",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3358,
+    "title": "Knight's Parade",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3359,
+    "title": "Concerto Parade",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3360,
+    "title": "Enchanting Parade",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3361,
+    "title": "Night Sky's Parade",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3362,
+    "title": "Elegant Parade",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3363,
+    "title": "Unlimited Power Struggle",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3364,
+    "title": "Unlimited Effort",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3365,
+    "title": "Unlimited United Front",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3366,
+    "title": "Unlimited Toying Around",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3367,
+    "title": "Unlimited Reminiscence",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3368,
+    "title": "Waltz Expectation",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3369,
+    "title": "Waltz Request",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3370,
+    "title": "Waltz Assistance",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3371,
+    "title": "Waltz Participation",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3372,
+    "title": "The Warmth of a Refreshing Breeze",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3373,
+    "title": "Compromise is Also Friendship",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3374,
+    "title": "A Concert In Any Place",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3375,
+    "title": "A Fragment of Fixation",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3376,
+    "title": "A Fragment of Communication",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3377,
+    "title": "A Fragment of Secret Hope",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3378,
+    "title": "A Fragment of Embracing Love",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3379,
+    "title": "Clever Monster",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3380,
+    "title": "Confident Monster",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3381,
+    "title": "Delicate Monster",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3382,
+    "title": "Artistic Monster",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3383,
+    "title": "Gambling Monster",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3384,
+    "title": "Cloudless Posture",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3385,
+    "title": "Delicious and Healthy",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3386,
+    "title": "Discomfort and Identity",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3387,
+    "title": "Creator of Machina",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3388,
+    "title": "Destroyer of Machina",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3389,
+    "title": "Machina's Sorcery",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3390,
+    "title": "Machina's Dream",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3391,
+    "title": "Feelings of Frustration",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3392,
+    "title": "Feelings of Unfamiliarity",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3393,
+    "title": "Feelings in Complete Control",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3394,
+    "title": "Feelings Kept Close to Heart",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3395,
+    "title": "Shine As Brightly As You Are",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3396,
+    "title": "What I Like",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3397,
+    "title": "A Shining Coin",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3398,
+    "title": "Passion Beyond Dreams",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3399,
+    "title": "Brilliance Beyond Dreams",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3400,
+    "title": "Data Beyond Dreams",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3401,
+    "title": "Trust Beyond Dreams",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3402,
+    "title": "Strength Beyond Dreams",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3403,
+    "title": "Way of Life Beyond Dreams",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3404,
+    "title": "Happiness Beyond Dreams",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3405,
+    "title": "Magic Beyond Dreams",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3406,
+    "title": "Our Destination With A Sparkling Friend",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3407,
+    "title": "Our Destination To Our Ideals",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3408,
+    "title": "Our Destination From The Other Side",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3409,
+    "title": "Gradually To Our Destination",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3410,
+    "title": "Beautifully To Our Destination",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3420,
+    "title": "ES Idol 2",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3421,
+    "title": "ES Idol 3",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3422,
+    "title": "ES Idol 4",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3423,
+    "title": "ES Idol 5",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3424,
+    "title": "ES Idol 6",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3425,
+    "title": "Welcome Festival",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3461,
+    "title": "Festival Support",
+    "name": "Leo Tsukinaga"
   }
 ]
