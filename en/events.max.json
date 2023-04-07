@@ -712,5 +712,14 @@
     "song_name": "Meikyuu Denshi Kairou",
     "story_name": "Machina",
     "story_author": "Umeda Chitose"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 272,
+    "name": "Beyond Turbulent Dreams／A Graduation Standing With You",
+    "event_gacha": "Our Destination Together",
+    "intro_lines": "At Repayment Festival, now known as White Chocolat Fes, the students have been told \"—After this school year, Yumenosaki will effectively be shut down. While Subaru is a proponent, Hokuto is opposed to this. They each assert their differing viewpoints on the subject, but…",
+    "story_name": "Graduation",
+    "story_author": "Akira"
   }
 ]
