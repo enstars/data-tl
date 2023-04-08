@@ -8936,139 +8936,254 @@
     "compliant": "TRUE",
     "id": 3068,
     "title": "Love and Surprises",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "live": {
+        "name": "Wataru Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3069,
     "title": "Excitement and Surprise",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "live": {
+        "name": "Tori Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3070,
     "title": "Anticipation and Surprise",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "live": {
+        "name": "Yuzuru Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3071,
     "title": "Excitement and Surprise",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "live": {
+        "name": "Subaru Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3072,
     "title": "Challenge and Surprise",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "live": {
+        "name": "Mao Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3073,
     "title": "Enthusiasm and Surprise",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "live": {
+        "name": "Chiaki Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3074,
     "title": "Company and Surprise",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "live": {
+        "name": "Kanata Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3075,
     "title": "Sincerity and Surprise",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "live": {
+        "name": "Shinobu Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3076,
     "title": "Hope and Surprise",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "live": {
+        "name": "Hiiro Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3077,
     "title": "LOVE and Surprise",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "live": {
+        "name": "Aira Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3078,
     "title": "Prayer and Surprise",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "live": {
+        "name": "Tatsumi Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3079,
     "title": "Cheerfulness and Surprise",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "live": {
+        "name": "Hiyori Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3080,
     "title": "Creation and Surprise",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "live": {
+        "name": "Shu Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3081,
     "title": "Mischief and Surprise",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "live": {
+        "name": "Hinata Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3082,
     "title": "Satisfaction and Surprise",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "live": {
+        "name": "Niki Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3083,
     "title": "Relaxed and Surprise",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "live": {
+        "name": "Kaoru Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3084,
     "title": "Music and Surprise",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "live": {
+        "name": "Koga Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3085,
     "title": "Impulsivity and Surprise",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "live": {
+        "name": "Tomoya Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3086,
     "title": "Learning and Surprise",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "live": {
+        "name": "Nazuna Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3087,
     "title": "Likes and Surprise",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "live": {
+        "name": "Mitsuru Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3088,
     "title": "Stability and Surprise",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "live": {
+        "name": "Keito Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3089,
     "title": "Training and Surprise",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "live": {
+        "name": "Souma Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3090,
     "title": "Happiness and Surprise",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "live": {
+        "name": "Arashi Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -9091,7 +9206,285 @@
     "compliant": "TRUE",
     "id": 3092,
     "title": "Happy Surprise",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "live": {
+        "name": "Sora Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3093,
+    "title": "Rejoicing and Surprise",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "live": {
+        "name": "Eichi Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3094,
+    "title": "Conviction and Surprise",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "live": {
+        "name": "Hokuto Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3095,
+    "title": "One Step and Surprise",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "A Coin for a Challenge"
+      },
+      "live": {
+        "name": "Makoto Special"
+      },
+      "support": {
+        "name": "A Chance to Try"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3096,
+    "title": "Aspiration and Surprise",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "live": {
+        "name": "Tetora Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3097,
+    "title": "Wish and Surprise",
+    "name": "Midori Takamine",
+    "skills": {
+      "live": {
+        "name": "Midori Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3098,
+    "title": "Courage and Surprise",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "live": {
+        "name": "Mayoi Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3099,
+    "title": "Destiny and Surprise",
+    "name": "Nagisa Ran",
+    "skills": {
+      "live": {
+        "name": "Nagisa Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3100,
+    "title": "Planning and Surprise",
+    "name": "Ibara Saegusa",
+    "skills": {
+      "live": {
+        "name": "Ibara Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3101,
+    "title": "Courage and Surprise",
+    "name": "Jun Sazanami",
+    "skills": {
+      "live": {
+        "name": "Jun Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3102,
+    "title": "Idealistic Surprise",
+    "name": "Mika Kagehira",
+    "skills": {
+      "live": {
+        "name": "Mika Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3103,
+    "title": "Exploration and Surprise",
+    "name": "Yuta Aoi",
+    "skills": {
+      "live": {
+        "name": "Yuta Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3104,
+    "title": "Reversal and Surprise",
+    "name": "Rinne Amagi",
+    "skills": {
+      "live": {
+        "name": "Rinne Special"
+      },
+      "support": {
+        "name": "Useful Chance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3105,
+    "title": "Secrets and Surprise",
+    "name": "HiMERU",
+    "skills": {
+      "live": {
+        "name": "HiMERU Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3106,
+    "title": "Adventure and Surprise",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "live": {
+        "name": "Kohaku Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3107,
+    "title": "Surprise to the Future",
+    "name": "Rei Sakuma",
+    "skills": {
+      "live": {
+        "name": "Rei Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3108,
+    "title": "Culmination and Surprise",
+    "name": "Adonis Otogari",
+    "skills": {
+      "live": {
+        "name": "Adonis Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3109,
+    "title": "Relaxation and Surprise",
+    "name": "Hajime Shino",
+    "skills": {
+      "live": {
+        "name": "Hajime Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3110,
+    "title": "Impact and Surprise",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "live": {
+        "name": "Kuro Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3111,
+    "title": "Initiation and Surprise",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "live": {
+        "name": "Tsukasa Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3112,
+    "title": "Harmony and Surprise",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "live": {
+        "name": "Leo Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3113,
+    "title": "Headway and Surprise",
+    "name": "Izumi Sena",
+    "skills": {
+      "live": {
+        "name": "Izumi Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3114,
+    "title": "Awakening Surprise",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "live": {
+        "name": "Ritsu Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3115,
+    "title": "Engagement and Surprise",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "live": {
+        "name": "Tsumugi Special"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3116,
+    "title": "Crashing In and Surprise",
+    "name": "Madara Mikejima",
+    "skills": {
+      "live": {
+        "name": "Madara Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
