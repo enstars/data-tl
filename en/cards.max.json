@@ -11293,6 +11293,60 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3411,
+    "title": "A Bundle of Pure Tone",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3412,
+    "title": "English Time",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3413,
+    "title": "Pretty Activities",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3414,
+    "title": "Night of the Ephemeral Soldier",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3415,
+    "title": "Night of the Lonely Soldier",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3416,
+    "title": "Night of the Sinking Soldier",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3417,
+    "title": "Night of the Windblown Soldier",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3418,
+    "title": "Night of the Troubled Watchdog",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3419,
+    "title": "Night of the Reaching Out Watchdog",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3420,
     "title": "ES Idol 2",
     "name": "Tetora Nagumo"
@@ -11300,25 +11354,25 @@
   {
     "compliant": "TRUE",
     "id": 3421,
-    "title": "ES Idol 3",
+    "title": "ES Idol 2",
     "name": "Midori Takamine"
   },
   {
     "compliant": "TRUE",
     "id": 3422,
-    "title": "ES Idol 4",
+    "title": "ES Idol 2",
     "name": "Shinobu Sengoku"
   },
   {
     "compliant": "TRUE",
     "id": 3423,
-    "title": "ES Idol 5",
+    "title": "ES Idol 2",
     "name": "Chiaki Morisawa"
   },
   {
     "compliant": "TRUE",
     "id": 3424,
-    "title": "ES Idol 6",
+    "title": "ES Idol 2",
     "name": "Kanata Shinkai"
   },
   {
@@ -11326,6 +11380,126 @@
     "id": 3425,
     "title": "Welcome Festival",
     "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3426,
+    "title": "Challenging the Big Ocean)",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3427,
+    "title": "Crossing the Big Ocean",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3428,
+    "title": "Advancing into the Big Ocean",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3429,
+    "title": "Plunging into the Big Ocean",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3430,
+    "title": "Scorpio's Supervillain",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3431,
+    "title": "Scorpio's Supervillain",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3432,
+    "title": "Scorpio's Nemesis",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3433,
+    "title": "Scorpio's Henchman",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3434,
+    "title": "A Dish That Fills You Up",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3435,
+    "title": "Desperately Trying To Compliment",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3436,
+    "title": "Promise Between Men",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3437,
+    "title": "The Origin of Desire",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3438,
+    "title": "The Origin of Legend",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3439,
+    "title": "The Origin of Change",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3440,
+    "title": "The Origin of Creation",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3441,
+    "title": "The Origin of Mastery",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3442,
+    "title": "Eccentric Ensemble",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3443,
+    "title": "Eccentric Duty",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3444,
+    "title": "Eccentric Scenario",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3445,
+    "title": "Eccentric Occasion",
+    "name": "Hiyori Tomoe"
   },
   {
     "compliant": "TRUE",
