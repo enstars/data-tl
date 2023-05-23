@@ -11527,8 +11527,80 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3450,
+    "title": "Watching Over the Mad Party",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3451,
+    "title": "Stirring Up the Mad Party",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3452,
+    "title": "Commanding the Mad Party",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3453,
+    "title": "Adding Flowers to the Mad Party",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3454,
+    "title": "××× Pretty",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3455,
+    "title": "××× Friend",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3456,
+    "title": "××× Create",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3457,
+    "title": "××× Runway",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3458,
+    "title": "A Melody Played by the Sound of Rain",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3459,
+    "title": "Best Blend",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3460,
+    "title": "A Day to Look Forward To",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3461,
     "title": "Festival Support",
     "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3462,
+    "title": "Festival Support",
+    "name": "Chiaki Morisawa"
   }
 ]
