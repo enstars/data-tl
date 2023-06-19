@@ -11606,91 +11606,85 @@
   {
     "compliant": "TRUE",
     "id": 3463,
-    "title": "A Melody Played by the Sound of Rain",
-    "name": "Shinobu Sengoku"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3464,
-    "title": "Best Blend",
-    "name": "Tori Himemiya"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3465,
-    "title": "A Day to Look Forward To",
-    "name": "Tatsumi Kazehaya"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3466,
     "title": "Burning Bridegroom Training",
     "name": "Chiaki Morisawa"
   },
   {
     "compliant": "TRUE",
-    "id": 3467,
+    "id": 3464,
     "title": "Determining Bridegroom Training",
     "name": "Jun Sazanami"
   },
   {
     "compliant": "TRUE",
-    "id": 3468,
+    "id": 3465,
     "title": "Refined Bridegroom Training",
     "name": "Tatsumi Kazehaya"
   },
   {
     "compliant": "TRUE",
-    "id": 3469,
+    "id": 3466,
     "title": "Heartening Bridegroom Training",
     "name": "Nagisa Ran"
   },
   {
     "compliant": "TRUE",
-    "id": 3470,
+    "id": 3467,
     "title": "Thoughtful Bridegroom Training",
     "name": "Yuzuru Fushimi"
   },
   {
     "compliant": "TRUE",
-    "id": 3471,
+    "id": 3468,
     "title": "Easygoing Bridegroom Training",
     "name": "Makoto Yuuki"
   },
   {
     "compliant": "TRUE",
-    "id": 3472,
+    "id": 3469,
     "title": "Original Bridegroom Training",
     "name": "Shu Itsuki"
   },
   {
     "compliant": "TRUE",
-    "id": 3473,
+    "id": 3470,
     "title": "Manga That Brings Memories",
     "name": "Mao Isara"
   },
   {
     "compliant": "TRUE",
-    "id": 3474,
+    "id": 3471,
     "title": "Manga That Gives Courage",
     "name": "Keito Hasumi"
   },
   {
     "compliant": "TRUE",
-    "id": 3475,
+    "id": 3472,
     "title": "Learning Culture Through Manga",
     "name": "Tori Himemiya"
   },
   {
     "compliant": "TRUE",
-    "id": 3476,
+    "id": 3473,
     "title": "Finding Enthusiasm Through Manga",
     "name": "Midori Takamine"
   },
   {
     "compliant": "TRUE",
-    "id": 3477,
+    "id": 3474,
     "title": "Feeling Spirit Through Manga",
     "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3475
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3476
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3477
   }
 ]
