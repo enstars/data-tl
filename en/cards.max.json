@@ -11677,14 +11677,134 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3475
+    "id": 3475,
+    "title": "Never-Changing Three Chords",
+    "name": "Koga Oogami"
   },
   {
     "compliant": "TRUE",
-    "id": 3476
+    "id": 3476,
+    "title": "Taking Time to Reflect",
+    "name": "Mika Kagehira"
   },
   {
     "compliant": "TRUE",
-    "id": 3477
+    "id": 3477,
+    "title": "Around the Hot Pot at the Dinner Table",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3478,
+    "title": "Number Carrying a Dream",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3479,
+    "title": "Number of an Unreasonable Demand",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3480,
+    "title": "Number of a Travel Buddy",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3481,
+    "title": "Number of a Satiated Appetite",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3482,
+    "title": "BIBLION of Writing",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3483,
+    "title": "BIBLION of Polishing",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3484,
+    "title": "BIBLION of Perusing",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3485,
+    "title": "BIBLION of Publishing",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3486,
+    "title": "BIBLION of Interpreting",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3487,
+    "title": "Method of How Love is Spread",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3488,
+    "title": "Music Beside One Another",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3489,
+    "title": "Assistant's Job",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3490,
+    "title": "Genuine Possibility",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3491,
+    "title": "Greatest Possibility",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3492,
+    "title": "Possibility of a Statement",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3493,
+    "title": "Possibility of a Step Forward",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3538,
+    "title": "Glimmering Piece",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3539,
+    "title": "A Vexing Worry",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3540,
+    "title": "State of the Mind",
+    "name": "Hiiro Amagi"
   }
 ]
