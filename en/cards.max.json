@@ -11791,6 +11791,102 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3494,
+    "title": "Raindrop-covered Show Window",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3495,
+    "title": "Raindrop-covered Townscape",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3496,
+    "title": "Raindrop-covered Stroll",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3497,
+    "title": "Raindrop-covered Exhibition",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3498,
+    "title": "Somnolent Flower Shrouded in Secrecy",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3499,
+    "title": "A Word To My Anija",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3500,
+    "title": "Graduation Surprise",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3501,
+    "title": "Yuru Star Paradise",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3502,
+    "title": "Individuality Paradise",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3503,
+    "title": "Individuality Paradise",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3504,
+    "title": "Achievement Paradise",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3505,
+    "title": "Flourishing Paradise",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3506,
+    "title": "Challenge SUMMER",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3507,
+    "title": "Cooperation SUMMER",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3508,
+    "title": "Observation SUMMER",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3509,
+    "title": "Helping Hand SUMMER",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3538,
     "title": "Glimmering Piece",
     "name": "Makoto Yuuki"
@@ -11806,5 +11902,47 @@
     "id": 3540,
     "title": "State of the Mind",
     "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3574,
+    "title": "Moonlight Escape",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3575,
+    "title": "Victory Escape",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3576,
+    "title": "Quick-Wit Escape",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3577,
+    "title": "Temptation Escape",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3578,
+    "title": "Intuition Escape",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3579,
+    "title": "Conception Escape",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3580,
+    "title": "Intelligent Escape",
+    "name": "Keito Hasumi"
   }
 ]
