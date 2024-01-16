@@ -11887,6 +11887,174 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3510,
+    "title": "Blazing Feelings",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3511,
+    "title": "Nearly Identical",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3512,
+    "title": "Forced to Play",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3513,
+    "title": "Gambling Bee",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3514,
+    "title": "Secret Bee",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3515,
+    "title": "Dancing Flower Bee",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3516,
+    "title": "Hungry Bee",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3517,
+    "title": "Ra*Spotlight",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3518,
+    "title": "Ra*Freedom",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3519,
+    "title": "Ra*Space",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3520,
+    "title": "Ra*Drawing",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3521,
+    "title": "Two Hopes",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3522,
+    "title": "Two Wishes",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3523,
+    "title": "An Angel's Elegance",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3524,
+    "title": "An Angel's Humor",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3525,
+    "title": "An Angel's Charm",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3526,
+    "title": "An Angel's Beauty",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3527,
+    "title": "Pursuit Island",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3528,
+    "title": "Acquisition Island",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3529,
+    "title": "Rivaling Island",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3530,
+    "title": "Wise Planning Island",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3531,
+    "title": "Adventuring Island",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3532,
+    "title": "Miscalculation Island",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3533,
+    "title": "Enforcement Island",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3534,
+    "title": "Evening Glow Paddle",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3535,
+    "title": "Paddle Leaving Ripples in the Water",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3536,
+    "title": "Paddle Ceasing the Rain",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3537,
+    "title": "Paddle Shedding a Drop of Water",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3538,
     "title": "Glimmering Piece",
     "name": "Makoto Yuuki"
@@ -11902,6 +12070,54 @@
     "id": 3540,
     "title": "State of the Mind",
     "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3541,
+    "title": "Early Night Illusion",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3542,
+    "title": "Late Night Illusion",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3543,
+    "title": "White Night Illusion",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3544,
+    "title": "Moonlit Night Illusion",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3545,
+    "title": "Guardian of Dawn",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3546,
+    "title": "Guardian of the Way Home",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3547,
+    "title": "Supporter of Projects",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3548,
+    "title": "Collaborator of Self-Protection",
+    "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
