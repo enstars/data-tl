@@ -1153,7 +1153,7 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 445,
+    "gacha_id": 446,
     "name": "Blush Flash",
     "story_name": "Blush Flash",
     "story_author": "Kino Seitaro",
@@ -1161,7 +1161,7 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 446,
+    "gacha_id": 447,
     "name": "Mitsuru Feature Scout 2",
     "story_name": "One Step",
     "story_author": "Nishioka Maiko",
@@ -1169,7 +1169,7 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 447,
+    "gacha_id": 448,
     "name": "Our Destination Together",
     "story_name": "Graduation",
     "story_author": "Akira",
@@ -1177,7 +1177,7 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 448,
+    "gacha_id": 449,
     "name": "Leo Feature Scout 2",
     "story_name": "Hands Full of Applause",
     "story_author": "Yuumasu",
@@ -1185,18 +1185,10 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 449,
+    "gacha_id": 450,
     "name": "Scorpio's Venom",
     "story_name": "Scorpio's Venom",
     "story_author": "Yuumasu",
     "intro_lines": "Kaoru is invited by Chiaki to put on a Hero Show for some children. However, it's then found out that Chiaki might not be able to participate."
-  },
-  {
-    "compliant": "TRUE",
-    "gacha_id": 450,
-    "name": "Big Ocean",
-    "story_name": "Big Ocean",
-    "story_author": "Nishioka Maiko",
-    "intro_lines": "Hinata is planning a performance for the upcoming Repayment Festival. Yuta is participating too, and they start going all out in preparations. However, they discover that Repayment Festival has been changed to White Chocolat Fes this year…"
   }
 ]
