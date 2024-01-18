@@ -12074,50 +12074,92 @@
   {
     "compliant": "TRUE",
     "id": 3541,
-    "title": "Early Night Illusion",
-    "name": "Mayoi Ayase"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3542,
-    "title": "Late Night Illusion",
-    "name": "Tsumugi Aoba"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3543,
-    "title": "White Night Illusion",
-    "name": "Tomoya Mashiro"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3544,
-    "title": "Moonlit Night Illusion",
-    "name": "Ritsu Sakuma"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3545,
     "title": "Guardian of Dawn",
     "name": "Madara Mikejima"
   },
   {
     "compliant": "TRUE",
-    "id": 3546,
+    "id": 3542,
     "title": "Guardian of the Way Home",
     "name": "Kohaku Oukawa"
   },
   {
     "compliant": "TRUE",
-    "id": 3547,
+    "id": 3543,
     "title": "Supporter of Projects",
     "name": "Ibara Saegusa"
   },
   {
     "compliant": "TRUE",
-    "id": 3548,
+    "id": 3544,
     "title": "Collaborator of Self-Protection",
     "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3545,
+    "title": "Early Night Illusion",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3546,
+    "title": "Late Night Illusion",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3547,
+    "title": "White Night Illusion",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3548,
+    "title": "Moonlit Night Illusion",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3549,
+    "title": "The Other Side of the Goal",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3550,
+    "title": "A Feast for One Day",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3551,
+    "title": "\"Strange\" Fish",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3552,
+    "title": "Crown of the Blue Sea",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3553,
+    "title": "Clown of the Blue Sea",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3554,
+    "title": "Ruler of the Blue Sea",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3555,
+    "title": "Caretaker of the Blue Sea",
+    "name": "Yuzuru Fushimi"
   },
   {
     "compliant": "TRUE",
@@ -12226,5 +12268,29 @@
     "id": 3647,
     "title": "Made Research",
     "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3701,
+    "title": "The Legendary Ougonten",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3702,
+    "title": "Observation of Ougonten",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3703,
+    "title": "Evangelism of Ougonten",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3704,
+    "title": "Experience of Ougonten",
+    "name": "Nagisa Ran"
   }
 ]
