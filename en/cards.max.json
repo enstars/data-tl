@@ -2242,7 +2242,7 @@
   {
     "compliant": "TRUE",
     "id": 2159,
-    "title": "Antique Samurai",
+    "title": "Old-Fashioned Warrior",
     "name": "Souma Kanzaki",
     "skills": {
       "center": {
@@ -4937,7 +4937,7 @@
   {
     "compliant": "TRUE",
     "id": 2560,
-    "title": "Difficult Challenge",
+    "title": "Challenges Beyond Me",
     "name": "Mayoi Ayase",
     "quote": {
       "n": "成長したい気持ちは否定できません",
@@ -5137,7 +5137,7 @@
   {
     "compliant": "TRUE",
     "id": 2583,
-    "title": "Difficult Answer Time",
+    "title": "Tough Quiz Time ",
     "name": "Jun Sazanami"
   },
   {
@@ -5274,7 +5274,7 @@
   {
     "compliant": "TRUE",
     "id": 2598,
-    "title": "Midi at 3 O'Clock",
+    "title": "Midi at Three O'clock",
     "name": "HiMERU",
     "skills": {
       "live": {
@@ -6267,7 +6267,7 @@
     "compliant": "TRUE",
     "id": 2718,
     "title": "Cheeky Rock",
-    "name": "Yuuta Aoi"
+    "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
@@ -7172,7 +7172,7 @@
   {
     "compliant": "TRUE",
     "id": 2837,
-    "title": "Striking Fragrance",
+    "title": "Stunning Fragrance",
     "name": "Izumi Sena",
     "quote": {
       "n": "勝手に食べないでよ",
@@ -10143,7 +10143,7 @@
     "compliant": "TRUE",
     "id": 3219,
     "title": "Advantageous Sports Festival",
-    "name": "Yuuta Aoi"
+    "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
@@ -10245,7 +10245,7 @@
     "compliant": "TRUE",
     "id": 3236,
     "title": "Tell Your Rhythm",
-    "name": "Yuuta Aoi"
+    "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
@@ -10293,7 +10293,7 @@
     "compliant": "TRUE",
     "id": 3244,
     "title": "A Figure Like a Mirage",
-    "name": "Yuuta Aoi"
+    "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
@@ -11414,7 +11414,7 @@
   {
     "compliant": "TRUE",
     "id": 3431,
-    "title": "Scorpio's Supervillain",
+    "title": "Scorpio's Archenemy",
     "name": "Tomoya Mashiro"
   },
   {
@@ -11618,7 +11618,7 @@
   {
     "compliant": "TRUE",
     "id": 3465,
-    "title": "Refined Bridegroom Training",
+    "title": "Congenial Bridegroom Training",
     "name": "Tatsumi Kazehaya"
   },
   {
@@ -11630,7 +11630,7 @@
   {
     "compliant": "TRUE",
     "id": 3467,
-    "title": "Thoughtful Bridegroom Training",
+    "title": "Considering Bridegroom Training",
     "name": "Yuzuru Fushimi"
   },
   {
@@ -11648,31 +11648,31 @@
   {
     "compliant": "TRUE",
     "id": 3470,
-    "title": "Manga That Brings Memories",
+    "title": "Memories With Manga",
     "name": "Mao Isara"
   },
   {
     "compliant": "TRUE",
     "id": 3471,
-    "title": "Manga That Gives Courage",
+    "title": "Ardor Given By Manga",
     "name": "Keito Hasumi"
   },
   {
     "compliant": "TRUE",
     "id": 3472,
-    "title": "Learning Culture Through Manga",
+    "title": "Culture Learned Through Manga",
     "name": "Tori Himemiya"
   },
   {
     "compliant": "TRUE",
     "id": 3473,
-    "title": "Finding Enthusiasm Through Manga",
+    "title": "Cheering Up Through Manga",
     "name": "Midori Takamine"
   },
   {
     "compliant": "TRUE",
     "id": 3474,
-    "title": "Feeling Spirit Through Manga",
+    "title": "Spirit Felt Through Manga",
     "name": "Jun Sazanami"
   },
   {
@@ -11846,7 +11846,7 @@
   {
     "compliant": "TRUE",
     "id": 3503,
-    "title": "Individuality Paradise",
+    "title": "Reborn Paradise",
     "name": "Kanata Shinkai"
   },
   {
@@ -12163,6 +12163,114 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3556,
+    "title": "Entry to the Demon King's Castle",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3557,
+    "title": "The Tailor's Soul",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3558,
+    "title": "Incognito Warrior",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3559,
+    "title": "Reliable Ally",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3560,
+    "title": "Unraveling Words",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3561,
+    "title": "The Bond With King",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3562,
+    "title": "The Sparkle We See Now",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3563,
+    "title": "Speaking Love Story",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3564,
+    "title": "Speaking Artist",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3565,
+    "title": "Substituting Friendship",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3566,
+    "title": "Substituting Role",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3567,
+    "title": "Sea of Secrets",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3568,
+    "title": "Never-ending Sea",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3569,
+    "title": "Allied Sea",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3570,
+    "title": "Gentle Breeze Rustling Through the Sea",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3571,
+    "title": "Sharpened Gaze",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3572,
+    "title": "Approach Shot",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3573,
+    "title": "Balancing Game",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3574,
     "title": "Moonlight Escape",
     "name": "Koga Oogami"
@@ -12205,6 +12313,342 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3581,
+    "title": "Luck-Gathering Survivor",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3582,
+    "title": "Suggestion Survivor",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3583,
+    "title": "Benevolence Survivor",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3584,
+    "title": "Competition Survivor",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3585,
+    "title": "Physical Strength Survivor",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3586,
+    "title": "Time of Wish-Making",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3587,
+    "title": "This Detour Is Lemon-Flavored",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3588,
+    "title": "An Unfamiliar Appearance",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3589,
+    "title": "Festival Support",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3590,
+    "title": "Maiden of War: The Guide",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3591,
+    "title": "Maiden of War: The Tempter",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3592,
+    "title": "Twinkling Twin Star",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3593,
+    "title": "Glittering Twin Star",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3594,
+    "title": "Leading Soldier",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3595,
+    "title": "Love-Spreading Soldier",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3596,
+    "title": "Yearning Soldier",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3597,
+    "title": "Questing Soldier",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3598,
+    "title": "The Back Road to Center Stage",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3599,
+    "title": "Presenting Secret Tricks",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3600,
+    "title": "A Countenance Flipped Over",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3601,
+    "title": "Backstage Declaration",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3602,
+    "title": "Passing Time in Private",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3603,
+    "title": "Reviewing in Private",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3604,
+    "title": "An Unexpected Private",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3605,
+    "title": "Invitation Private",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3606,
+    "title": "Scars That Connect To Tomorrow",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3607,
+    "title": "Nursing is a Measured Amount",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3608,
+    "title": "Surreptitious Hunch",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3609,
+    "title": "Eternal Holistic",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3610,
+    "title": "Creedal Holistic",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3611,
+    "title": "Devout Holistic",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3612,
+    "title": "Benevolent Holistic",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3613,
+    "title": "A Banquet in Which Good Fortune is Spread",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3614,
+    "title": "Sparkling Shore Banquet",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3615,
+    "title": "Banquet to Receive Updates",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3616,
+    "title": "Banquet of Reflecting Everyday Life",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3617,
+    "title": "Sweet Happiness",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3618,
+    "title": "Lovely Early Afternoon",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3619,
+    "title": "Intertwined Spare Time",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3620,
+    "title": "Elite Trainer",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3621,
+    "title": "Ardent Trainer",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3622,
+    "title": "Energetic Trainer",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3623,
+    "title": "Graceful Trainer",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3624,
+    "title": "ES Idol 2",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3625,
+    "title": "ES Idol 2",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3626,
+    "title": "Earnest Chanbara Night",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3627,
+    "title": "Moonlight Chanbara Night",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3628,
+    "title": "True Ability Chanbara Night",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3629,
+    "title": "Serious Chanbara Night",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3630,
+    "title": "Chanbara Night of Activity",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3631,
+    "title": "Chanbara Night of Friendship",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3632,
+    "title": "Chanbara Night of Elegance",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3633,
+    "title": "Yorishiro That Steps Forth",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3634,
+    "title": "Yorishiro That Believes",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3635,
+    "title": "Yorishiro That Entrusts",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3636,
+    "title": "Yorishiro That Conveys",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3637,
     "title": "Heart With a Wash of Color",
     "name": "Chiaki Morisawa"
@@ -12230,7 +12674,7 @@
   {
     "compliant": "TRUE",
     "id": 3641,
-    "title": "Unwavering Road",
+    "title": "Unwavering Path",
     "name": "Koga Oogami"
   },
   {
@@ -12271,6 +12715,324 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3648,
+    "title": "A Play That Burns the Night Sky",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3649,
+    "title": "Street Corner Treasure Trove",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3650,
+    "title": "A Personal Way of Seasoning",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3651,
+    "title": "The Demon's Seductive Fangs",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3652,
+    "title": "The Demon's Passionate Gaze",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3653,
+    "title": "The Demon's Sharp Claws",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3654,
+    "title": "The Demon's Gentle Song",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3655,
+    "title": "The Moon's Connecting Bridge",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3656,
+    "title": "The Moon and the Way of the Warrior",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3657,
+    "title": "The Moon's Stage of Dreams",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3658,
+    "title": "Sparkling Star of Conviction",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3659,
+    "title": "Sparkling Star Above All Others",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3660,
+    "title": "Sparkling Star with Composure",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3661,
+    "title": "Sparkling Star with Camaraderie",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3662,
+    "title": "Festival Support",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3663,
+    "title": "Grand Stage Under the Heavens",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3664,
+    "title": "Grand Stage Filled With the Heavens",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3665,
+    "title": "Grand Stage Shining from the Heavens",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3666,
+    "title": "Amanojaku's Sympathy",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3667,
+    "title": "Color That Can Make You Smile",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3668,
+    "title": "Color That Conveys Feelings",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3669,
+    "title": "Color to Feel and Enjoy",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3670,
+    "title": "Profound Color That Takes Notice Of",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3671,
+    "title": "Time to Continue Blossoming",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3672,
+    "title": "Growth ON AIR",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3673,
+    "title": "A Challenging Step",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3674,
+    "title": "Xday of Resolve",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3675,
+    "title": "Xday of Recollection",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3676,
+    "title": "Xday of Discovery",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3677,
+    "title": "Xday of Growth",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3678,
+    "title": "Warmth Bear",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3679,
+    "title": "Lively Bear",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3680,
+    "title": "Cozy Bear",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3681,
+    "title": "Relaxed Bear",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3682,
+    "title": "Expected Sign",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3683,
+    "title": "Breaking Out of the Gym",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3684,
+    "title": "Lecture Tips",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3685,
+    "title": "Meteor Who Commits To Oneself",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3686,
+    "title": "Meteor That Takes It Easy",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3687,
+    "title": "Meteor of an Open Heart",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3688,
+    "title": "Meteor That Burns Passionately",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3689,
+    "title": "Meteor That Nurtures",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3690,
+    "title": "Exhilarating Magic",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3691,
+    "title": "Calming Magic",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3692,
+    "title": "Sparkling Magic",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3693,
+    "title": "Blazing Soul",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3694,
+    "title": "Strategy Atop the Board",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3695,
+    "title": "Stratagem Atop the Board",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3696,
+    "title": "Gambling Atop the Board",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3697,
+    "title": "Fate Atop the Board",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3698,
+    "title": "Challenge Atop the Board",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3699,
+    "title": "Breakthrough Atop the Board",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3700,
+    "title": "Monitoring Atop the Board",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3701,
     "title": "The Legendary Ougonten",
     "name": "Mika Kagehira"
@@ -12292,5 +13054,593 @@
     "id": 3704,
     "title": "Experience of Ougonten",
     "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3705,
+    "title": "Step Up Onto the Stage",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3706,
+    "title": "Assertion of a Little Brother",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3707,
+    "title": "A Thrilling New Year",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3708,
+    "title": "Stella of a Dream Come True",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3709,
+    "title": "Stella of a Singing Night",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3710,
+    "title": "Stella of a Wishing Sea",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3711,
+    "title": "Stella of a Following Island",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3712,
+    "title": "Stella of a Feeling Heart",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3713,
+    "title": "Crane and Treasure",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3714,
+    "title": "Snow and Treasure",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3715,
+    "title": "Sky and Treasure",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3716,
+    "title": "Land and Treasure",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3717,
+    "title": "Rose-colored Rest",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3718,
+    "title": "My First Summit",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3719,
+    "title": "Performance Beyond Expectations",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3720,
+    "title": "Cyber Candy",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3721,
+    "title": "Imagination Candy",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3722,
+    "title": "Space Candy",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3723,
+    "title": "Undercover Candy",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3724,
+    "title": "Honeymoon Café",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3725,
+    "title": "Feverish Café",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3726,
+    "title": "Café of Yearning",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3727,
+    "title": "Café of Purity",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3728,
+    "title": "Pop Star of Adventure",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3729,
+    "title": "Fragrant Memory",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3730,
+    "title": "Scenery of the First Visit",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3731,
+    "title": "Plum Blossoms Bundled in Spring Scenery",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3732,
+    "title": "Plum Blossoms in Riotous Bloom",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3733,
+    "title": "Plum Blossoms Burgeoning Memory",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3734,
+    "title": "Plum Blossoms Bursting Flowerbuds",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3735,
+    "title": "Plum Blossoms Announcing the Arrival",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3736,
+    "title": "Plum Blossoms Coming Into Season",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3737,
+    "title": "Plum Blossoms in Full Bloom",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3738,
+    "title": "Scent That Takes Leading Role",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3739,
+    "title": "Scent That Tantalizes the Heart",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3740,
+    "title": "Scent That Leaves Impressions",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3741,
+    "title": "Scent That Wafts Warmth",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3742,
+    "title": "Abyss Engraved By Stars",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3743,
+    "title": "Necessary Sweetness",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3744,
+    "title": "Weapon of My Own",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3745,
+    "title": "Compassionate Garden",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3746,
+    "title": "Loving Garden",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3747,
+    "title": "Desired Garden",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3748,
+    "title": "Seized Garden",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3754,
+    "title": "Festival Support",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3755,
+    "title": "Guide of Paradise",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3756,
+    "title": "Keeper of Paradise",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3757,
+    "title": "Ideal of Paradise",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3758,
+    "title": "Evolution of Paradise",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3759,
+    "title": "A Fleeting Moment Filled With Love",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3760,
+    "title": "A Fleeting Moment of Surprise",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3761,
+    "title": "A Fleeting Moment of Perplexment",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3762,
+    "title": "A Fleeting Moment of Friendship",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3763,
+    "title": "Gentle Melody",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3764,
+    "title": "Sign of Accomplishment",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3765,
+    "title": "Push and Pull of Entertainment",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3766,
+    "title": "Crown of Gold",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3767,
+    "title": "Crown of Twilight",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3768,
+    "title": "Crown of Elegance",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3769,
+    "title": "Crown of Feelings",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3770,
+    "title": "Crown of the World",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3771,
+    "title": "Mystery and Exhibition",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3772,
+    "title": "Discovery and Exhibition",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3773,
+    "title": "Enigma and Exhibition",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3774,
+    "title": "Curiosity and Exhibition",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3775,
+    "title": "Heart-pounding Destinations",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3776,
+    "title": "Joys of Growth",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3777,
+    "title": "The Role of a Senior",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3778,
+    "title": "Hot-Blooded Dragon",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3779,
+    "title": "Valiant Dragon",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3780,
+    "title": "Fighting Dragon",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3781,
+    "title": "Hard-working Dragon",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3782,
+    "title": "Honest Dragon",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3783,
+    "title": "Forward-pushing Dragon",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3784,
+    "title": "Impassioned Dragon",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3785,
+    "title": "Signs of Blossoming",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3786,
+    "title": "Joys of Acting",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3787,
+    "title": "A Stitch Forward",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3788,
+    "title": "A Gaze You Feel",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3789,
+    "title": "Luminous Vibration",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3790,
+    "title": "Punch With All Your Might",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3791,
+    "title": "Unknown Game",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3792,
+    "title": "A Star To Reach For",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3793,
+    "title": "A Star That Guides The Way",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3794,
+    "title": "A Star As It Is",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3795,
+    "title": "A Star Laid Bare",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3796,
+    "title": "A Star That Connects",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3797,
+    "title": "A Gradually Changing Star",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3798,
+    "title": "A Pointing Star",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3799,
+    "title": "A Star That Finds Its Way",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3800,
+    "title": "Found Individuality",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3801,
+    "title": "Fascinating Specialty",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3802,
+    "title": "Distance Between Fellow Roommates",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3803,
+    "title": "Welcome Festival",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4016,
+    "title": "Piercing FLARE",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4023,
+    "title": "Unrelenting TORRENT",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4028,
+    "title": "Raising STORM",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4056,
+    "title": "Sharp SPARK",
+    "name": "Natsume Sakasaki"
   }
 ]
