@@ -13642,5 +13642,35 @@
     "id": 4056,
     "title": "Sharp SPARK",
     "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4065,
+    "title": "Dawning EVIL",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4066,
+    "title": "Powerful EVIL",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4067,
+    "title": "Temptation EVIL",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4068,
+    "title": "Contract EVIL",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4069,
+    "title": "Balanced EVIL",
+    "name": "Ritsu Sakuma"
   }
 ]
