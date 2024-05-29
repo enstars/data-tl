@@ -13321,6 +13321,31 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3749,
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3750,
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3751,
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3752,
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3753,
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3754,
     "title": "Festival Support",
     "name": "Kuro Kiryu"
@@ -13804,5 +13829,20 @@
     "id": 4081,
     "title": "Lovely Ball",
     "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4082,
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4083,
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4084,
+    "name": "Nazuna Nito"
   }
 ]
