@@ -13322,26 +13322,31 @@
   {
     "compliant": "TRUE",
     "id": 3749,
+    "title": "Proud Sword",
     "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
     "id": 3750,
+    "title": "Musical Sword",
     "name": "Leo Tsukinaga"
   },
   {
     "compliant": "TRUE",
     "id": 3751,
+    "title": "Piercing Sword",
     "name": "Izumi Sena"
   },
   {
     "compliant": "TRUE",
     "id": 3752,
+    "title": "Illuminating Sword",
     "name": "Ritsu Sakuma"
   },
   {
     "compliant": "TRUE",
     "id": 3753,
+    "title": "Polished Sword",
     "name": "Arashi Narukami"
   },
   {
@@ -13844,5 +13849,44 @@
     "compliant": "TRUE",
     "id": 4084,
     "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4085,
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4086,
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4087,
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4088,
+    "title": "A NIGHT for Holding Hands",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4089,
+    "title": "A NIGHT of Salvation",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4090,
+    "title": "A NIGHT for Bargaining",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4091,
+    "title": "A NIGHT of Whims",
+    "name": "Koga Oogami"
   }
 ]
