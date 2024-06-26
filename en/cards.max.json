@@ -13898,31 +13898,37 @@
   {
     "compliant": "TRUE",
     "id": 4092,
+    "title": "Pure-hearted Promessa",
     "name": "Hajime Shino"
   },
   {
     "compliant": "TRUE",
     "id": 4093,
+    "title": "Induced Promessa",
     "name": "Mika Kagehira"
   },
   {
     "compliant": "TRUE",
     "id": 4094,
+    "title": "Catalyzing Promessa",
     "name": "Makoto Yuuki"
   },
   {
     "compliant": "TRUE",
     "id": 4095,
+    "title": "Ardent Promessa",
     "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
     "id": 4096,
+    "title": "Decreed Promessa",
     "name": "Tori Himemiya"
   },
   {
     "compliant": "TRUE",
     "id": 4097,
+    "title": "Advisory Promessa",
     "name": "Nagisa Ran"
   },
   {
@@ -13948,5 +13954,20 @@
     "id": 4101,
     "title": "Instruments that Joins Two Together",
     "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4102,
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4103,
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4104,
+    "name": "Jun Sazanami"
   }
 ]
