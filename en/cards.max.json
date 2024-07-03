@@ -13711,9 +13711,24 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4015,
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4016,
     "title": "Piercing FLARE",
     "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4019,
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4022,
+    "name": "Chiaki Morisawa"
   },
   {
     "compliant": "TRUE",
@@ -13723,15 +13738,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4024,
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4028,
     "title": "Raising STORM",
     "name": "Nagisa Ran"
   },
   {
     "compliant": "TRUE",
+    "id": 4029,
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4032,
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4034,
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4042,
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4043,
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4044,
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4049,
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4051,
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4056,
     "title": "Sharp SPARK",
     "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4060,
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
@@ -13958,16 +14023,67 @@
   {
     "compliant": "TRUE",
     "id": 4102,
+    "title": "Happy Parade",
     "name": "Subaru Akehoshi"
   },
   {
     "compliant": "TRUE",
     "id": 4103,
+    "title": "Happy Mood",
     "name": "Sora Harukawa"
   },
   {
     "compliant": "TRUE",
     "id": 4104,
+    "title": "Happy Cast",
     "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4105,
+    "title": "Happy Balloon",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4106,
+    "title": "Happy Ticket",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4107,
+    "title": "Happy Service",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4108,
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4109,
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4110,
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4111,
+    "name": "Raika Hojo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4112,
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4113,
+    "name": "Ritsu Sakuma"
   }
 ]
