@@ -13712,6 +13712,7 @@
   {
     "compliant": "TRUE",
     "id": 4015,
+    "title": "Rising FLARE",
     "name": "Hokuto Hidaka"
   },
   {
@@ -13723,11 +13724,13 @@
   {
     "compliant": "TRUE",
     "id": 4019,
+    "title": "Surging FLARE",
     "name": "Tetora Nagumo"
   },
   {
     "compliant": "TRUE",
     "id": 4022,
+    "title": "Burning FLARE",
     "name": "Chiaki Morisawa"
   },
   {
@@ -13739,6 +13742,7 @@
   {
     "compliant": "TRUE",
     "id": 4024,
+    "title": "Heralded FLARE",
     "name": "Hiiro Amagi"
   },
   {
@@ -13750,41 +13754,49 @@
   {
     "compliant": "TRUE",
     "id": 4029,
+    "title": "Radiant FLARE",
     "name": "Hiyori Tomoe"
   },
   {
     "compliant": "TRUE",
     "id": 4032,
+    "title": "Magnificent FLARE",
     "name": "Shu Itsuki"
   },
   {
     "compliant": "TRUE",
     "id": 4034,
+    "title": "Leaping FLARE",
     "name": "Hinata Aoi"
   },
   {
     "compliant": "TRUE",
     "id": 4042,
+    "title": "Blazing FLARE",
     "name": "Koga Oogami"
   },
   {
     "compliant": "TRUE",
     "id": 4043,
+    "title": "Peaceful FLARE",
     "name": "Adonis Otogari"
   },
   {
     "compliant": "TRUE",
     "id": 4044,
+    "title": "Unleashing FLARE",
     "name": "Tomoya Mashiro"
   },
   {
     "compliant": "TRUE",
     "id": 4049,
+    "title": "Steadfast FLARE",
     "name": "Kuro Kiryu"
   },
   {
     "compliant": "TRUE",
     "id": 4051,
+    "title": "Illuminating FLARE",
     "name": "Tsukasa Suou"
   },
   {
@@ -13796,6 +13808,7 @@
   {
     "compliant": "TRUE",
     "id": 4060,
+    "title": "Spreading FLARE",
     "name": "Esu Sagiri"
   },
   {
@@ -14059,31 +14072,87 @@
   {
     "compliant": "TRUE",
     "id": 4108,
+    "title": "Gourmet District of Passion",
     "name": "Chiaki Morisawa"
   },
   {
     "compliant": "TRUE",
     "id": 4109,
+    "title": "Gourmet District of Growth",
     "name": "Mitsuru Tenma"
   },
   {
     "compliant": "TRUE",
     "id": 4110,
+    "title": "Gourmet District of the Ripe Season",
     "name": "Hiyori Tomoe"
   },
   {
     "compliant": "TRUE",
     "id": 4111,
+    "title": "Gourmet District of Freshness",
     "name": "Raika Hojo"
   },
   {
     "compliant": "TRUE",
     "id": 4112,
+    "title": "Gourmet District of Enjoyment",
     "name": "Mayoi Ayase"
   },
   {
     "compliant": "TRUE",
     "id": 4113,
+    "title": "Gourmet District of Effort",
     "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4114,
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4115,
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4116,
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4117,
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4118,
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4119,
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4120,
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4121,
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4122,
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4123,
+    "name": "Tatsumi Kazehaya"
   }
 ]
