@@ -14108,51 +14108,61 @@
   {
     "compliant": "TRUE",
     "id": 4114,
+    "title": "Perplexing Tongue",
     "name": "Ibara Saegusa"
   },
   {
     "compliant": "TRUE",
     "id": 4115,
+    "title": "Perplexing Countenance",
     "name": "Kaoru Hakaze"
   },
   {
     "compliant": "TRUE",
     "id": 4116,
+    "title": "Perplexing Skill",
     "name": "Arashi Narukami"
   },
   {
     "compliant": "TRUE",
     "id": 4117,
+    "title": "Perplexing Gaze",
     "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
     "id": 4118,
+    "title": "Perplexing Grin",
     "name": "Rinne Amagi"
   },
   {
     "compliant": "TRUE",
     "id": 4119,
+    "title": "Perplexing Atmosphere",
     "name": "Kuro Kiryu"
   },
   {
     "compliant": "TRUE",
     "id": 4120,
+    "title": "Love Sparkle",
     "name": "Aira Shiratori"
   },
   {
     "compliant": "TRUE",
     "id": 4121,
+    "title": "Blue Sky Sparkle",
     "name": "Hiiro Amagi"
   },
   {
     "compliant": "TRUE",
     "id": 4122,
+    "title": "Melodic Sparkle",
     "name": "Mayoi Ayase"
   },
   {
     "compliant": "TRUE",
     "id": 4123,
+    "title": "Exploration Sparkle",
     "name": "Tatsumi Kazehaya"
   }
 ]
