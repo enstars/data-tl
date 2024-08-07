@@ -14182,5 +14182,35 @@
     "id": 4126,
     "title": "Strange Relationship",
     "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4127,
+    "title": "Lost Child of the Depths",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4128,
+    "title": "Lost Child of the Legends",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4129,
+    "title": "Lost Child of the Discipline",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4130,
+    "title": "Lost Child of the Dawn",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4131,
+    "title": "Lost Child of the Oracle",
+    "name": "Tsumugi Aoba"
   }
 ]
