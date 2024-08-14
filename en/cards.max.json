@@ -14212,5 +14212,20 @@
     "id": 4131,
     "title": "Lost Child of the Oracle",
     "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4132,
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4133,
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4134,
+    "name": "Adonis Otogari"
   }
 ]
