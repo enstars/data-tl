@@ -14186,31 +14186,31 @@
   {
     "compliant": "TRUE",
     "id": 4127,
-    "title": "Lost Child of the Depths",
+    "title": "Lost One of the Depths",
     "name": "Yuzuru Fushimi"
   },
   {
     "compliant": "TRUE",
     "id": 4128,
-    "title": "Lost Child of the Legends",
+    "title": "Lost One of the Legends",
     "name": "Rei Sakuma"
   },
   {
     "compliant": "TRUE",
     "id": 4129,
-    "title": "Lost Child of the Discipline",
+    "title": "Lost One of the Discipline",
     "name": "Madara Mikejima"
   },
   {
     "compliant": "TRUE",
     "id": 4130,
-    "title": "Lost Child of the Dawn",
+    "title": "Lost One of the Dawn",
     "name": "Niki Shiina"
   },
   {
     "compliant": "TRUE",
     "id": 4131,
-    "title": "Lost Child of the Oracle",
+    "title": "Lost One of the Oracle",
     "name": "Tsumugi Aoba"
   },
   {
@@ -14227,5 +14227,50 @@
     "compliant": "TRUE",
     "id": 4134,
     "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4135,
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4136,
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4137,
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4138,
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4139,
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4140,
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4141,
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4142,
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4143,
+    "name": "Nazuna Nito"
   }
 ]
