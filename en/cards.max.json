@@ -14216,61 +14216,88 @@
   {
     "compliant": "TRUE",
     "id": 4132,
+    "title": "Firm Dominant",
     "name": "Keito Hasumi"
   },
   {
     "compliant": "TRUE",
     "id": 4133,
+    "title": "Striving Dominant",
     "name": "Tetora Nagumo"
   },
   {
     "compliant": "TRUE",
     "id": 4134,
+    "title": "Robust Dominant",
     "name": "Adonis Otogari"
   },
   {
     "compliant": "TRUE",
     "id": 4135,
+    "title": "Scheming Dominant",
     "name": "Madara Mikejima"
   },
   {
     "compliant": "TRUE",
     "id": 4136,
+    "title": "Satisfied Dominant",
     "name": "Leo Tsukinaga"
   },
   {
     "compliant": "TRUE",
     "id": 4137,
+    "title": "Cooperative Dominant",
     "name": "Natsume Sakasaki"
   },
   {
     "compliant": "TRUE",
     "id": 4138,
+    "title": "Twin Rooster Pagoda of Exaltation",
     "name": "Wataru Hibiki"
   },
   {
     "compliant": "TRUE",
     "id": 4139,
+    "title": "Twin Rooster Pagoda of Declamation",
     "name": "Izumi Sena"
   },
   {
     "compliant": "TRUE",
     "id": 4140,
+    "title": "Twin Rooster Pagoda of Expertise",
     "name": "Hiiro Amagi"
   },
   {
     "compliant": "TRUE",
     "id": 4141,
+    "title": "Twin Rooster Pagoda of Vibrancy",
     "name": "Ibuki Taki"
   },
   {
     "compliant": "TRUE",
     "id": 4142,
+    "title": "Twin Rooster Pagoda of Opportunity",
     "name": "Keito Hasumi"
   },
   {
     "compliant": "TRUE",
     "id": 4143,
+    "title": "Twin Rooster Pagoda of Ideas",
     "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4144,
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4145,
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4146,
+    "name": "Souma Kanzaki"
   }
 ]
