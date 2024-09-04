@@ -721,5 +721,335 @@
     "intro_lines": "At Repayment Festival, now known as White Chocolat Fes, the students have been told \"—After this school year, Yumenosaki will effectively be shut down. While Subaru is a proponent, Hokuto is opposed to this. They each assert their differing viewpoints on the subject, but…",
     "story_name": "Graduation",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 273,
+    "name": "Expression of Gratitude! The Ebb and Flow of the Big Ocean",
+    "event_gacha": "Scorpio's Venom",
+    "intro_lines": "Hinata is planning a performance for the upcoming Repayment Festival. Yuta is participating too, and they start going all out in preparations. However, they discover that Repayment Festival has been changed to White Chocolat Fes this year…",
+    "song_name": "Turbulent Storm",
+    "story_name": "Big Ocean",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 274,
+    "name": "Origin★Singing the Starry Sky Altered",
+    "event_gacha": "The Eccentric Fine",
+    "intro_lines": "\"OO (Double O)\"— the decisive battle to determine the strongest \"temporary\" unit—will be held over several days. It's based on a proposal Natsume once drew up, one that nobody should have known the contents of…",
+    "song_name": "Twilight Pentagram, Dawning Angels",
+    "story_name": "Altered",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 275,
+    "name": "One Drop＊A Specially Chosen Mad Party In UNDERLAND",
+    "event_gacha": "Cross × Mark",
+    "intro_lines": "The newcomers of Knights are auditioning to perform in the much-talked-about event, \"UNDERLAND\". Upon learning that a fashion designer he admires will be working on the outfits for the event, Izumi offers to audition himself…",
+    "song_name": "Or the Beautiful Golden Drop",
+    "story_name": "Mad Party",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 276,
+    "name": "Bridegroom Training?／Wedding March!",
+    "event_gacha": "Manga Club",
+    "intro_lines": "After the PV they filmed gets shelved, Chiaki and Jun decide to plan their own bridal-themed project. They embark on a \"bridal field trip\" with other members willing to join them for the project.",
+    "story_name": "Wedding March",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 277,
+    "name": "SUGOROKU Trip! The BGM is Number Eight",
+    "event_gacha": "BIBLION",
+    "intro_lines": "Rinne and the others head over to their first overseas shoot after they're approached and invited by the producer to appear on the once popular show, \"Number Eight\". Determined by the roll of the Crazy:B dice, the road trip left up to fate begins―",
+    "song_name": "Crazy Anthem",
+    "story_name": "Number Eight",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 278,
+    "name": "Infinity★Parallel World of Our Potential",
+    "event_gacha": "Raindrop-covered Show Window",
+    "intro_lines": "As the leader of Ra*bits, Tomoya worries whether or not he’s contributing properly to the unit. One day, Ra*bits is summoned by \"Bishoujo-senpai\", a big name in their agency…",
+    "song_name": "Parallel Maze",
+    "story_name": "Parallel World",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 279,
+    "name": "Squeeze☆Tropical Paradise Filled With Love",
+    "event_gacha": "Suntan SUMMER",
+    "intro_lines": "As RYUSEITAI Black's activities came to an end, it was time to choose a leader for the next live \"R2\". It's decided that Midori will be in charge of RYUSEITAI this time, but the mascot character he's attached to announces they're taking an indefinite break…",
+    "song_name": "RELAX PARADISE",
+    "story_name": "Tropical",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 280,
+    "name": "Cooking Showdown／Drifting? Island",
+    "event_gacha": "Evening Shower's Paddle",
+    "intro_lines": "ES idols happen to be chosen to appear on a popular cooking show that is being revived for a single night only. Niki and Nazuna, who have been selected as their agency’s representatives, end up traveling around the mountains and sea in order to procure cooking ingredients.",
+    "story_name": "Get Island",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 281,
+    "name": "Guardians◆Eye and Last Mission",
+    "event_gacha": "Illusory Noctilucence",
+    "intro_lines": "Madara pays Kohaku a visit, saying that there is an emergency. Accompanied by a mysterious boy with apparent ties to Double Face, Madara requests Kohaku's help to protect the child.",
+    "song_name": "Bye-Bye Buddy",
+    "story_name": "Last Mission",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 282,
+    "name": "The Blue Sea＊Sparkling True Atlantis",
+    "event_gacha": "Knight Killers",
+    "intro_lines": "ES is trying to begin a new project called Project-ATLANTIS. Eichi wants to leave a part of the project in Tori's hands, but Tori is concerned about the elections for the next student council president…",
+    "song_name": "Dreaming Ocean",
+    "story_name": "Atlantis",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 283,
+    "name": "Remplacer＊The Speaking Doll and Raison d'être",
+    "event_gacha": "The Heartbeat of the Sea – Look back –",
+    "intro_lines": "Mika makes his way to Paris after Shu tells him he wants to talk about the future. Upon hearing Mika's intent following graduation, Shu grows enraged. That's when news comes that Shu's grandfather has passed away. The two return to Japan to confirm the truth, however…",
+    "song_name": "Le temps des fleurs",
+    "story_name": "Raison d'être",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 284,
+    "name": "Riddle・Solution／Escape Mansion",
+    "event_gacha": "Sports Survivors",
+    "intro_lines": "Koga and Tsukasa are offered a chance to appear on the hot and trendy escape game variety show, Escape Mansion. They get fired up upon hearing the winner gets a luxurious prize. Aiming for victory, the two split into teams to solve the riddles.",
+    "story_name": "Escape Mansion",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 285,
+    "name": "Two Sides◆2×2 of Lies And Truth",
+    "event_gacha": "Private Room",
+    "intro_lines": "2wink's long-awaited namesake show, \"2×2 (Squared)\" has begun! The two pair up with their own respective \"friends\" and play against one another in a variety of matches, but Yuta seems to be concerned about Hinata’s relationship with the producer…",
+    "song_name": "Love×me⇄monsteR",
+    "story_name": "2×2",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 286,
+    "name": "Dawning Night＊Holistic Halloween",
+    "event_gacha": "Banquet Beneath the Clouded Moon",
+    "intro_lines": "ALKALOID continues to grow steadily after performing live after live. Tatsumi is put in charge of a live and tries to incorporate parts of an episode he had from his hospitalization into the project, but the project itself is based on a supernatural incident…",
+    "song_name": "UNDYING HOLY LOVE",
+    "story_name": "HOLISTIC HOLIC",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 287,
+    "name": "An Earnest Swordfight／Chanbara Night",
+    "event_gacha": "Your Yorishiro",
+    "intro_lines": "Set at a traditional Japanese inn, Mao and Ritsu are chosen to appear on the competitive variety show, CHANCE×BASARA×NIGHT. With the survival of the inn on the line, the two are pit against one another as they confront the owner and his son, whom have clashing opinions on the matter.",
+    "story_name": "CHANCE×BASARA×NIGHT",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 288,
+    "name": "Split Paths＊The Admired Figure and Flashback",
+    "event_gacha": "Made Me",
+    "intro_lines": "UNDEAD participates in a \"certain experiment\" and relive memories of the past. There, the events that led to the formation of UNDEAD unfold, but it slightly differs from what Rei and Koga remember…",
+    "song_name": "Resurrection of Soul",
+    "story_name": "Flashback",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 289,
+    "name": "Sublimation＊The Grand Stage of the Rumbling Heavens and Earth",
+    "event_gacha": "Color Code",
+    "intro_lines": "AKATSUKI is given the opportunity to host the educational program \"The Rumbling Heavens and Earth\". Keito vows to bring something new to the table and leave their mark on this long-running program, but the program's advisors, \"The Three Sages\", stand in their way…!?",
+    "song_name": "Konjiki Senya Yumebutai",
+    "story_name": "Heaven and Earth",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 290,
+    "name": "Gift★Xday for the Children!",
+    "event_gacha": "White Bear",
+    "intro_lines": "Hokuto receives a \"secret base\" as a Christmas present from Seiya. As Hokuto and the others deliberate over what to use it for, a mysterious client appears and requests: \"I want you to find my father.\"",
+    "song_name": "Romantic Xday!",
+    "story_name": "Xday",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 291,
+    "name": "The Probing Roll of Dice／War Atop the Sugoroku Board",
+    "event_gacha": "Ougonten",
+    "intro_lines": "COS PRO and NEW DI end up participating in an agency competition variety show that will be streamed on NETV. Ibara and Natsume work out their strategies as they take on the challenge in \"Open World Sugoroku\".",
+    "story_name": "War Atop the Sugoroku Board",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 292,
+    "name": "Reverb★Stella Maris Crossing the Sea's Horizon",
+    "event_gacha": "Housouge",
+    "intro_lines": "It's finally Kanata's turn to be captain. The other members are bewildered with Kanata's unique practice methods and the job description shrouded in mystery. That's when Kanata suddenly announces that they’re going to head to Okinawa to film a commercial…",
+    "song_name": "Bokura no Stella",
+    "story_name": "Stella Maris",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 293,
+    "name": "Chocolat△A Candy House Of Your Eyes",
+    "event_gacha": "Koikoi Love Café",
+    "intro_lines": "NEW DIMENSION will partner with a major game company to progress their VR endeavors. Sora dives into the newly-created virtual world, \"Candy House\", and is sought for help by a \"friend\" he meets there.",
+    "song_name": "Chocola-Tic After School",
+    "story_name": "Candy House",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 294,
+    "name": "Feelings I Want To Answer／Adorable Plum Blossoms Covered in Snow",
+    "event_gacha": "Gourmand's Scent",
+    "intro_lines": "Mayoi is at risk of repeating a grade due to lack of event attendance. At a loss, Hajime helps him out and they look for members for a temporary unit to shoot a PV for a hotel, but it's snowing out of season…",
+    "story_name": "Plum Blossoms Covered in Snow",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 295,
+    "name": "Into Paradise＊The Absolute of Immaculate Desire",
+    "event_gacha": "Fleeting White",
+    "intro_lines": "Summoned by Gatekeeper, Nagisa and the others visit America. They are asked to perform as the Japanese representative at the idol festival \"Absolute\"; a festival that had been observed by Eden back when it first formed…",
+    "song_name": "Absolute Perfection",
+    "story_name": "Absolute",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 296,
+    "name": "Crowned◆Gambit of Determination",
+    "event_gacha": "The Blink of the Eye and Exhibition",
+    "intro_lines": "Spring, during ES' first year of establishment. Receiving applications from new students to join the unit, Tsukasa is very motivated as the new \"King\". Things seemed to be going smoothly, however, a counterfeit Knights look-alike appears, and the situation takes an unexpected turn—",
+    "song_name": "Luminous Crown",
+    "story_name": "Gambit",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 297,
+    "name": "Double-Headed×Style／Dragon's Head",
+    "event_gacha": "Madara Feature Scout 2",
+    "intro_lines": "A weekly magazine comes out with rumors that STAR PRO and Rhyth Lin are on bad terms. While they assumed the commotion would subside on its own, the rift between fans only grows deeper and deeper… In an attempt to resolve the situation, Tetora and Kuro come up with an event to show off the bond between the two agencies.",
+    "story_name": "Dragon's Head",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 298,
+    "name": "Answer★Matrix of Stars Drawn Towards One Another",
+    "event_gacha": "Suits Buzzing Around Alongside Bees",
+    "intro_lines": "ALKALOID and Crazy:B are to face off in Matrix, a major event held by ES. To garner attention to this sibling face-off, Hiiro and Rinne end up exchanging the units they each lead.",
+    "song_name": "SAKE OF LOVE",
+    "story_name": "Matrix",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 299,
+    "name": "SHUFFLE×Whispering Evil TELEPHONE",
+    "event_gacha": "EVIL NUM+",
+    "intro_lines": "Spring, during ES' second year of establishment. Natsume and the others, who have been selected for the new shuffle project P Choice, will be taking on a job called The Case of the Devil. Hokuto was determined to successfully handle the case for the producer, but…",
+    "song_name": "Ringing evil phone",
+    "story_name": "Evil TELEPHONE",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 300,
+    "name": "Audition VS PRINCESS -First piece-",
+    "event_gacha": "Intelligence／Reasoning",
+    "intro_lines": "The \"4piece\" audition program has finally begun! Assigned to the first venue called Prince Castle, Mao and Leo will team up with the other competitors to take on the challenge of \"holding The Best Ball\" in a week's time.",
+    "story_name": "VS★PRINCESS",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 301,
+    "name": "Romance★A SWING NIGHT to Sing Along To",
+    "event_gacha": "A Droplet of a Flower／Dignified Cold",
+    "intro_lines": "UNDEAD is living a busy day-to-day life on the upswing. One day, the media storms the dormitory when reports flood in that \"Adonis has a girlfriend\". And in the midst of the commotion, Adonis makes the announcement that he doesn't \"have a girlfriend, but a fiancée\"—?!",
+    "song_name": "SWINGIN' PARONIRIA",
+    "story_name": "SWING NIGHT",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 302,
+    "name": "Innermost Feelings＊Timbres of Heaven That Joins Two Together",
+    "event_gacha": "Promessa／Regola",
+    "intro_lines": "Hinata had taken on a job with a famous photographer in Yuta's place, who was not feeling well. As he had stolen away a valuable opportunity, Hinata suggests Yuta audition for one of the two lead roles of the youth romance drama, \"Timbres of Heaven\", however—",
+    "song_name": "Twin Wedding Vows",
+    "story_name": "Timbres of Heaven",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 303,
+    "name": "Audition VS GOURMET -Second piece-",
+    "event_gacha": "Happy Charm／Sunny Side",
+    "intro_lines": "It's the high-profile \"4piece\" audition program! Chiaki and Mitsuru are assigned to the second venue \"Gourmet Town\", where each person is given a restaurant and challenged to a \"Restaurant Management Competition\". First, they each try their hand at the recipe challenge, but…",
+    "story_name": "VS★GOURMET",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 304,
+    "name": "Scent of Summer! Yellow Summer Sparkle",
+    "event_gacha": "Perplex／Indulgence",
+    "intro_lines": "ALKALOID visits Paris to tour an upcoming event. While thoroughly enjoying their time off, they were made to change their accommodations due to some trouble. They head over to Aira's grandparent's house, but their main problem is that Aira seems reluctant to go…",
+    "song_name": "SunnyTrip Summer",
+    "story_name": "Sparkle",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 305,
+    "name": "SHUFFLE×Ballade of the Eternally Lost Ones",
+    "event_gacha": "M∀N∀",
+    "intro_lines": "The group is chosen to star in a movie as part of the P-Choice project. The director is someone whom Yuzuru and Niki had saved from a certain incident, which led to them being chosen to co-star in the movie. However, acting as a \"non-human\" role is not so easy…",
+    "song_name": "Soushitsu Guui -LOST BALLADE-",
+    "story_name": "Ballade of the Lost Ones",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 306,
+    "name": "Audition VS AUDIENCE -Third piece-",
+    "event_gacha": "Dominant／Chaotic",
+    "intro_lines": "It's the high-profile \"4piece\" audition program! Wataru and Izumi are assigned to the third venue \"Twin Rooster Pagoda\". To take part in the live judging on the final day, it is crucial to make a good impression on the \"Audience of a Hundred\" that changes out daily, and…?",
+    "story_name": "VS★AUDIENCE",
+    "story_author": "-"
   }
 ]
