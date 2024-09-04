@@ -13711,6 +13711,11 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4014,
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4015,
     "title": "Rising FLARE",
     "name": "Hokuto Hidaka"
@@ -13747,6 +13752,16 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4025,
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4026,
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4028,
     "title": "Raising STORM",
     "name": "Nagisa Ran"
@@ -13765,9 +13780,19 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4033,
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4034,
     "title": "Leaping FLARE",
     "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4038,
+    "name": "HiMERU"
   },
   {
     "compliant": "TRUE",
@@ -13789,9 +13814,19 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4047,
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4049,
     "title": "Steadfast FLARE",
     "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4050,
+    "name": "Souma Kanzaki"
   },
   {
     "compliant": "TRUE",
@@ -13801,15 +13836,40 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4053,
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4054,
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4056,
     "title": "Sharp SPARK",
     "name": "Natsume Sakasaki"
   },
   {
     "compliant": "TRUE",
+    "id": 4057,
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4060,
     "title": "Spreading FLARE",
     "name": "Esu Sagiri"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4062,
+    "name": "Kanna Natsu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4063,
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
@@ -14299,5 +14359,40 @@
     "compliant": "TRUE",
     "id": 4146,
     "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4147,
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4148,
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4149,
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4150,
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4151,
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4152,
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4153,
+    "name": "Niki Shiina"
   }
 ]
