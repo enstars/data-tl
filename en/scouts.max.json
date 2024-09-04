@@ -1153,6 +1153,14 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 445,
+    "name": "Souma Feature Scout 2",
+    "story_name": "Ultramarine Cherry Blossom, A Petal",
+    "story_author": "Yuumasu",
+    "intro_lines": "OCEANS has planned an overnight camp and Souma is asked to take photos while there. He gets fired up taking selfies, and things are going smoothly..."
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 446,
     "name": "Blush Flash",
     "story_name": "Blush Flash",
@@ -1190,5 +1198,141 @@
     "story_name": "Scorpio's Venom",
     "story_author": "Yuumasu",
     "intro_lines": "Kaoru is invited by Chiaki to put on a Hero Show for some children. However, it's then found out that Chiaki might not be able to participate."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 451,
+    "name": "Niki Feature Scout 2",
+    "story_name": "Bon Appétit!",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Niki is stumped when asked what life moment to include in the pamphlet. He thinks about what he does on a day off."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 453,
+    "name": "Hiiro Feature Scout 2",
+    "story_name": "Grasping the Brilliance",
+    "story_author": "Umeda Chitose",
+    "intro_lines": "After seeing the pamphlets for the Feature Lives, Hiiro wants to know the other idols' thought processes, so he and the producer go to observe a TV program filming."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 455,
+    "name": "Shinobu Feature Scout 2",
+    "story_name": "Heartfelt Ninja Talk on a Rainy Day",
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Shinobu practices being photographed to make for a good pamphlet. However, he's troubled whether or not a ninja should show moments from their time off."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 457,
+    "name": "Koga Feature Scout 2",
+    "story_name": "Howling at a Shooting Star",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "Koga struggles having his picture taken because he can't quite grasp the feeling of candid shots. He wants to show off his cool side while appearing natural."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 459,
+    "name": "Aira Feature Scout 2",
+    "story_name": "Spreading Love Brings Happiness",
+    "story_author": "Suika",
+    "intro_lines": "Aira has prepared his candid shots for the pamphlet in advance, but the producer feels like there's something off about the photos."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 461,
+    "name": "Yuzuru Feature Scout 2",
+    "story_name": "Flawless Servant",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "Yuzuru is rarely seen taking time off. Tori suggests taking a candid picture of Yuzuru's sleeping face, but…"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 463,
+    "name": "Adonis Feature Scout 2",
+    "story_name": "May This Voice Reach You",
+    "story_author": "Suika",
+    "intro_lines": "Adonis is left to decide a concept for his pamphlet. He goes out to the ocean in hopes for a hint to help him out."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 465,
+    "name": "Makoto Feature Scout 2",
+    "story_name": "Dozing in the Sea of Books",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "Makoto heads to the library in order to do some research. While finishing an assignment, a discussion about his Feature Live comes up."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 467,
+    "name": "Tetora Feature Scout 2",
+    "story_name": "As I Am",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "Tetora hears from the producer that his Feature Live has been decided. He thinks over again about what kind of live he wants to do."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 469,
+    "name": "Natsume Feature Scout 2",
+    "story_name": "Time We Spent Throughout The Days",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "After school, Natsume looks to be waiting for someone in the classroom. His classmates are perplexed, as Natsume typically doesn't show up at the classroom very often."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 471,
+    "name": "Jun Feature Scout 2",
+    "story_name": "To Smile Here, In This Lively Place",
+    "story_author": "Suika",
+    "intro_lines": "Since he usually follows Ibara's plans, Jun agonizes over what kind of candid photo to take. He ends up heading out with the producer for a photoshoot."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 473,
+    "name": "Subaru Feature Scout 2",
+    "story_name": "The First Star In Special Training",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "Subaru has been thinking about what kind of Feature Live he wants to do. He comes up with the idea of doing special training with those of Trickstar…"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 475,
+    "name": "Kuro Feature Scout 2",
+    "story_name": "Searching For The Future",
+    "story_author": "Suika",
+    "intro_lines": "Kuro is enthusiastic about appearing on a cooking show. He takes the program and Feature Live as a chance to earnestly confront and reconsider exactly what kind of idol he is."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 477,
+    "name": "Tsumugi Feature Scout 2",
+    "story_name": "Delivering a Share of Happiness",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "Tsumugi takes the afternoon off and considers making sweets. There, he gets asked about his Feature Live and decides to take some candid photos."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 479,
+    "name": "Chiaki Feature Scout 2",
+    "story_name": "Dream-like Days and the Hero",
+    "story_author": "Suika",
+    "intro_lines": "It's finally Chiaki's turn for his Feature Live. In order to show a new side of himself to his fans, he once again thinks about the feelings he puts into his lives."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 481,
+    "name": "Eichi Feature Scout 2",
+    "story_name": "An Intangible Treasure",
+    "story_author": "Yuumasu",
+    "intro_lines": "In his photoshoot, Eichi decides to show a side of him that cannot be seen in lives or on TV. Tori requests to see him spending time with his friends, but…"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 483,
+    "name": "HiMERU Feature Scout 2",
+    "story_name": "A Moment of Nonchalance",
+    "story_author": "Kanata Haruka",
+    "intro_lines": "HiMERU is preparing to return to his studies at Shuuetsu Academy. Upon hearing this, the producer wants to have a photoshoot of HiMERU in his school uniform."
   }
 ]
