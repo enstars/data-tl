@@ -1051,5 +1051,15 @@
     "intro_lines": "It's the high-profile \"4piece\" audition program! Wataru and Izumi are assigned to the third venue \"Twin Rooster Pagoda\". To take part in the live judging on the final day, it is crucial to make a good impression on the \"Audience of a Hundred\" that changes out daily, and…?",
     "story_name": "VS★AUDIENCE",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 307,
+    "name": "Night Out★An Ephemeral Festival of Revelry",
+    "event_gacha": "Brilliance Prince／starlight",
+    "intro_lines": "Upon the start of the new fiscal year, Crazy:B receives a surge in work. Behind it all is a massive boom centered around HiMERU and Kohaku, who have come to be known as the PBB (Pastel Bee Brothers), the both of them receiving unusual attention from the public…",
+    "song_name": "UTAKATA DANCE FLOOR",
+    "story_name": "Ephemeral Festival",
+    "story_author": "-"
   }
 ]
