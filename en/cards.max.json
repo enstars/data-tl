@@ -13712,6 +13712,7 @@
   {
     "compliant": "TRUE",
     "id": 4014,
+    "title": "Silent TORRENT",
     "name": "Yuzuru Fushimi"
   },
   {
@@ -13753,11 +13754,13 @@
   {
     "compliant": "TRUE",
     "id": 4025,
+    "title": "Crashing TORRENT",
     "name": "Aira Shiratori"
   },
   {
     "compliant": "TRUE",
     "id": 4026,
+    "title": "Hidden TORRENT",
     "name": "Mayoi Ayase"
   },
   {
@@ -13781,6 +13784,7 @@
   {
     "compliant": "TRUE",
     "id": 4033,
+    "title": "Undefined TORRENT",
     "name": "Mika Kagehira"
   },
   {
@@ -13792,6 +13796,7 @@
   {
     "compliant": "TRUE",
     "id": 4038,
+    "title": "Perfect TORRENT",
     "name": "HiMERU"
   },
   {
@@ -13815,6 +13820,7 @@
   {
     "compliant": "TRUE",
     "id": 4047,
+    "title": "Supple TORRENT",
     "name": "Hajime Shino"
   },
   {
@@ -13826,6 +13832,7 @@
   {
     "compliant": "TRUE",
     "id": 4050,
+    "title": "Swift TORRENT",
     "name": "Souma Kanzaki"
   },
   {
@@ -13837,11 +13844,13 @@
   {
     "compliant": "TRUE",
     "id": 4053,
+    "title": "Unstoppable TORRENT",
     "name": "Izumi Sena"
   },
   {
     "compliant": "TRUE",
     "id": 4054,
+    "title": "Whispering TORRENT",
     "name": "Ritsu Sakuma"
   },
   {
@@ -13853,6 +13862,7 @@
   {
     "compliant": "TRUE",
     "id": 4057,
+    "title": "Internal TORRENT",
     "name": "Tsumugi Aoba"
   },
   {
@@ -13864,11 +13874,13 @@
   {
     "compliant": "TRUE",
     "id": 4062,
+    "title": "Apathetic TORRENT",
     "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
     "id": 4063,
+    "title": "One's Own TORRENT",
     "name": "Fuyume Hanamura"
   },
   {
@@ -14348,51 +14360,76 @@
   {
     "compliant": "TRUE",
     "id": 4144,
+    "title": "Experiencing Prince",
     "name": "Tomoya Mashiro"
   },
   {
     "compliant": "TRUE",
     "id": 4145,
+    "title": "Traveling Prince",
     "name": "Ibara Saegusa"
   },
   {
     "compliant": "TRUE",
     "id": 4146,
+    "title": "Guiding Prince",
     "name": "Souma Kanzaki"
   },
   {
     "compliant": "TRUE",
     "id": 4147,
+    "title": "Discovering Prince",
     "name": "Hokuto Hidaka"
   },
   {
     "compliant": "TRUE",
     "id": 4148,
+    "title": "Accompanying Prince",
     "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
     "id": 4149,
+    "title": "Coincidental Prince",
     "name": "Mika Kagehira"
   },
   {
     "compliant": "TRUE",
     "id": 4150,
+    "title": "Ephemeral Dazzle",
     "name": "HiMERU"
   },
   {
     "compliant": "TRUE",
     "id": 4151,
+    "title": "Ephemeral Connection",
     "name": "Kohaku Oukawa"
   },
   {
     "compliant": "TRUE",
     "id": 4152,
+    "title": "Ephemeral Commotion",
     "name": "Rinne Amagi"
   },
   {
     "compliant": "TRUE",
     "id": 4153,
+    "title": "Ephemeral Festival",
     "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4154,
+    "name": "Fuyume Hanamura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4155,
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4156,
+    "name": "Hinata Aoi"
   }
 ]
