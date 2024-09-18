@@ -1061,5 +1061,15 @@
     "song_name": "UTAKATA DANCE FLOOR",
     "story_name": "Ephemeral Festival",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 308,
+    "name": "Full Speed◆Chase Cheshire in WILDLAND",
+    "event_gacha": "Song of the Hesitant Waning Moon – Look back –",
+    "intro_lines": "RYUSEITAI has been selected for WILDLAND, a large-scale event inspired by Alice in Wonderland. Tetora, as the acting captain, thoroughly struggles to depict a wild worldview of devastation where all order has been lost.",
+    "song_name": "WILDLAND SURVIVOR",
+    "story_name": "WILDLAND",
+    "story_author": "-"
   }
 ]
