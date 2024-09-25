@@ -14690,21 +14690,25 @@
   {
     "compliant": "TRUE",
     "id": 4162,
+    "title": "Song of the Connecting Moon",
     "name": "Ritsu Sakuma"
   },
   {
     "compliant": "TRUE",
     "id": 4163,
+    "title": "Song of the Lingering Moon",
     "name": "Mao Isara"
   },
   {
     "compliant": "TRUE",
     "id": 4164,
+    "title": "Song of the Unyielding Moon",
     "name": "Rei Sakuma"
   },
   {
     "compliant": "TRUE",
     "id": 4165,
+    "title": "Song of the Unknowing Moon",
     "name": "Makoto Yuuki"
   }
 ]
