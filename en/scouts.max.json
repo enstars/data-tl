@@ -1758,5 +1758,19 @@
     "story_name": "JANUS",
     "story_author": "-",
     "intro_lines": "Through a single photograph comes the recollection of childhood memories. This is a story about the encounter between two brothers who appear to transcend humanity, and an ordinary boy like any other."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 521,
+    "name": "VANQUISH／荊棘",
+    "story_name": "VANQUISH",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 522,
+    "name": "VANQUISH／破錠",
+    "story_name": "VANQUISH",
+    "story_author": "-"
   }
 ]
