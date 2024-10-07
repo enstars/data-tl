@@ -1762,15 +1762,17 @@
   {
     "compliant": "TRUE",
     "gacha_id": 521,
-    "name": "VANQUISH／荊棘",
+    "name": "VANQUISH／Rose Thorns",
     "story_name": "VANQUISH",
-    "story_author": "-"
+    "story_author": "-",
+    "intro_lines": "Kuro is to participate in a variety show's \"investigation project.\" He'll begin a journey into uncharted territory along with Shu, with the aim of reaching their goal, but…"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 522,
-    "name": "VANQUISH／破錠",
+    "name": "VANQUISH／Busted Lock",
     "story_name": "VANQUISH",
-    "story_author": "-"
+    "story_author": "-",
+    "intro_lines": "Kuro is to participate in a variety show's \"investigation project.\" He'll begin a journey into uncharted territory along with Shu, with the aim of reaching their goal, but…"
   }
 ]
