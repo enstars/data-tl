@@ -14714,61 +14714,73 @@
   {
     "compliant": "TRUE",
     "id": 4166,
+    "title": "Attaining VANQUISH",
     "name": "Shu Itsuki"
   },
   {
     "compliant": "TRUE",
     "id": 4167,
+    "title": "Enthusiastic VANQUISH",
     "name": "Chiaki Morisawa"
   },
   {
     "compliant": "TRUE",
     "id": 4168,
+    "title": "Acting VANQUISH",
     "name": "Mitsuru Tenma"
   },
   {
     "compliant": "TRUE",
     "id": 4169,
+    "title": "Growing VANQUISH",
     "name": "Kuro Kiryu"
   },
   {
     "compliant": "TRUE",
     "id": 4170,
+    "title": "Fulfilling VANQUISH",
     "name": "Nagisa Ran"
   },
   {
     "compliant": "TRUE",
     "id": 4171,
+    "title": "Equitable VANQUISH",
     "name": "Kaoru Hakaze"
   },
   {
     "compliant": "TRUE",
     "id": 4172,
+    "title": "The Arena of Resolve",
     "name": "Jun Sazanami"
   },
   {
     "compliant": "TRUE",
     "id": 4173,
+    "title": "The Arena of True Feelings",
     "name": "Sora Harukawa"
   },
   {
     "compliant": "TRUE",
     "id": 4174,
+    "title": "The Arena of Concordance",
     "name": "Hinata Aoi"
   },
   {
     "compliant": "TRUE",
     "id": 4175,
+    "title": "The Arena of No-mind",
     "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
     "id": 4176,
+    "title": "The Arena of Spurring On",
     "name": "Ibara Saegusa"
   },
   {
     "compliant": "TRUE",
     "id": 4177,
+    "title": "The Arena of Solidarity",
     "name": "Yuta Aoi"
   }
 ]
