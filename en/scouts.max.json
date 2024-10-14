@@ -1774,5 +1774,19 @@
     "story_name": "VANQUISH",
     "story_author": "-",
     "intro_lines": "Kuro is to participate in a variety show's \"investigation project.\" He'll begin a journey into uncharted territory along with Shu, with the aim of reaching their goal, but…"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 523,
+    "name": "アットホーム／うとうとfish",
+    "story_name": "アットホーム",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 524,
+    "name": "アットホーム／のびのびcat",
+    "story_name": "アットホーム",
+    "story_author": "-"
   }
 ]
