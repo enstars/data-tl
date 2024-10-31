@@ -1080,5 +1080,24 @@
     "intro_lines": "It's the high-profile \"4piece\" audition program! Jun and Sora are assigned to the fourth venue, \"The Arena.\" They strive to become “The Strongest Gladiator” in the venue, which is said to be a miniature version of the idol industry, but the idols each have something on their mind, troubling them…",
     "story_name": "VS★GLADIATOR",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 310,
+    "name": "forgotten＊A Fairy Tale Left Half-read",
+    "event_gacha": "at home／sleepy fish",
+    "intro_lines": "Eichi watches over Tori at his side as he works on the construction plan for ATLANTIS. Tori completes his project proposal after finding inspiration from a certain book he comes across, but this proposal brings out an emotional reaction from Eichi.",
+    "song_name": "Fairy Tale Library",
+    "story_name": "Fairy Tale",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 311,
+    "name": "遠吠えの森★ルーピンハロウィン",
+    "event_gacha": "ウィンクキラー／Shadows",
+    "song_name": "Halloween Rendezvous",
+    "story_name": "Lupin Halloween",
+    "story_author": "-"
   }
 ]

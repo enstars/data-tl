@@ -1778,15 +1778,31 @@
   {
     "compliant": "TRUE",
     "gacha_id": 523,
-    "name": "アットホーム／うとうとfish",
-    "story_name": "アットホーム",
-    "story_author": "-"
+    "name": "at home／sleepy fish",
+    "story_name": "at home",
+    "story_author": "-",
+    "intro_lines": "Arashi and the others visit Kanata's family home while on a TV program that introduces the family homes of idols. The group finds themselves perplexed at his house, which appears far different than an ordinary home, and…"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 524,
-    "name": "アットホーム／のびのびcat",
-    "story_name": "アットホーム",
+    "name": "at home／comfy cat",
+    "story_name": "at home",
+    "story_author": "-",
+    "intro_lines": "Arashi and the others visit Kanata's family home while on a TV program that introduces the family homes of idols. The group finds themselves perplexed at his house, which appears far different than an ordinary home, and…"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 525,
+    "name": "ウィンクキラー／Shadows",
+    "story_name": "ウィンクキラー",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 526,
+    "name": "ウィンクキラー／Jumping",
+    "story_name": "ウィンクキラー",
     "story_author": "-"
   }
 ]
