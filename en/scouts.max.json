@@ -1794,15 +1794,17 @@
   {
     "compliant": "TRUE",
     "gacha_id": 525,
-    "name": "ウィンクキラー／Shadows",
-    "story_name": "ウィンクキラー",
-    "story_author": "-"
+    "name": "Wink Killer／Shadows",
+    "story_name": "Wink Killer",
+    "story_author": "-",
+    "intro_lines": "Shinobu is investigating the meaning of mysterious \"symbols\" painted onto walls in the Seisokan Apartment. To ensure the truth behind the \"symbols\" won't be revealed, Natsume pretends to work alongside him to deal with the situation, but…"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 526,
-    "name": "ウィンクキラー／Jumping",
-    "story_name": "ウィンクキラー",
-    "story_author": "-"
+    "name": "Wink Killer／Jumping",
+    "story_name": "Wink Killer",
+    "story_author": "-",
+    "intro_lines": "Shinobu is investigating the meaning of mysterious \"symbols\" painted onto walls in the Seisokan Apartment. To ensure the truth behind the \"symbols\" won't be revealed, Natsume pretends to work alongside him to deal with the situation, but…"
   }
 ]
