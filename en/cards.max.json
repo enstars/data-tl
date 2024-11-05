@@ -13933,6 +13933,18 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4011,
+    "title": "Ideal SPARK",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4013,
+    "title": "Fluttering SPARK",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4014,
     "title": "Silent TORRENT",
     "name": "Yuzuru Fushimi"
@@ -13951,9 +13963,21 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4018,
+    "title": "Dazzling SPARK",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4019,
     "title": "Surging FLARE",
     "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4021,
+    "title": "Daring SPARK",
+    "name": "Shinobu Sengoku"
   },
   {
     "compliant": "TRUE",
@@ -13999,6 +14023,18 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4030,
+    "title": "Ambushing SPARK",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4031,
+    "title": "Fierce SPARK",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4032,
     "title": "Magnificent FLARE",
     "name": "Shu Itsuki"
@@ -14017,9 +14053,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4035,
+    "title": "Defiant SPARK",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4036,
+    "title": "Stinging SPARK",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4038,
     "title": "Perfect TORRENT",
     "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4040,
+    "title": "Sleeping SPARK",
+    "name": "Rei Sakuma"
   },
   {
     "compliant": "TRUE",
@@ -14038,6 +14092,18 @@
     "id": 4044,
     "title": "Unleashing FLARE",
     "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4045,
+    "title": "Cheerful SPARK",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4046,
+    "title": "Overflowing SPARK",
+    "name": "Mitsuru Tenma"
   },
   {
     "compliant": "TRUE",
@@ -14077,6 +14143,12 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4055,
+    "title": "Relentless SPARK",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4056,
     "title": "Sharp SPARK",
     "name": "Natsume Sakasaki"
@@ -14092,6 +14164,12 @@
     "id": 4060,
     "title": "Spreading FLARE",
     "name": "Esu Sagiri"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4061,
+    "title": "Fearless SPARK",
+    "name": "Ibuki Taki"
   },
   {
     "compliant": "TRUE",
@@ -14786,66 +14864,121 @@
   {
     "compliant": "TRUE",
     "id": 4178,
+    "title": "hospitality @home",
     "name": "Kanata Shinkai"
   },
   {
     "compliant": "TRUE",
     "id": 4179,
+    "title": "unwinding @home",
     "name": "Koga Oogami"
   },
   {
     "compliant": "TRUE",
     "id": 4180,
+    "title": "exhilarated @home",
     "name": "Aira Shiratori"
   },
   {
     "compliant": "TRUE",
     "id": 4181,
+    "title": "consideration @home",
     "name": "Arashi Narukami"
   },
   {
     "compliant": "TRUE",
     "id": 4182,
+    "title": "nervousness @home",
     "name": "Nazuna Nito"
   },
   {
     "compliant": "TRUE",
     "id": 4183,
+    "title": "refreshing @home",
     "name": "Subaru Akehoshi"
   },
   {
     "compliant": "TRUE",
     "id": 4184,
+    "title": "Fairy Tale of Allegories",
     "name": "Eichi Tenshouin"
   },
   {
     "compliant": "TRUE",
     "id": 4185,
+    "title": "Fairy Tale of Dreams",
     "name": "Tori Himemiya"
   },
   {
     "compliant": "TRUE",
     "id": 4186,
+    "title": "Fairy Tale of Fantasies",
     "name": "Wataru Hibiki"
   },
   {
     "compliant": "TRUE",
     "id": 4187,
+    "title": "Fairy Tale of Visions",
     "name": "Yuzuru Fushimi"
   },
   {
     "compliant": "TRUE",
     "id": 4188,
+    "title": "Killer's Apprehension",
     "name": "Natsume Sakasaki"
   },
   {
     "compliant": "TRUE",
     "id": 4189,
+    "title": "Killer's Specialty",
     "name": "Makoto Yuuki"
   },
   {
     "compliant": "TRUE",
     "id": 4190,
+    "title": "Killer's Interest",
     "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4191,
+    "title": "Killer's Truth",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4192,
+    "title": "Killer's Value",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4193,
+    "title": "Killer's Doubt",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4194,
+    "title": "Lupine's True Feelings",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4195,
+    "title": "Lupine's Opposition",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4196,
+    "title": "Lupine's Concern",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4197,
+    "title": "Lupine's Motion",
+    "name": "Kaoru Hakaze"
   }
 ]
