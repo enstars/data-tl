@@ -13875,7 +13875,7 @@
     "compliant": "TRUE",
     "id": 4000,
     "title": "An Idol",
-    "name": "Esu Sagiri"
+    "name": "Esu"
   },
   {
     "compliant": "TRUE",
@@ -13887,25 +13887,25 @@
     "compliant": "TRUE",
     "id": 4002,
     "title": "An Idol",
-    "name": "Kanna Natsu"
+    "name": "Kanna"
   },
   {
     "compliant": "TRUE",
     "id": 4003,
     "title": "An Idol",
-    "name": "Fuyume Hanamura"
+    "name": "Yume"
   },
   {
     "compliant": "TRUE",
     "id": 4004,
     "title": "An Idol",
-    "name": "Raika Hojo"
+    "name": "Raika"
   },
   {
     "compliant": "TRUE",
     "id": 4005,
     "title": "New ES Idol",
-    "name": "Esu Sagiri"
+    "name": "Esu"
   },
   {
     "compliant": "TRUE",
@@ -13917,19 +13917,19 @@
     "compliant": "TRUE",
     "id": 4007,
     "title": "New ES Idol",
-    "name": "Kanna Natsu"
+    "name": "Kanna"
   },
   {
     "compliant": "TRUE",
     "id": 4008,
     "title": "New ES Idol",
-    "name": "Fuyume Hanamura"
+    "name": "Yume"
   },
   {
     "compliant": "TRUE",
     "id": 4009,
     "title": "New ES Idol",
-    "name": "Raika Hojo"
+    "name": "Raika"
   },
   {
     "compliant": "TRUE",
@@ -14163,7 +14163,7 @@
     "compliant": "TRUE",
     "id": 4060,
     "title": "Spreading FLARE",
-    "name": "Esu Sagiri"
+    "name": "Esu"
   },
   {
     "compliant": "TRUE",
@@ -14175,13 +14175,13 @@
     "compliant": "TRUE",
     "id": 4062,
     "title": "Apathetic TORRENT",
-    "name": "Kanna Natsu"
+    "name": "Kanna"
   },
   {
     "compliant": "TRUE",
     "id": 4063,
     "title": "One's Own TORRENT",
-    "name": "Fuyume Hanamura"
+    "name": "Yume"
   },
   {
     "compliant": "TRUE",
@@ -14265,13 +14265,13 @@
     "compliant": "TRUE",
     "id": 4078,
     "title": "Adventurous Ball",
-    "name": "Esu Sagiri"
+    "name": "Esu"
   },
   {
     "compliant": "TRUE",
     "id": 4079,
     "title": "Dreamy Ball",
-    "name": "Fuyume Hanamura"
+    "name": "Yume"
   },
   {
     "compliant": "TRUE",
@@ -14463,7 +14463,7 @@
     "compliant": "TRUE",
     "id": 4111,
     "title": "Gourmet District of Freshness",
-    "name": "Raika Hojo"
+    "name": "Raika"
   },
   {
     "compliant": "TRUE",
@@ -14541,13 +14541,13 @@
     "compliant": "TRUE",
     "id": 4124,
     "title": "Bursting Stardrop",
-    "name": "Esu Sagiri"
+    "name": "Esu"
   },
   {
     "compliant": "TRUE",
     "id": 4125,
     "title": "An Opportunity to Trap",
-    "name": "Kanna Natsu"
+    "name": "Kanna"
   },
   {
     "compliant": "TRUE",
@@ -14721,7 +14721,7 @@
     "compliant": "TRUE",
     "id": 4154,
     "title": "A Guiding Dream World",
-    "name": "Fuyume Hanamura"
+    "name": "Yume"
   },
   {
     "compliant": "TRUE",
@@ -14847,7 +14847,7 @@
     "compliant": "TRUE",
     "id": 4175,
     "title": "The Arena of No-mind",
-    "name": "Kanna Natsu"
+    "name": "Kanna"
   },
   {
     "compliant": "TRUE",
@@ -14980,6 +14980,74 @@
     "id": 4197,
     "title": "Lupine's Motion",
     "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4204,
+    "title": "ES Idol",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4205,
+    "title": "ES Idol",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4206,
+    "title": "ES Idol",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4207,
+    "title": "ES Idol",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4208,
+    "title": "Practice",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4209,
+    "title": "Practice",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4210,
+    "title": "Practice",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4211,
+    "title": "Practice",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4212,
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4213,
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4214,
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4215,
+    "name": "Raika"
   },
   {
     "compliant": "TRUE",
