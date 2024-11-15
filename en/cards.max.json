@@ -13875,7 +13875,7 @@
     "compliant": "TRUE",
     "id": 4000,
     "title": "An Idol",
-    "name": "Esu"
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
@@ -13887,25 +13887,25 @@
     "compliant": "TRUE",
     "id": 4002,
     "title": "An Idol",
-    "name": "Kanna"
+    "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
     "id": 4003,
     "title": "An Idol",
-    "name": "Yume"
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
     "id": 4004,
     "title": "An Idol",
-    "name": "Raika"
+    "name": "Raika Hojo"
   },
   {
     "compliant": "TRUE",
     "id": 4005,
     "title": "New ES Idol",
-    "name": "Esu"
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
@@ -13917,19 +13917,19 @@
     "compliant": "TRUE",
     "id": 4007,
     "title": "New ES Idol",
-    "name": "Kanna"
+    "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
     "id": 4008,
     "title": "New ES Idol",
-    "name": "Yume"
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
     "id": 4009,
     "title": "New ES Idol",
-    "name": "Raika"
+    "name": "Raika Hojo"
   },
   {
     "compliant": "TRUE",
@@ -14163,7 +14163,7 @@
     "compliant": "TRUE",
     "id": 4060,
     "title": "Spreading FLARE",
-    "name": "Esu"
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
@@ -14175,13 +14175,13 @@
     "compliant": "TRUE",
     "id": 4062,
     "title": "Apathetic TORRENT",
-    "name": "Kanna"
+    "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
     "id": 4063,
     "title": "One's Own TORRENT",
-    "name": "Yume"
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
@@ -14265,13 +14265,13 @@
     "compliant": "TRUE",
     "id": 4078,
     "title": "Adventurous Ball",
-    "name": "Esu"
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
     "id": 4079,
     "title": "Dreamy Ball",
-    "name": "Yume"
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
@@ -14463,7 +14463,7 @@
     "compliant": "TRUE",
     "id": 4111,
     "title": "Gourmet District of Freshness",
-    "name": "Raika"
+    "name": "Raika Hojo"
   },
   {
     "compliant": "TRUE",
@@ -14541,13 +14541,13 @@
     "compliant": "TRUE",
     "id": 4124,
     "title": "Bursting Stardrop",
-    "name": "Esu"
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
     "id": 4125,
     "title": "An Opportunity to Trap",
-    "name": "Kanna"
+    "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
@@ -14721,7 +14721,7 @@
     "compliant": "TRUE",
     "id": 4154,
     "title": "A Guiding Dream World",
-    "name": "Yume"
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
@@ -14847,7 +14847,7 @@
     "compliant": "TRUE",
     "id": 4175,
     "title": "The Arena of No-mind",
-    "name": "Kanna"
+    "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
@@ -15082,6 +15082,26 @@
     "id": 4215,
     "title": "Innocent Entrance",
     "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4216,
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4217,
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4218,
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4219,
+    "name": "Mao Isara"
   },
   {
     "compliant": "TRUE",
