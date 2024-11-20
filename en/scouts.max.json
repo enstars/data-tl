@@ -49,7 +49,8 @@
     "gacha_id": 309,
     "name": "Honey Bee",
     "story_name": "Honey Bee",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Kohaku, who has never gotten any work on his own before, decides to compete with Rinne to see who can land the better job. He gives the search everything he's got, but he struggles to find the kind of work he had in mind…"
   },
   {
     "compliant": "TRUE",
@@ -65,7 +66,9 @@
     "gacha_id": 311,
     "name": "Vagabond",
     "story_name": "Vagabond",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Kuro has been feeling a strange presence recently, and rumors within ES are ever-growing. Kuro tries to solve the problem on his own, but Souma and Keito won't let him, so the three of them work to uncover the truth together.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -81,7 +84,9 @@
     "gacha_id": 313,
     "name": "Gingerbread House",
     "story_name": "Hansel and Gretel",
-    "story_author": "Kino Seitaro"
+    "story_author": "Kino Seitaro",
+    "intro_lines": "In order to deal with the sweets sent by fans, Ritsu proposes that they host a witch's gathering. The members gather for a fun tea party when Hajime discovers that something peculiar has been mixed in with the other gifts.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -133,7 +138,9 @@
     "gacha_id": 320,
     "name": "Dollhouse",
     "story_name": "Dollhouse",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Midori hears someone's cry for help, and when he goes to check it out, he finds Mika chasing after Daikichi. They go into a warehouse after him, but the door gets stuck...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -149,7 +156,9 @@
     "gacha_id": 322,
     "name": "Dead End Land",
     "story_name": "Dead End Land",
-    "story_author": "Kino Seitaro"
+    "story_author": "Kino Seitaro",
+    "intro_lines": "The ninja association is asked to assist at a theme restaurant. However, Mayoi can't handle the crowd and runs away.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -165,7 +174,9 @@
     "gacha_id": 324,
     "name": "Summer Snow",
     "story_name": "Summer Snow",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Rei hears a rumor that there's a youkai within ES that pulls people into the water, so he and Hinata seek out Kanata to find out the truth—and get caught up in a seemingly unavoidable situation.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -181,7 +192,9 @@
     "gacha_id": 326,
     "name": "Flowers of the Wasteland",
     "story_name": "Flowers of the Wasteland",
-    "story_author": "Kino Seitaro"
+    "story_author": "Kino Seitaro",
+    "intro_lines": "Nagisa pays a visit to Yumenosaki Academy, where he finds the basketball club in the middle of practice. They talk a little bit, but Nagisa's eye is on something else...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -215,7 +228,8 @@
     "gacha_id": 330,
     "name": "Werewolf",
     "story_name": "Werewolf",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Natsume enjoys a game of Werewolf with others at the dormitory. Hiyori and a few others join in and have a great time, but Sora begins to act suspiciously afterwards…"
   },
   {
     "compliant": "TRUE",
@@ -473,42 +487,53 @@
     "gacha_id": 359,
     "name": "Natsume Feature Scout",
     "story_name": "Guidance of the Magia",
-    "story_author": "Umeda Chitose"
+    "story_author": "Umeda Chitose",
+    "intro_lines": "The producer has been unsuccessful in her endeavors lately. Natsume sees how she's doing while waiting for a briefing session and offers to tell her fortune...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 360,
     "name": "Budding Spring→Ride ON!",
     "story_name": "Budding Spring→Ride ON!",
-    "story_author": "Kino Seitaro"
+    "story_author": "Kino Seitaro",
+    "intro_lines": "Tsukasa and the others are asked to appear in a promotional video for a bicycle manufacturer. High in spirits, they decide to take a break and hang out at a restaurant during their filming...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 361,
     "name": "Mayoi Feature Scout",
     "story_name": "Lead Me",
-    "story_author": "Yuumasu"
+    "story_author": "Yuumasu",
+    "intro_lines": "The producer is searching for Mayoi to discuss his personalized outfit, but he's nowhere to be found. Shinobu and co. notice this and then devise a plan.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 362,
     "name": "Burning Azaleas ",
     "story_name": "Burning Azaleas ",
-    "story_author": "Yuumasu"
+    "story_author": "Yuumasu",
+    "intro_lines": "Rei reveals that he's dissatisfied at one of the regularly-held Summit meetings. But when he sees the azaleas that Tsumugi brought, he comes up with a little plan.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 363,
     "name": "Aira Feature Scout",
     "story_name": "Sending My Love",
-    "story_author": "Umeda Chitose"
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Aira is excited that his turn is coming up. He shows Hiiro his plans, but he gets worried when he's suddenly told that his costume doesn't match his image",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 364,
     "name": "Ring.A.Bell",
     "story_name": "Ring",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Mao and Midori spot their Producer entering a bookstore after school, excitely picking up and purchasing a wedding magazine. They can't help but wonder if their Producer is planning to tie the knot..."
   },
   {
     "compliant": "TRUE",
@@ -523,28 +548,36 @@
     "gacha_id": 366,
     "name": "GemSphere",
     "story_name": "GemSphere",
-    "story_author": "Yuumasu"
+    "story_author": "Yuumasu",
+    "intro_lines": "A \"certain box\" brought out during a segment of a variety show ends up never being opened. Nazuna's interest is piqued, and he asks if he and the others can open it themselves.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 367,
     "name": "Sora Feature Scout",
     "story_name": "Colorful Surroundings",
-    "story_author": "Umeda Chitose"
+    "story_author": "Umeda Chitose",
+    "intro_lines": "To get ideas for his personalized outfit, Sora goes around asking others what they think his color is. But he gets a lot of different responses, and it turns out to be difficult to make all the colors to complement each other...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 368,
     "name": "Prison Breakers",
     "story_name": "Prison Breakers",
-    "story_author": "Nishioka Maiko"
+    "story_author": "Nishioka Maiko",
+    "intro_lines": "Makoto and co. happen to see Koga and Tori penny-pinching for lunch. When pressed about the situation, the two admit to being in need of some money they earned by themselves. That's when they're introduced to a show that gives a cash prize...",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 369,
     "name": "Chiaki Feature Scout",
     "story_name": "You're a Hero, Too!",
-    "story_author": "Yuumasu"
+    "story_author": "Yuumasu",
+    "intro_lines": "Chiaki has been putting a lot of thought into making the best outfit. But all of his ideas are too difficult to implement into an idol's costume, so he decides to head to the amusement park to reconsider what heroes are.",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
@@ -560,14 +593,18 @@
     "gacha_id": 371,
     "name": "Hiiro Feature Scout",
     "story_name": "What To Don on Stage",
-    "story_author": "Umeda Chitose"
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Hiiro is the only one in ALKALOID who hasn't gotten a personalized outfit, so by the time his turn comes around, he's already thought up a design for it. He asks the people around him what they think, but their responses are lukewarm…",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
     "gacha_id": 372,
     "name": "Roaring Sea Marina",
     "story_name": "Roaring Sea Marina",
-    "story_author": "Umeda Chitose"
+    "story_author": "Umeda Chitose",
+    "intro_lines": "Izumi and the others are set to go to a tropical island to do a PR shoot for travel goods. They're given an assignment to take some candids of their own, but they all end up looking really awkward..",
+    "intro_lines_tl_credit": "bluefilaments"
   },
   {
     "compliant": "TRUE",
