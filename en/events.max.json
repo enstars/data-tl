@@ -1104,5 +1104,15 @@
     "song_name": "Halloween Rendezvous",
     "story_name": "Lupin Halloween",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 312,
+    "name": "Build! FREEDOM Packed with Ideals!",
+    "event_gacha": "Seeker／Secret Key",
+    "intro_lines": "As their first job of the new fiscal year, Trickstar will be taking part in Urban Development Plan: FREEDOM. Makoto becomes addicted to this simulation game, where you live in a fictional town and develop it, but…",
+    "song_name": "Whatcha gonna do?",
+    "story_name": "FREEDOM",
+    "story_author": "-"
   }
 ]
