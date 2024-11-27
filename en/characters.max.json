@@ -984,36 +984,5 @@
     "family": "Parents",
     "favorite_food": "Japanese food",
     "handedness": "Left"
-  },
-  {
-    "compliant": "TRUE",
-    "character_id": 81,
-    "last_name": "Sagiri",
-    "first_name": "Esu"
-  },
-  {
-    "compliant": "TRUE",
-    "character_id": 82,
-    "last_name": "Taki",
-    "first_name": "Ibuki"
-  },
-  {
-    "compliant": "TRUE",
-    "character_id": 83,
-    "last_name": "Natsu",
-    "first_name": "Kanna"
-  },
-  {
-    "compliant": "TRUE",
-    "character_id": 84,
-    "last_name": "Hanamura",
-    "first_name": "Fuyume"
-  },
-  {
-    "compliant": "TRUE",
-    "character_id": 85,
-    "last_name": "Hojo",
-    "first_name": "Raika",
-    "last_nameRuby": "Houjou"
   }
 ]
