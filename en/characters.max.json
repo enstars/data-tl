@@ -984,5 +984,72 @@
     "family": "Parents",
     "favorite_food": "Japanese food",
     "handedness": "Left"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 81,
+    "last_name": "Sagiri",
+    "first_name": "Esu",
+    "character_voice": "Shuhei Toyoshima",
+    "hobby": "Taking on new challenges",
+    "specialty": "\nSurvival techniques",
+    "school": "Yumenosaki Academy",
+    "quote": "Now let the adventure begin!!!!",
+    "tagline": "Idols are my adventure!",
+    "introduction": "With a strong drive to take on new challenges, Esu has a lively personality, always full of energy. He's always restless, moving and talking non-stop, but he loves adventures and is in many ways, versatile. He is a member of NEW DIMENSION's Special for Princess! and serves as the leader. He's looking forward the adventures he'll be embarking on within the new environment of being an idol and is hoping to discover his own identity as an idol.",
+    "handedness": "Right"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 82,
+    "last_name": "Taki",
+    "first_name": "Ibuki",
+    "character_voice": "Chiaki Kobayashi",
+    "hobby": "\nPlaying musical instruments, composing",
+    "specialty": "\nSelf-taught martial arts, breakdancing",
+    "quote": "Nyahaha, these hunches of mine are always spot on you know~?",
+    "tagline": "Hurricane caused by Ibuki",
+    "introduction": "Born in Okinawa and raised in America, Ibuki goes around without a care in the world but can also be quick to start a fight. He's an eloquent speaker and a logical thinker despite his age. He was invited by Nice to the reality competition show \"4piece\" and is participating because it piqued his interest.",
+    "handedness": "Left"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 83,
+    "last_name": "Natsu",
+    "first_name": "Kanna",
+    "character_voice": "Yuki Sakakihara",
+    "hobby": "Building blocks, puzzles",
+    "specialty": "Calculation",
+    "quote": "—That sensibility is enviable.",
+    "tagline": "I won't smile even if it's requested.",
+    "introduction": "A robot-like boy that analyzes, categorizes, and evaluates both people and objects. He doesn't have a large range of emotions and tries to get by through the most basic, simplistic form of communication. He is a member of NEW DIMENSION's Special for Princess!. As long as he is given an environment where his personal safety is ensured, he has no intention of making any special effort and believes that focusing only on what is necessary is fine.[",
+    "handedness": "Right"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 84,
+    "last_name": "Hanamura",
+    "first_name": "Fuyume",
+    "character_voice": "Taichi Kusano",
+    "hobby": "Piano",
+    "specialty": "Cosplay, household chores",
+    "quote": "Those conditions, agreements, and terms of negotiations? That’s what Yume's asking for…♪",
+    "tagline": "You, too, will surely be taken to Yume's world of dreams♪",
+    "introduction": "An egocentric boy who is blinded by devotion. He has experience as a cosplayer, and is particular about how he presents himself. He is a member of NEW DIMENSION's Special for Princess!. While he firmly believes he knows best how to present himself, he is willing to make any effort necessary if it means Esu can become the ideal idol.",
+    "handedness": "Right"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 85,
+    "last_name": "Hojo",
+    "first_name": "Raika",
+    "last_nameRuby": "Houjou",
+    "character_voice": "Yuuki Terui",
+    "hobby": "Sunbathing, poetry",
+    "specialty": "Singing",
+    "quote": "Thank ya, thank ya oh so kindly! ♪",
+    "tagline": "A bird that can soar through the sky if it's a song!",
+    "introduction": "A cheerful and humble boy who's a bit sticky-fingered. He loves singing. He lacks a bit of common sense and has a hard time discerning \"right\" from wrong. He is a member of NEW DIMENSION's Special for Princess!. He wants to enjoy being an idol alongside the person he admires and have lots of people to listen to his songs.",
+    "handedness": "Right"
   }
 ]
