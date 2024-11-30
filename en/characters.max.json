@@ -988,7 +988,6 @@
   {
     "compliant": "TRUE",
     "character_id": 81,
-    "last_name": "Sagiri",
     "first_name": "Esu",
     "character_voice": "Shuhei Toyoshima",
     "hobby": "Taking on new challenges",
@@ -1015,7 +1014,6 @@
   {
     "compliant": "TRUE",
     "character_id": 83,
-    "last_name": "Natsu",
     "first_name": "Kanna",
     "character_voice": "Yuki Sakakihara",
     "hobby": "Building blocks, puzzles",
@@ -1028,8 +1026,7 @@
   {
     "compliant": "TRUE",
     "character_id": 84,
-    "last_name": "Hanamura",
-    "first_name": "Fuyume",
+    "first_name": "Yume",
     "character_voice": "Taichi Kusano",
     "hobby": "Piano",
     "specialty": "Cosplay, household chores",
@@ -1041,9 +1038,7 @@
   {
     "compliant": "TRUE",
     "character_id": 85,
-    "last_name": "Hojo",
     "first_name": "Raika",
-    "last_nameRuby": "Houjou",
     "character_voice": "Yuuki Terui",
     "hobby": "Sunbathing, poetry",
     "specialty": "Singing",

@@ -15145,6 +15145,26 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4226,
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4227,
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4228,
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4229,
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
     "id": 90001,
     "title": "Stage of Ignorance",
     "name": "Hiiro Amagi"
@@ -17010,7 +17030,7 @@
     "compliant": "TRUE",
     "id": 99399,
     "title": "Infinity ∞ I",
-    "name": "Esu"
+    "name": "Esu Sagiri"
   },
   {
     "compliant": "TRUE",
@@ -17022,18 +17042,18 @@
     "compliant": "TRUE",
     "id": 99401,
     "title": "Infinity ∞ I",
-    "name": "Kanna"
+    "name": "Kanna Natsu"
   },
   {
     "compliant": "TRUE",
     "id": 99402,
     "title": "Infinity ∞ I",
-    "name": "Yume"
+    "name": "Fuyume Hanamura"
   },
   {
     "compliant": "TRUE",
     "id": 99403,
     "title": "Infinity ∞ I",
-    "name": "Raika"
+    "name": "Raika Hojo"
   }
 ]
