@@ -15116,51 +15116,61 @@
   {
     "compliant": "TRUE",
     "id": 4220,
+    "title": "Experiencing Egoist",
     "name": "Tori Himemiya"
   },
   {
     "compliant": "TRUE",
     "id": 4221,
+    "title": "Amenable Egoist",
     "name": "Aira Shiratori"
   },
   {
     "compliant": "TRUE",
     "id": 4222,
+    "title": "Leisurely Egoist",
     "name": "Leo Tsukinaga"
   },
   {
     "compliant": "TRUE",
     "id": 4223,
+    "title": "Trendsetting Egoist",
     "name": "Rinne Amagi"
   },
   {
     "compliant": "TRUE",
     "id": 4224,
+    "title": "Intrigued Egoist",
     "name": "Rei Sakuma"
   },
   {
     "compliant": "TRUE",
     "id": 4225,
+    "title": "Diverging Egoist",
     "name": "Chiaki Morisawa"
   },
   {
     "compliant": "TRUE",
     "id": 4226,
+    "title": "Märchen White",
     "name": "Yume"
   },
   {
     "compliant": "TRUE",
     "id": 4227,
+    "title": "Attack White",
     "name": "Esu"
   },
   {
     "compliant": "TRUE",
     "id": 4228,
+    "title": "Logical White",
     "name": "Kanna"
   },
   {
     "compliant": "TRUE",
     "id": 4229,
+    "title": "Lyrical White",
     "name": "Raika"
   },
   {
