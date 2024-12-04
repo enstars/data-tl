@@ -1862,6 +1862,22 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 531,
+    "name": "Egoist／Immature",
+    "story_name": "Egoist",
+    "story_author": "-",
+    "intro_lines": "Rinne and Tori have been invited to liven up a trendsetter event. Rei and Rinne, who are out-of-touch with the latest fads, are taught by Tori what pastimes are popular with today's youth."
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 530,
+    "name": "Egoist／Childish",
+    "story_name": "Egoist",
+    "story_author": "-",
+    "intro_lines": "Rinne and Tori have been invited to liven up a trendsetter event. Rei and Rinne, who are out-of-touch with the latest fads, are taught by Tori what pastimes are popular with today's youth."
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000002,
     "name": "Little Moments of the Interlacing Years",
     "story_author": "-"
