@@ -1878,6 +1878,60 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 100002,
+    "name": "5th Anniversary StarPro Group A",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100003,
+    "name": "5th Anniversary StarPro Group B",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100004,
+    "name": "5th Anniversary StarPro Group C",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100006,
+    "name": "5th Anniversary CosPro Group A",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100007,
+    "name": "5th Anniversary CosPro Group B",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100008,
+    "name": "5th Anniversary RhyLin Group A",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100009,
+    "name": "5th Anniversary RhyLin Group B",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100015,
+    "name": "5th Anniversary NewDi Group A",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100016,
+    "name": "5th Anniversary NewDi Group B",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000002,
     "name": "Little Moments of the Interlacing Years",
     "story_author": "-"
