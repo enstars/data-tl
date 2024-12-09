@@ -1932,6 +1932,60 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 100029,
+    "name": "6th Anniversary Love Group A",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100030,
+    "name": "6th Anniversary Love Group B",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100031,
+    "name": "6th Anniversary Love Group C",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100032,
+    "name": "6th Anniversary Love Group D",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100033,
+    "name": "6th Anniversary Love Group E",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100062,
+    "name": "6th Anniversary Soul Group A",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100063,
+    "name": "6th Anniversary Soul Group B",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100064,
+    "name": "6th Anniversary Soul Group C",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 100065,
+    "name": "6th Anniversary Soul Group D",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000002,
     "name": "Little Moments of the Interlacing Years",
     "story_author": "-"
