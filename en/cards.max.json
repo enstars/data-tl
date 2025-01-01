@@ -13939,6 +13939,11 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4012,
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4013,
     "title": "Fluttering SPARK",
     "name": "Tori Himemiya"
@@ -13963,6 +13968,11 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4017,
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4018,
     "title": "Dazzling SPARK",
     "name": "Mao Isara"
@@ -13972,6 +13982,11 @@
     "id": 4019,
     "title": "Surging FLARE",
     "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4020,
+    "name": "Midori Takamine"
   },
   {
     "compliant": "TRUE",
@@ -14008,6 +14023,11 @@
     "id": 4026,
     "title": "Hidden TORRENT",
     "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4027,
+    "name": "Tatsumi Kazehaya"
   },
   {
     "compliant": "TRUE",
@@ -14065,15 +14085,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4037,
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4038,
     "title": "Perfect TORRENT",
     "name": "HiMERU"
   },
   {
     "compliant": "TRUE",
+    "id": 4039,
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4040,
     "title": "Sleeping SPARK",
     "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4041,
+    "name": "Kaoru Hakaze"
   },
   {
     "compliant": "TRUE",
@@ -14113,6 +14148,11 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4048,
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4049,
     "title": "Steadfast FLARE",
     "name": "Kuro Kiryu"
@@ -14128,6 +14168,11 @@
     "id": 4051,
     "title": "Illuminating FLARE",
     "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4052,
+    "name": "Leo Tsukinaga"
   },
   {
     "compliant": "TRUE",
@@ -14161,6 +14206,16 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4058,
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4059,
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4060,
     "title": "Spreading FLARE",
     "name": "Esu Sagiri"
@@ -14182,6 +14237,11 @@
     "id": 4063,
     "title": "One's Own TORRENT",
     "name": "Fuyume Hanamura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4064,
+    "name": "Raika Hojo"
   },
   {
     "compliant": "TRUE",
