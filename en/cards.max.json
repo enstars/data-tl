@@ -13940,6 +13940,7 @@
   {
     "compliant": "TRUE",
     "id": 4012,
+    "title": "Fantastic STORM",
     "name": "Wataru Hibiki"
   },
   {
@@ -13969,6 +13970,7 @@
   {
     "compliant": "TRUE",
     "id": 4017,
+    "title": "Confident STORM",
     "name": "Makoto Yuuki"
   },
   {
@@ -13986,6 +13988,7 @@
   {
     "compliant": "TRUE",
     "id": 4020,
+    "title": "Proactive STORM",
     "name": "Midori Takamine"
   },
   {
@@ -14027,6 +14030,7 @@
   {
     "compliant": "TRUE",
     "id": 4027,
+    "title": "Enveloping STORM",
     "name": "Tatsumi Kazehaya"
   },
   {
@@ -14086,6 +14090,7 @@
   {
     "compliant": "TRUE",
     "id": 4037,
+    "title": "Innocent STORM",
     "name": "Kohaku Oukawa"
   },
   {
@@ -14097,6 +14102,7 @@
   {
     "compliant": "TRUE",
     "id": 4039,
+    "title": "Hungry STORM",
     "name": "Niki Shiina"
   },
   {
@@ -14108,6 +14114,7 @@
   {
     "compliant": "TRUE",
     "id": 4041,
+    "title": "Pleasant STORM",
     "name": "Kaoru Hakaze"
   },
   {
@@ -14149,6 +14156,7 @@
   {
     "compliant": "TRUE",
     "id": 4048,
+    "title": "Focused STORM",
     "name": "Keito Hasumi"
   },
   {
@@ -14172,6 +14180,7 @@
   {
     "compliant": "TRUE",
     "id": 4052,
+    "title": "Imagined STORM",
     "name": "Leo Tsukinaga"
   },
   {
@@ -14207,11 +14216,13 @@
   {
     "compliant": "TRUE",
     "id": 4058,
+    "title": "Wishing STORM",
     "name": "Sora Harukawa"
   },
   {
     "compliant": "TRUE",
     "id": 4059,
+    "title": "Engulfing STORM",
     "name": "Madara Mikejima"
   },
   {
@@ -14241,6 +14252,7 @@
   {
     "compliant": "TRUE",
     "id": 4064,
+    "title": "Naive STORM",
     "name": "Raika Hojo"
   },
   {
@@ -15351,6 +15363,36 @@
     "compliant": "TRUE",
     "id": 4249,
     "title": "The Legend of KAGETSU of Take-off",
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4250,
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4251,
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4252,
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4253,
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4254,
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4255,
     "name": "Ibuki Taki"
   },
   {
