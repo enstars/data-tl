@@ -15398,36 +15398,43 @@
   {
     "compliant": "TRUE",
     "id": 4255,
+    "title": "Introductory Stage",
     "name": "Ibuki Taki"
   },
   {
     "compliant": "TRUE",
     "id": 4256,
+    "title": "Enclosing Flower",
     "name": "Mayoi Ayase"
   },
   {
     "compliant": "TRUE",
     "id": 4257,
+    "title": "Entwining Flower",
     "name": "Niki Shiina"
   },
   {
     "compliant": "TRUE",
     "id": 4258,
+    "title": "Encircling Flower",
     "name": "Wataru Hibiki"
   },
   {
     "compliant": "TRUE",
     "id": 4259,
+    "title": "Wildly Blooming Flower",
     "name": "Hiyori Tomoe"
   },
   {
     "compliant": "TRUE",
     "id": 4260,
+    "title": "Persisting Flower",
     "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
     "id": 4261,
+    "title": "Inviting Flower",
     "name": "Mao Isara"
   },
   {
@@ -16160,6 +16167,26 @@
     "id": 90128,
     "title": "Rock Future",
     "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90129,
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90130,
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90131,
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90132,
+    "name": "Hokuto Hidaka"
   },
   {
     "compliant": "TRUE",
