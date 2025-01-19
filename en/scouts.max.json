@@ -2423,5 +2423,21 @@
     "gacha_id": 100910,
     "name": "9th Anniversary: STORM SEASON Group C",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 537,
+    "name": "Flower of Worship／Hedonism",
+    "story_name": "Flower of Worship",
+    "story_author": "-",
+    "intro_lines": "In an unexpected twist of fate, Mayoi ends up playing games with Hiyori alongside some others, of whom he typically doesn't interact with. A series of events leads to them appearing together at a charity event…"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 536,
+    "name": "Flower of Worship／Ecstasy",
+    "story_name": "Flower of Worship",
+    "story_author": "-",
+    "intro_lines": "In an unexpected twist of fate, Mayoi ends up playing games with Hiyori alongside some others, of whom he typically doesn't interact with. A series of events leads to them appearing together at a charity event…"
   }
 ]
