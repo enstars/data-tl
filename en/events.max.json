@@ -1151,5 +1151,14 @@
     "song_name": "Hoshi no Meidou Hibikishi Toki ni",
     "story_name": "The Echo of a Star",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 317,
+    "name": "Trial of Love◆A Love Collector Dancing with a Step",
+    "intro_lines": "Now graduated from Yumenosaki Academy, Arashi tries to confess her feelings to Akiomi, of whom she's had an unrequited crush on for many years. However, the confession takes an unexpected turn... Heartbroken, Arashi initiates a \"Duel of Love\" against the other members of Knights.",
+    "song_name": "Heart Collector",
+    "story_name": "Love Collector",
+    "story_author": "-"
   }
 ]
