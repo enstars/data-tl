@@ -2442,14 +2442,18 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 539,
     "name": "Devoted to you／IDEAL",
     "story_name": "Devoted to you",
+    "story_author": "-",
     "intro_lines": "A project where idols vote amongst each other called \"ES' Most Popular Man Contest\" has begun, and Hiiro and Koga are asked about their nominations. They search for who fits the bill as a \"popular man\", and..."
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 538,
     "name": "Devoted to you／PURE",
     "story_name": "Devoted to you",
+    "story_author": "-",
     "intro_lines": "A project where idols vote amongst each other called \"ES' Most Popular Man Contest\" has begun, and Hiiro and Koga are asked about their nominations. They search for who fits the bill as a \"popular man\", and..."
   }
 ]
