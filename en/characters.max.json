@@ -9,12 +9,18 @@
     "hobbies": [
       {
         "value": "Weight training"
+      },
+      {
+        "value": "Weight training, frying pan cooking (learning), watching TV dramas"
       }
     ],
     "specialty": "Cooking Chinese food over an open flame",
     "specialties": [
       {
         "value": "Cooking Chinese food over an open flame"
+      },
+      {
+        "value": "Martial arts (karate)"
       }
     ],
     "school": "Yumenosaki Academy",
@@ -23,6 +29,9 @@
     "quotes": [
       {
         "value": "It'd be shameful to only rely on my seniors!"
+      },
+      {
+        "value": "All for one! That's what RYUSEITAI's all about!"
       }
     ],
     "tagline": "A Fistful of the Iron Heart!",
@@ -35,6 +44,9 @@
     "introductions": [
       {
         "value": "An idol working hard in order to become a man among men. In Yumenosaki Academy, he is the leader of Ryuseitai-N. He is an earnest and hardworking person, but struggles when it comes to thinking things through. With a boyish, reassuring singing voice, his performances are powerful. He is RYUSEI Black in Starmaker Production's Ryuseitai."
+      },
+      {
+        "value": "Tetora is an idol who works hard to become the most masculine man. Striving for strength both in mind and body, he is honest and willing to spare all his efforts, but he is not good at thinking. With a strong and coherent singing voice, his performances are energetic too. Tetora is the RYUSEI Black, a member of RYUSEITAI at STARMAKER PRODUCTION. To find the path to his ideal seal self and become a strong man, he is looking to create an environment where RYUSEITAI can demonstrate its individuality to its greatest potential. When it comes to his personal work, he would like to do work that involves martial arts."
       }
     ],
     "club": "Karate Team",
@@ -128,6 +140,9 @@
     "introductions": [
       {
         "value": "An average guy, for better or worse. Besides being an idol, he is also an aspiring actor. While Tomoya is serious and caring, he is easily swayed by his surroundings. With a mild, humble voice, he delivers energetic, vigorous performances. The leader of Rhythm Link's Ra*bits."
+      },
+      {
+        "value": "Tetora is the RYUSEI Black, a member of RYUSEITAI at STARMAKER PRODUCTION. To find the path to his ideal seal self and become a strong man, he is looking to create an environment where RYUSEITAI can demonstrate its individuality to its greatest potential. When it comes to his personal work, he would like to do work that involves martial arts."
       }
     ],
     "club": "Drama Club",
