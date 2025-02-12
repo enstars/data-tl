@@ -2235,18 +2235,27 @@
     "hobbies": [
       {
         "value": "Cooking"
+      },
+      {
+        "value": "Hunting for new ingredients, touring food stalls"
       }
     ],
     "specialty": "Can recreate anything he tasted once",
     "specialties": [
       {
         "value": "Can recreate anything he tasted once"
+      },
+      {
+        "value": "Cooking (if he's eaten it once, he can reproduce it), survival"
       }
     ],
     "quote": "Being an idol just makes me hungry! And when I'm hungry, I'm noooo help at all!",
     "quotes": [
       {
         "value": "Being an idol just makes me hungry! And when I'm hungry, I'm noooo help at all!"
+      },
+      {
+        "value": "Wooow, cooking without worrying about the ingredient bill makes me so happy~!"
       }
     ],
     "tagline": "A Nutritional Niki Smile for the heart!",
@@ -2259,6 +2268,9 @@
     "introductions": [
       {
         "value": "An idol who also works as a chef. He used to perform as part of a duo with Rinne Amagi. Though he's someone very easily swayed by the words of others, he has an overall chipper personality. He becomes wild and brusque once his stomach is empty. Normally, though, he has a friendly atmosphere about him and feels easy to talk to. With a mischievous voice, his performances are light and carefree. A member of Cosmic Production's Crazy:B."
+      },
+      {
+        "value": "Niki is an idol and a chef. He was the partner of Rinne Amagi in a duo unit. He's overall sociable and doesn't worry about the finer details in life, but his hunger can turn him into something of a beast. Being a chef used to be his highest priority, but he's started to feel the joy of being an idol. Singing with a cheerful voice, Niki delivers light and fun performances. Niki is a member of Crazy:B at COSMIC PRODUCTION. He wants to balance being a chef and an idol, and to spend his days with both his heart and his stomach feeling satisfied. He's been thinking about creating something that combines cooking and idols."
       }
     ],
     "family": "Parents",
