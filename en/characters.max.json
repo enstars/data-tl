@@ -67,12 +67,18 @@
     "hobbies": [
       {
         "value": "Drawing, stargazing"
+      },
+      {
+        "value": "Gardening, household chores, reading"
       }
     ],
     "specialty": "Speed-reading",
     "specialties": [
       {
         "value": "Speed-reading"
+      },
+      {
+        "value": "Physical work, brewing delicious tea, drawing"
       }
     ],
     "school": "Yumenosaki Academy",
@@ -93,6 +99,9 @@
     "introductions": [
       {
         "value": "Though his appearance may cause him to be mistaken for a girl, Hajime is fairly strong. He is selfless and friendly, but can be slightly shy. His singing voice is like that of a bashful maiden's, and his performances are reserved and delicate. A member of Rhythm Link's Ra*bits."
+      },
+      {
+        "value": "If only judged by his appearance, Hajime can easily be mistaken as a girl, but he is pretty strong. He is composed and selfless, but sometimes he's also a little pessimistic. Hajime delivers low-profile yet delicate performances with a singing voice like a demure maid."
       }
     ],
     "club": "Tea Club",
@@ -114,12 +123,18 @@
     "hobbies": [
       {
         "value": "Listening to music, reading manga"
+      },
+      {
+        "value": "Reading (manga), watching movies"
       }
     ],
     "specialty": "Liked by animals",
     "specialties": [
       {
         "value": "Liked by animals"
+      },
+      {
+        "value": "Being loved by animals, never giving up"
       }
     ],
     "school": "Yumenosaki Academy",
@@ -142,7 +157,7 @@
         "value": "An average guy, for better or worse. Besides being an idol, he is also an aspiring actor. While Tomoya is serious and caring, he is easily swayed by his surroundings. With a mild, humble voice, he delivers energetic, vigorous performances. The leader of Rhythm Link's Ra*bits."
       },
       {
-        "value": "Tetora is the RYUSEI Black, a member of RYUSEITAI at STARMAKER PRODUCTION. To find the path to his ideal seal self and become a strong man, he is looking to create an environment where RYUSEITAI can demonstrate its individuality to its greatest potential. When it comes to his personal work, he would like to do work that involves martial arts."
+        "value": "An average guy, for better or worse. Besides being an idol, he is also an aspiring actor. While Tomoya is serious and caring, he is easily swayed by his surroundings. With a mild, humble voice, he delivers energetic, vigorous performances."
       }
     ],
     "club": "Drama Club",
@@ -163,12 +178,18 @@
     "hobbies": [
       {
         "value": "Listening to music, doing pretend concerts"
+      },
+      {
+        "value": "Making sweets, listening to music, gardening"
       }
     ],
     "specialty": "Synchronized swimming",
     "specialties": [
       {
         "value": "Synchronized swimming"
+      },
+      {
+        "value": "Musical performance, acrobatics, best smiles"
       }
     ],
     "school": "Yumenosaki Academy",
@@ -235,6 +256,9 @@
     "introductions": [
       {
         "value": "He accidentally became an idol, but lately he is properly facing his path as one. He tends to find things bothersome, and has a pessimistic attitude. Mascot characters are his emotional support. With a delicate, soft singing voice, his performances are slightly modest. He is RYUSEI Green in Starmaker Production's Ryuseitai"
+      },
+      {
+        "value": "The leader of Rhythm Link's Ra*bits."
       }
     ],
     "club": "Basketball Team",
