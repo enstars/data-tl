@@ -15637,6 +15637,39 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4295,
+    "title": "ES Idol 2",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4296,
+    "title": "ES Idol 2",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4297,
+    "title": "ES Idol 2",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4298,
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4299,
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4300,
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
     "id": 90001,
     "title": "Stage of Ignorance",
     "name": "Hiiro Amagi"
