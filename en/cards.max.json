@@ -15656,17 +15656,30 @@
   {
     "compliant": "TRUE",
     "id": 4298,
+    "title": "Rough Play-of-Color Facets",
     "name": "Kanna"
   },
   {
     "compliant": "TRUE",
     "id": 4299,
+    "title": "Fateful Choice",
     "name": "Esu"
   },
   {
     "compliant": "TRUE",
     "id": 4300,
+    "title": "A Bad Feeling",
     "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4304,
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4305,
+    "name": "Yume"
   },
   {
     "compliant": "TRUE",
