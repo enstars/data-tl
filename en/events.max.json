@@ -1169,5 +1169,23 @@
     "song_name": "Fusion",
     "story_name": "Harmonizing SEKAI",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 319,
+    "name": "Fulfillment★A Twice-Made Wish",
+    "intro_lines": "As the agency's vice president, Tsumugi is very busy welcoming new recruits, when the president of NEW DIMENSION, Arata Mototsugi, returns to Japan following his business trip abroad. Tsumugi is then suddenly informed by Mototsugi that he is being dismissed from his position as Vice President...",
+    "song_name": "Wish upon a MUSIC!! ",
+    "story_name": "Wish",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 320,
+    "name": "SHUFFLE×The Fallen Angels' Banquet",
+    "intro_lines": "As guests, Shinobu and the others will perform as a Shuffle Unit to liven up a banquet hosted by Tsukasa. The project will have a theme of \"Hidden Sides,\" but the members' feelings seem to be all over the place...",
+    "song_name": "Datenshitachi no Bansankai",
+    "story_name": "The Fallen Angels' Banquet",
+    "story_author": "-"
   }
 ]
