@@ -15680,21 +15680,25 @@
   {
     "compliant": "TRUE",
     "id": 4302,
+    "title": "The Fallen Angel's Deceit",
     "name": "Shinobu Sengoku"
   },
   {
     "compliant": "TRUE",
     "id": 4303,
+    "title": "The Fallen Angel's Freedom",
     "name": "Tomoya Mashiro"
   },
   {
     "compliant": "TRUE",
     "id": 4304,
+    "title": "The Fallen Angel's Warning",
     "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
     "id": 4305,
+    "title": "The Fallen Angel's Grievances",
     "name": "Yume"
   },
   {
@@ -15711,6 +15715,21 @@
     "compliant": "TRUE",
     "id": 4308,
     "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4309,
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4310,
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4311,
+    "name": "Yuzuru Fushimi"
   },
   {
     "compliant": "TRUE",
