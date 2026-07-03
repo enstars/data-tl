@@ -283,7 +283,7 @@
     },
     "quote": {
       "n": "I'll keep on sparkling bright even more!",
-      "e": "‘Cuz I wanna see smiles from everyone!"
+      "e": "Cuz I wanna see smiles from everyone!"
     }
   },
   {
@@ -364,7 +364,8 @@
       }
     },
     "quote": {
-      "n": "I'm Trickstar's Mao Isara♪"
+      "n": "I'm Trickstar's Mao Isara♪",
+      "e": "Cheer for STAR PRO too"
     }
   },
   {
@@ -534,7 +535,8 @@
       }
     },
     "quote": {
-      "n": "...Please look at this for a moment."
+      "n": "...Please look at this for a moment.",
+      "e": "Standing together gives me strength...♪"
     }
   },
   {
@@ -630,7 +632,8 @@
       }
     },
     "quote": {
-      "n": "The hero is here!"
+      "n": "The hero is here!",
+      "e": "I'll watch over and defend everyone☆"
     }
   },
   {
@@ -688,7 +691,8 @@
       }
     },
     "quote": {
-      "n": "Let's work hard for everyone's smiles"
+      "n": "Let's work hard for everyone's smiles",
+      "e": "There's no need to feel sad"
     }
   },
   {
@@ -702,7 +706,8 @@
       }
     },
     "quote": {
-      "n": "There's no more water...?"
+      "n": "There's no more water...?",
+      "e": "I'll dry up right away from sweating"
     }
   },
   {
@@ -759,6 +764,9 @@
       "live": {
         "name": "The World of Idols"
       }
+    },
+    "quote": {
+      "n": "I'm feeling the effects of this practice"
     }
   },
   {
@@ -822,7 +830,7 @@
     "title": "Idol Lover",
     "name": "Aira Shiratori",
     "quote": {
-      "n": "Sorry to wake you up from your good dream…",
+      "n": "Sorry to wake you up from your good dream...",
       "e": "I can fly through the sky! Even if it's ungraceful...!"
     }
   },
@@ -1084,7 +1092,8 @@
       }
     },
     "quote": {
-      "n": "I am Eden's Ibara Saegusa!"
+      "n": "I am Eden's Ibara Saegusa!",
+      "e": "Keep your attention on COS PRO!"
     }
   },
   {
@@ -1140,7 +1149,8 @@
       }
     },
     "quote": {
-      "n": "I'm Eden's Jun Sazanami"
+      "n": "I'm Eden's Jun Sazanami",
+      "e": "My idol activities are at COS PRO"
     }
   },
   {
@@ -1191,7 +1201,8 @@
       }
     },
     "quote": {
-      "n": "I am Valkyrie's Shu Itsuki"
+      "n": "I am Valkyrie's Shu Itsuki",
+      "e": "I'll convey to you from COS PRO"
     }
   },
   {
@@ -1457,7 +1468,8 @@
       }
     },
     "quote": {
-      "n": "I am Crazy:B's HiMERU"
+      "n": "I am Crazy:B's HiMERU",
+      "e": "HiMERU works at COS PRO"
     }
   },
   {
@@ -1508,7 +1520,8 @@
       }
     },
     "quote": {
-      "n": "m Crazy:B's Kohaku Oukawa"
+      "n": "m Crazy:B's Kohaku Oukawa",
+      "e": "I'm workin' at COS PRO"
     }
   },
   {
@@ -1570,7 +1583,8 @@
       }
     },
     "quote": {
-      "n": "I'm Crazy:B's Niki Shiina!"
+      "n": "I'm Crazy:B's Niki Shiina!",
+      "e": "COS PRO's got the vibe"
     }
   },
   {
@@ -1621,7 +1635,8 @@
       }
     },
     "quote": {
-      "n": "I am UNDEAD's Rei Sakuma"
+      "n": "I am UNDEAD's Rei Sakuma",
+      "e": "Rhyth Lin is our castle"
     }
   },
   {
@@ -1734,7 +1749,8 @@
       }
     },
     "quote": {
-      "n": "I'm UNDEAD's Koga Ogami!"
+      "n": "I'm UNDEAD's Koga Ogami!",
+      "e": "I work at Rhythm Link"
     }
   },
   {
@@ -1777,7 +1793,8 @@
       }
     },
     "quote": {
-      "n": "I'm UNDEAD's Adonis Otogari"
+      "n": "I'm UNDEAD's Adonis Otogari",
+      "e": "I'm studying at Rhyth Lin"
     }
   },
   {
@@ -1871,7 +1888,8 @@
       }
     },
     "quote": {
-      "n": "I'm Ra*bits' Nazuna Nito!"
+      "n": "I'm Ra*bits' Nazuna Nito!",
+      "e": "I'm under Rhyth Lin's care"
     }
   },
   {
@@ -1964,7 +1982,8 @@
       }
     },
     "quote": {
-      "n": "I'm Ra*bits Hajime Shino"
+      "n": "I'm Ra*bits Hajime Shino",
+      "e": "My idol activities are at Rhyth Lin"
     }
   },
   {
@@ -2111,7 +2130,8 @@
       }
     },
     "quote": {
-      "n": "I am AKATSUKI's Souma Kanzaki"
+      "n": "I am AKATSUKI's Souma Kanzaki",
+      "e": "I am diligently working at Rhyth Lin"
     }
   },
   {
@@ -2223,7 +2243,8 @@
       }
     },
     "quote": {
-      "n": "I'll make the best melody and give the greatest performance!"
+      "n": "I'll make the best melody and give the greatest performance!",
+      "e": "You've gotta do what you want to do♪"
     }
   },
   {
@@ -2546,7 +2567,8 @@
       }
     },
     "quote": {
-      "n": "I'm Switch's Sora Harukawa!"
+      "n": "I'm Switch's Sora Harukawa!",
+      "e": "Sora works for NEW DI~♪"
     }
   },
   {
@@ -2602,7 +2624,8 @@
       }
     },
     "quote": {
-      "n": "I'm MaM's Madara Mikejima!"
+      "n": "I'm MaM's Madara Mikejima!",
+      "e": "Greetings from NEW DI too!"
     }
   },
   {
@@ -2716,7 +2739,8 @@
     "title": "New Star's Stage",
     "name": "Subaru Akehoshi",
     "quote": {
-      "n": "I believe we'll be able to stand together again—on the stage."
+      "n": "I believe we'll be able to stand together again—on the stage.",
+      "e": "Hurry up and jump onto the stage!"
     }
   },
   {
@@ -2772,6 +2796,10 @@
       "live": {
         "name": "Jin-Sensei"
       }
+    },
+    "quote": {
+      "n": "Have you decided on your wish?",
+      "e": "Let's start idol exercises~♪"
     }
   },
   {
@@ -2783,25 +2811,40 @@
       "live": {
         "name": "Akiomi-Sensei"
       }
+    },
+    "quote": {
+      "n": "I have no complaints.",
+      "e": "All idols, gather around~♪"
     }
   },
   {
     "compliant": "TRUE",
     "id": 2460,
     "title": "ES Staff",
-    "name": "Jin Sagami"
+    "name": "Jin Sagami",
+    "quote": {
+      "n": "I'm here for advice or for anything.",
+      "e": "When something comes up, that's when grown-ups step in♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2461,
     "title": "ES Staff",
-    "name": "Akiomi Kunugi"
+    "name": "Akiomi Kunugi",
+    "quote": {
+      "n": "You can't let your guard down in show business.",
+      "e": "Stay focused and keep moving forward."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2412,
     "title": "Tranquil Prayer",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "quote": {
+      "n": "I didn't intend to eavesdrop."
+    }
   },
   {
     "compliant": "TRUE",
@@ -2864,7 +2907,8 @@
       }
     },
     "quote": {
-      "n": "No, no, you're not making sense at all!"
+      "n": "No, no, you're not making sense at all!",
+      "e": "I'll tell you...my honest feelings"
     }
   },
   {
@@ -3003,8 +3047,8 @@
     "title": "Motor Show of Devotion",
     "name": "Shinobu Sengoku",
     "quote": {
-      "n": "What a great ninja...☆",
-      "e": "To protect the sacred people is the duty of the hero!"
+      "n": "You managed to trail behind me without a sound...!",
+      "e": "This is one of the duties of a hero!"
     }
   },
   {
@@ -3032,8 +3076,8 @@
     "title": "Feelings and the Motor Show",
     "name": "Kanata Shinkai",
     "quote": {
-      "n": "our hearts are together",
-      "e": "today's a very important day~♪"
+      "n": "Our hearts are together.",
+      "e": "Today's a very important day~♪"
     }
   },
   {
@@ -3160,7 +3204,10 @@
     "compliant": "TRUE",
     "id": 2227,
     "title": "Skilled Vagabond",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "quote": {
+      "n": "Is this a toy?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -3229,7 +3276,7 @@
     "title": "Volunteering",
     "name": "Tetora Nagumo",
     "quote": {
-      "n": "It's about time for us to meet up, ossu"
+      "n": "It's about time for us to meet up, ossu."
     }
   },
   {
@@ -3293,6 +3340,9 @@
       "support": {
         "name": "Loved Ones"
       }
+    },
+    "quote": {
+      "n": "............"
     }
   },
   {
@@ -3305,7 +3355,10 @@
     "compliant": "TRUE",
     "id": 2426,
     "title": "Caretaker and Follower",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "quote": {
+      "n": "Please cheer up soon."
+    }
   },
   {
     "compliant": "TRUE",
@@ -3346,7 +3399,10 @@
     "compliant": "TRUE",
     "id": 2447,
     "title": "Peaceful Library",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "............"
+    }
   },
   {
     "compliant": "TRUE",
@@ -3511,7 +3567,11 @@
     "compliant": "TRUE",
     "id": 2450,
     "title": "Fennec Fox Encounter",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "quote": {
+      "n": "You're so heavy",
+      "e": "Even in the wild things'll work out somehow!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -3631,7 +3691,10 @@
     "compliant": "TRUE",
     "id": 2468,
     "title": "Challenge Match",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "quote": {
+      "n": "... Mm"
+    }
   },
   {
     "compliant": "TRUE",
@@ -3823,7 +3886,10 @@
     "compliant": "TRUE",
     "id": 2495,
     "title": "Asking a Favor of Someone Younger",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "I was wondering if I could as you a favour~"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4112,6 +4178,9 @@
       "live": {
         "name": "Idol Smile"
       }
+    },
+    "quote": {
+      "n": "Wow, my outfit is sparkling☆"
     }
   },
   {
@@ -4232,7 +4301,10 @@
     "compliant": "TRUE",
     "id": 2549,
     "title": "Liar Game",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "Don't worrY, I'll go with yoU."
+    }
   },
   {
     "compliant": "TRUE",
@@ -4271,7 +4343,7 @@
     "name": "Hokuto Hidaka",
     "quote": {
       "n": "Rest assured, I’m here to save you.",
-      "e": "Why... why can't I win?"
+      "e": "Why, why can't I win."
     }
   },
   {
@@ -4280,7 +4352,7 @@
     "title": "Being the Heroine",
     "name": "Tori Himemiya",
     "quote": {
-      "n": "Here, tada~ ♪ Peach buns!",
+      "n": "Ta~da, peach buns!",
       "e": "Help me! Help me, please!"
     }
   },
@@ -4365,7 +4437,10 @@
     "compliant": "TRUE",
     "id": 2562,
     "title": "Deceptive Spy",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "This's the guy that was trying to get away"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4388,7 +4463,10 @@
     "compliant": "TRUE",
     "id": 2557,
     "title": "Within Touching Distance",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "T-this is kinda embarrassing"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4451,7 +4529,10 @@
     "compliant": "TRUE",
     "id": 2575,
     "title": "Making Sweets",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "quote": {
+      "e": "Sweet things cheer me up, ossu!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4556,7 +4637,11 @@
     "compliant": "TRUE",
     "id": 2591,
     "title": "Survival and Observation",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Tetora-kun and Ogami-senpai won't lose~",
+      "e": "You want some fights to go your way"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4902,7 +4987,7 @@
     "title": "Meteors and My True Feelings",
     "name": "Midori Takamine",
     "quote": {
-      "n": "Now it's our turn, Senpai"
+      "n": "It's our turn to shine, Senpai."
     }
   },
   {
@@ -5020,7 +5105,8 @@
     "title": "Presenting a New Creation",
     "name": "Eichi Tenshouin",
     "quote": {
-      "n": "A new blend that I thought of♪"
+      "n": "It's a new blend that I thought of♪",
+      "e": "Let's always smile cheerfully"
     }
   },
   {
@@ -5093,7 +5179,10 @@
     "compliant": "TRUE",
     "id": 2644,
     "title": "Family Legend",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "quote": {
+      "e": "We'll always be friends"
+    }
   },
   {
     "compliant": "TRUE",
@@ -5141,7 +5230,10 @@
     "compliant": "TRUE",
     "id": 2654,
     "title": "A Club Leader's Duties",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "quote": {
+      "e": "Ahaha, even Isara-kun isn't forgiving, huh?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -5149,7 +5241,8 @@
     "title": "A Gathering of Novices",
     "name": "Mayoi Ayase",
     "quote": {
-      "n": "...Yes? W-What's wrong..."
+      "n": "...Yes? W-What's wrong...",
+      "e": "You're a fellow game enthusiast...♪"
     }
   },
   {
@@ -5174,7 +5267,11 @@
     "compliant": "TRUE",
     "id": 2662,
     "title": "Sweets Sensor",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "quote": {
+      "n": "I can't drink any more",
+      "e": "This sweet smell tells me everything"
+    }
   },
   {
     "compliant": "TRUE",
@@ -5294,7 +5391,10 @@
     "compliant": "TRUE",
     "id": 2678,
     "title": "Place of Thundrous Festivities",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "quote": {
+      "e": "Smile, smile!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -5329,7 +5429,8 @@
     "title": "Beautiful Spring",
     "name": "Tetora Nagumo",
     "quote": {
-      "n": "Well then, see you tomorrow~♪"
+      "n": "Well then, see you tomorrow~♪",
+      "e": "We have this scenery all to ourselves, ossu!"
     }
   },
   {
@@ -5522,7 +5623,8 @@
     "title": "Always a Child at Heart",
     "name": "Shinobu Sengoku",
     "quote": {
-      "n": "Um, I can't move, de gozaru~"
+      "n": "I-I cannot move an inch~",
+      "e": "What shall we play today?"
     }
   },
   {
@@ -5562,7 +5664,10 @@
     "compliant": "TRUE",
     "id": 2758,
     "title": "Satellite's Revolutionary Star",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "quote": {
+      "e": "Let me smile and sing"
+    }
   },
   {
     "compliant": "TRUE",
@@ -5808,7 +5913,10 @@
     "compliant": "TRUE",
     "id": 2789,
     "title": "Rookie Skater",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "quote": {
+      "n": "It's an easy task, right?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -6197,13 +6305,19 @@
     "compliant": "TRUE",
     "id": 2822,
     "title": "Secrets and the Land of Zero",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "............"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2823,
     "title": "Of Love, Duty and Secrets",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "quote": {
+      "e": "I don't want to see it again"
+    }
   },
   {
     "compliant": "TRUE",
@@ -6408,13 +6522,21 @@
     "compliant": "TRUE",
     "id": 2854,
     "title": "Phantom of Shinsekai",
-    "name": "Jin Sagami"
+    "name": "Jin Sagami",
+    "quote": {
+      "n": "Won't you listen to what your teacher says?",
+      "e": "This look brings back memories, doesn't it?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2855,
     "title": "Mirage of Shinsekai",
-    "name": "Akiomi Kunugi"
+    "name": "Akiomi Kunugi",
+    "quote": {
+      "n": "This is a word of advice.",
+      "e": "Doesn't this bring back memories?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -6512,7 +6634,10 @@
     "compliant": "TRUE",
     "id": 2867,
     "title": "Restricted Sandstorm",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "quote": {
+      "n": "............"
+    }
   },
   {
     "compliant": "TRUE",
@@ -6638,6 +6763,10 @@
       "support": {
         "name": "Back Alley of Loss"
       }
+    },
+    "quote": {
+      "n": "...? Where am I?",
+      "e": "The best show is right here!"
     }
   },
   {
@@ -6672,6 +6801,9 @@
       "support": {
         "name": "Park Guide"
       }
+    },
+    "quote": {
+      "n": "Follow me!"
     }
   },
   {
@@ -7549,7 +7681,10 @@
     "compliant": "TRUE",
     "id": 2966,
     "title": "Red that Pierces Through the Clouds",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "quote": {
+      "n": "............"
+    }
   },
   {
     "compliant": "TRUE",
@@ -7579,7 +7714,10 @@
     "compliant": "TRUE",
     "id": 2971,
     "title": "Sprouting White",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "quote": {
+      "n": "BANG! BANG!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -9127,7 +9265,10 @@
     "compliant": "TRUE",
     "id": 3175,
     "title": "Tormenting and Teaching",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "quote": {
+      "n": "Guh..."
+    }
   },
   {
     "compliant": "TRUE",
@@ -9141,7 +9282,8 @@
     "title": "Wishing upon the Tanabata Sky",
     "name": "Arashi Narukami",
     "quote": {
-      "e": "A gloomy expression doesn't suit me"
+      "n": "It's not like me?",
+      "e": "A gloomy expression doesn't suit me."
     }
   },
   {
@@ -9304,7 +9446,10 @@
     "compliant": "TRUE",
     "id": 3187,
     "title": "A Quiet Solitary Stage",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "quote": {
+      "n": "Ehh, ahh. That's, well..."
+    }
   },
   {
     "compliant": "TRUE",
@@ -9406,7 +9551,10 @@
     "compliant": "TRUE",
     "id": 3210,
     "title": "Ever-Changing",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "quote": {
+      "n": "You're wrong!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -10069,25 +10217,38 @@
     "compliant": "TRUE",
     "id": 3270,
     "title": "Childhood PORTRAIT",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "Ah, oniichan"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3271,
     "title": "Graceful PORTRAIT",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "quote": {
+      "n": "Is something funny?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3272,
     "title": "Fleeting PORTRAIT",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "They're my enemies that's why..."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3273,
     "title": "Nostalgic PORTRAIT",
-    "name": "Akiomi Kunugi"
+    "name": "Akiomi Kunugi",
+    "quote": {
+      "n": "Where should I begin?",
+      "e": "Let's capture the most beautiful moment."
+    }
   },
   {
     "compliant": "TRUE",
@@ -10207,7 +10368,10 @@
     "compliant": "TRUE",
     "id": 3285,
     "title": "Accompanying Spider",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "quote": {
+      "e": "Trick or...?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -10249,7 +10413,10 @@
     "compliant": "TRUE",
     "id": 3299,
     "title": "Gamer Friend",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "quote": {
+      "n": "Welcome back~"
+    }
   },
   {
     "compliant": "TRUE",
@@ -10525,7 +10692,10 @@
     "compliant": "TRUE",
     "id": 3327,
     "title": "Igniting Passion",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "quote": {
+      "n": "Feels like Christmas is coming soon"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12069,7 +12239,10 @@
     "compliant": "TRUE",
     "id": 3538,
     "title": "Glimmering Piece",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "(mumbling) I can't sleep..."
+    }
   },
   {
     "compliant": "TRUE",
@@ -12339,7 +12512,10 @@
     "compliant": "TRUE",
     "id": 3585,
     "title": "Physical Strength Survivor",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "quote": {
+      "n": "Hmph!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12463,7 +12639,10 @@
     "compliant": "TRUE",
     "id": 3605,
     "title": "Invitation Private",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "quote": {
+      "n": "Ai-chan, you okay?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12804,7 +12983,10 @@
     "compliant": "TRUE",
     "id": 3641,
     "title": "Unwavering Path",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "quote": {
+      "e": "Rock 'n' roll...!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12966,13 +13148,19 @@
     "compliant": "TRUE",
     "id": 3667,
     "title": "Color That Can Make You Smile",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "quote": {
+      "n": "I don't want to have disappointed expectations..."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3668,
     "title": "Color That Conveys Feelings",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "quote": {
+      "n": "Yeah, sure!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12996,7 +13184,10 @@
     "compliant": "TRUE",
     "id": 3664,
     "title": "Grand Stage Filled With the Heavens",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "oh, ooh..."
+    }
   },
   {
     "compliant": "TRUE",
@@ -13074,7 +13265,11 @@
     "compliant": "TRUE",
     "id": 3675,
     "title": "Xday of Recollection",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "quote": {
+      "n": "Cuz, I'm lonely-",
+      "e": "That's what being an idol really is. Dad"
+    }
   },
   {
     "compliant": "TRUE",
@@ -13233,7 +13428,7 @@
     "name": "Ibara Saegusa",
     "quote": {
       "n": "Goodluck...♪",
-      "e": "It must be extremely amusing, right?♪"
+      "e": "It must be extremely amusing, right♪"
     }
   },
   {
@@ -13602,7 +13797,10 @@
     "compliant": "TRUE",
     "id": 3735,
     "title": "Plum Blossoms Announcing the Arrival",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "quote": {
+      "e": "♪~♪~♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -15040,7 +15238,7 @@
       }
     },
     "quote": {
-      "n": "It looks like this will turn out to be a fun tea party... ♪",
+      "n": "It looks like this will turn out to be a fun tea party...♪",
       "e": "Are everyone's dreams shining?"
     }
   },
@@ -15058,7 +15256,7 @@
       }
     },
     "quote": {
-      "n": "What a wonderful day... ☆"
+      "n": "What a wonderful day...☆"
     }
   },
   {
@@ -15125,6 +15323,10 @@
       "support": {
         "name": "B-Dash"
       }
+    },
+    "quote": {
+      "n": "There are too many traps!?",
+      "e": "I wonder what color I'll be dyed with"
     }
   },
   {
@@ -15228,8 +15430,8 @@
       }
     },
     "quote": {
-      "n": "i'll work hard too.",
-      "e": "let us witness your true abilities."
+      "n": "I'll work hard too.",
+      "e": "Let us witness your true abilities."
     }
   },
   {
@@ -15264,7 +15466,7 @@
     },
     "quote": {
       "n": "I don't know what I should do...",
-      "e": "The lil bear's properly with me now ♪"
+      "e": "The lil bear's properly with me now♪"
     }
   },
   {
@@ -15431,6 +15633,9 @@
       "support": {
         "name": "Cranky"
       }
+    },
+    "quote": {
+      "n": "It hurts, so don't touch me so much."
     }
   },
   {
@@ -15445,6 +15650,9 @@
       "support": {
         "name": "A Finishing Touch of Love"
       }
+    },
+    "quote": {
+      "n": "I hope it'll be tasty~♪"
     }
   },
   {
@@ -15456,6 +15664,10 @@
       "center": {
         "name": "Interim Memorial"
       }
+    },
+    "quote": {
+      "n": "This will take time...",
+      "e": "This is the place where we live."
     }
   },
   {
@@ -15479,7 +15691,10 @@
     "compliant": "TRUE",
     "id": 3843,
     "title": "Hanafuda",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "quote": {
+      "n": "I have this match in my pocket!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -15519,6 +15734,10 @@
       "center": {
         "name": "Cynical Memorial"
       }
+    },
+    "quote": {
+      "n": "...Yuu-kun, are you awake?",
+      "e": "Dreams are made to come true."
     }
   },
   {
@@ -15535,7 +15754,7 @@
       }
     },
     "quote": {
-      "n": "Ahh, it's just me here again...",
+      "n": "Ahh, it's just me here again…",
       "e": "This is a place where you can take a break."
     }
   },
@@ -15621,7 +15840,11 @@
     "compliant": "TRUE",
     "id": 4163,
     "title": "Song of the Lingering Moon",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "quote": {
+      "n": "Lately, everyday, is fun!",
+      "e": "Haha, did you come to play?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -15633,7 +15856,10 @@
     "compliant": "TRUE",
     "id": 4165,
     "title": "Song of the Unknowing Moon",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "What's this, it's cute~♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -15743,8 +15969,8 @@
     "title": "hospitality @home",
     "name": "Kanata Shinkai",
     "quote": {
-      "n": "i am still thinking",
-      "e": "is it \"Morning\" already…?"
+      "n": "I am still thinking.",
+      "e": "Is it \"Morning\" already...?"
     }
   },
   {
@@ -16121,7 +16347,10 @@
     "compliant": "TRUE",
     "id": 4217,
     "title": "Radiance of FREEDOM",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "quote": {
+      "n": "Mom, wait a minute!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -17222,7 +17451,10 @@
     "compliant": "TRUE",
     "id": 4245,
     "title": "Aspiration Beneath the Heavens",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "quote": {
+      "e": "I'll show off my real strength, ossu!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -17424,7 +17656,10 @@
     "compliant": "TRUE",
     "id": 4259,
     "title": "Wildly Blooming Flower",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "quote": {
+      "n": "1, 2, and... 3!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -17986,7 +18221,11 @@
     "compliant": "TRUE",
     "id": 4352,
     "title": "Call-Response Ambivalence",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "quote": {
+      "n": "It might be thanks to Moririn, right?",
+      "e": "I gotta believe in myself."
+    }
   },
   {
     "compliant": "TRUE",
@@ -18010,7 +18249,10 @@
     "compliant": "TRUE",
     "id": 4356,
     "title": "The Anniversary We Want to Deliver",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "quote": {
+      "e": "Thank you so much...!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -18808,7 +19050,10 @@
     "compliant": "TRUE",
     "id": 4476,
     "title": "The Beginning of Mythos",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "......"
+    }
   },
   {
     "compliant": "TRUE",
@@ -19486,6 +19731,10 @@
       "support": {
         "name": "Starry Stage"
       }
+    },
+    "quote": {
+      "n": "I'll show you the true power of a super idol.",
+      "e": "This Live was a huge success, right♪"
     }
   },
   {
@@ -19596,6 +19845,10 @@
       "support": {
         "name": "Starry Stage"
       }
+    },
+    "quote": {
+      "n": "I wanna meet everyone real soon~♪",
+      "e": "That really was the best live ever, huh~"
     }
   },
   {
@@ -19607,6 +19860,10 @@
       "support": {
         "name": "Starry Stage"
       }
+    },
+    "quote": {
+      "n": "This will be a Live that everyone will enjoy.",
+      "e": "Thank you for your warm support."
     }
   },
   {
@@ -21044,5 +21301,1195 @@
     "id": 4639,
     "title": "Fake Test",
     "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4632,
+    "title": "A Needle's Tip of Passion",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4633,
+    "title": "A Needle's Tip of Memories",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4634,
+    "title": "A Relationship Sewn Together",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4635,
+    "title": "An Inextricable Relationship",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4640,
+    "title": "The Calm Before the Storm",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4641,
+    "title": "Path to Victory",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4642,
+    "title": "An Honest-to-Goodness Taste",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4651,
+    "title": "The Heavens Will Reward Feelings",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4652,
+    "title": "The Heavens Will Reward Hard Effort",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4653,
+    "title": "The Heavens Will Reward Spirit",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4654,
+    "title": "The Heavens Will Reward Hard Work",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4645,
+    "title": "Diamond Hope",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4646,
+    "title": "Diamond Ambition",
+    "name": "Koga Ogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4647,
+    "title": "Diamond Determination",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4648,
+    "title": "Diamond Morale",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4649,
+    "title": "Diamond Opportunity",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4650,
+    "title": "Diamond Anticipation",
+    "name": "Ibuki Taki",
+    "quote": {
+      "n": "Looks like we're seeing results~",
+      "e": "I'm having just as fun as always!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4655,
+    "title": "Journey Filled With Freedom",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4656,
+    "title": "Star Shining on the Surface",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4657,
+    "title": "In My Own Words",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4662,
+    "title": "Galloping Stage",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4663,
+    "title": "Galloping Confidence",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4664,
+    "title": "Galloping Experience",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4665,
+    "title": "Galloping Freedom",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4658,
+    "title": "Heart-pounding Musica",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4659,
+    "title": "Resounding Musica",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4660,
+    "title": "Fulfilling Musica",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4661,
+    "title": "Overlaying Musica",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4669,
+    "title": "Exchanging Belief",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4670,
+    "title": "Seizing Belief",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4671,
+    "title": "Uncompromising Belief",
+    "name": "Koga Ogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4672,
+    "title": "Unchanging Belief",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4673,
+    "title": "Confronting Belief",
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "There's just some things I can't concede on.",
+      "e": "I'm not gonna let anything get in my way, hear me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4674,
+    "title": "Persisting Belief",
+    "name": "Ibuki Taki",
+    "quote": {
+      "n": "I've gotta go and grasp it myself~",
+      "e": "The only thing I'm thinking about is victory~♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4675,
+    "title": "Changing Belief",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4666,
+    "title": "Young Nobleman's Attire",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4667,
+    "title": "Professional's Finish",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4668,
+    "title": "The Heart's Secret Ingredient",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4696,
+    "title": "Perfect Shot",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4697,
+    "title": "Perfect Word",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4698,
+    "title": "Perfect Time",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4699,
+    "title": "Perfect Timing",
+    "name": "Ibuki Taki",
+    "quote": {
+      "n": "What happened with Neenee?",
+      "e": "What are you gonna order~?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4692,
+    "title": "Meaningful Words I Want to Convey",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4693,
+    "title": "Meaningful Words of Devotion",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4694,
+    "title": "Meaningful Words to Believe In",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4695,
+    "title": "Meaningful Words That Overflow",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4680,
+    "title": "Spilling Over With Gratitude",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4681,
+    "title": "A Gamble With All My Gratitude",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4691,
+    "title": "Singing a Song of Gratitude",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4676,
+    "title": "Gratitude in Fist and Heart",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4686,
+    "title": "Feeling Gratitude and Encouragement",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4690,
+    "title": "Gratitude Means Being True to Yourself",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4678,
+    "title": "Gratitude and Smile Jutsu",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4683,
+    "title": "Showing Gratitude Through Work",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4688,
+    "title": "Showing Gratitude to Everyone",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4677,
+    "title": "Gratitude Comes With True Feelings",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4682,
+    "title": "Sincerity Expressed as Gratitude",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4687,
+    "title": "Expanding the Circle of Gratitude",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4704,
+    "title": "Bonds That Change Reality",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4705,
+    "title": "Bonds That Overcome Obstacles",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4706,
+    "title": "Bonds That Create Smiles",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4707,
+    "title": "Bonds That Connect Feelings",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4700,
+    "title": "Bonds That Color the World",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4701,
+    "title": "Bonds That Make You Feel Free",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4702,
+    "title": "Bonds That Make the Future Happen",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4703,
+    "title": "Bonds That Collect Possibilities",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4684,
+    "title": "Filled to the Brim With Gratitude",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4689,
+    "title": "My Gratitude in Brief",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4679,
+    "title": "Heart Burning With Gratitude",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4685,
+    "title": "Turning Gratitude Into Power",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4711,
+    "title": "A Fateful Encounter",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4712,
+    "title": "A Fateful Conversation",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4713,
+    "title": "A Fateful Moment",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4714,
+    "title": "A Fateful Voice",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4715,
+    "title": "A Fateful Path",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4708,
+    "title": "Bullish at All Times",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4709,
+    "title": "Form and Line of Sight",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4710,
+    "title": "Perfect Branding",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4720,
+    "title": "Keeper of the Music Box",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4721,
+    "title": "Key of the Music Box",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4722,
+    "title": "Memory of the Music Box",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4723,
+    "title": "Score of the Music Box",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4716,
+    "title": "Orbiting Future",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4717,
+    "title": "Orbiting Expectations",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4718,
+    "title": "Orbiting Sequence",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4719,
+    "title": "Orbiting Hope",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4740,
+    "title": "A Date Kept Secret",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4741,
+    "title": "A Date Out of The Blue",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4742,
+    "title": "A Date Passed By",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4743,
+    "title": "A Date Bound to Happen",
+    "name": "Koga Ogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4827,
+    "title": "ES Idol",
+    "name": "Juis Kojika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4728,
+    "title": "Practice",
+    "name": "Juis Kojika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4724,
+    "title": "Flexible Torte Leader",
+    "name": "Juis Kojika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4828,
+    "title": "ES Idol",
+    "name": "Nozomi Madoka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4729,
+    "title": "Practice",
+    "name": "Nozomi Madoka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4725,
+    "title": "Bittersweet Ganache",
+    "name": "Nozomi Madoka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4829,
+    "title": "ES Idol",
+    "name": "Mashu Kuon"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4730,
+    "title": "Practice",
+    "name": "Mashu Kuon"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4726,
+    "title": "Double-Layered Flødebolle",
+    "name": "Mashu Kuon"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4830,
+    "title": "ES Idol",
+    "name": "Chitose Tsuzura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4731,
+    "title": "Practice",
+    "name": "Chitose Tsuzura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4727,
+    "title": "Ambiguous Brownie",
+    "name": "Chitose Tsuzura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4732,
+    "title": "Gratitude Expressed At a Reasonable Level",
+    "name": "Juis Kojika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4733,
+    "title": "A Performance Worthy of Gratitude",
+    "name": "Nozomi Madoka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4734,
+    "title": "Embellished With Words of Gratitude",
+    "name": "Mashu Kuon"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4735,
+    "title": "Luck That Makes You Want to Show Gratitude",
+    "name": "Chitose Tsuzura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4736,
+    "title": "Poppin' BUBBLE GUM",
+    "name": "Juis Kojika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4737,
+    "title": "Strategy BUBBLE GUM",
+    "name": "Nozomi Madoka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4738,
+    "title": "Unexpected BUBBLE GUM",
+    "name": "Mashu Kuon"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4739,
+    "title": "Sweet BUBBLE GUM",
+    "name": "Chitose Tsuzura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4744,
+    "title": "Ample Time to Prepare",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4745,
+    "title": "Forever-Changing Routes",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4746,
+    "title": "Stroke of Genius",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4752,
+    "title": "Decorated Memories",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4753,
+    "title": "Decorated Friendship",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4754,
+    "title": "Decorated Performance",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4755,
+    "title": "Decorated Interpretation",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4747,
+    "title": "Fingertips Reaching My Princess",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4748,
+    "title": "Song Captivating My Princess",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4749,
+    "title": "Night Spent With My Princess",
+    "name": "Ritsu Sakuma",
+    "quote": {
+      "n": "Hey, how's this?",
+      "e": "For our Princesses' smiles, right♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4750,
+    "title": "Sword to Protect My Princess",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4751,
+    "title": "A Chat With My Princess",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4762,
+    "title": "New-Generation Mission",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4763,
+    "title": "New-World Mission",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4764,
+    "title": "Commemorative Mission",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4765,
+    "title": "Demonstrative Mission",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4756,
+    "title": "ONLY STAR",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4757,
+    "title": "ONLY SHINE",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4758,
+    "title": "ONLY GLOW",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4759,
+    "title": "ONLY BRIGHT",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4760,
+    "title": "ONLY SPARKLE",
+    "name": "Juis Kojika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4761,
+    "title": "ONLY ENERGY",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4766,
+    "title": "An Assortment of Charms",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4767,
+    "title": "Blazing Live",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4768,
+    "title": "Tough Training",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4774,
+    "title": "Smile-Loving Buddy",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4783,
+    "title": "Bright and Sincere Buddy",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4824,
+    "title": "Conditional Buddy",
+    "name": "Nozomi Madoka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4812,
+    "title": "Health-Management Buddy",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4819,
+    "title": "Endlessly-Curious Buddy",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4835,
+    "title": "Changing Flying Bee",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4836,
+    "title": "Crimson Moonlit Night's Invitation",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4837,
+    "title": "Piercing Flying Bee",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4838,
+    "title": "Crimson Moonlit Night's Fist",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4831,
+    "title": "Crimson Moonlit Night's Resolve",
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4832,
+    "title": "Impulsive Flying Bee",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4833,
+    "title": "Formidable Flying Bee",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4834,
+    "title": "Crimson Moonlit Night's Blade",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4782,
+    "title": "Straightforward and Clueless Buddy",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4790,
+    "title": "Highly-Meticulous Buddy",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4795,
+    "title": "Altruistic Buddy",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4826,
+    "title": "Incredibly Grateful Buddy",
+    "name": "Chitose Tsuzura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4821,
+    "title": "World-Of-Their-Own Buddy",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4839,
+    "title": "Overtaking My Future",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4840,
+    "title": "The Mastermind Behind It All",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4841,
+    "title": "First Squash",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4773,
+    "title": "Always-Serious Buddy",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4791,
+    "title": "Cheery Buddy",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4797,
+    "title": "Cooking Pro Buddy",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4811,
+    "title": "Inspiration-Seeking Buddy",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4846,
+    "title": "Logic Eye",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4847,
+    "title": "Quick Eye",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4848,
+    "title": "Radar Eye",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4849,
+    "title": "Detail Eye",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4842,
+    "title": "Ruler of the Rose Garden",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4843,
+    "title": "Ruler's Pride",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4844,
+    "title": "Ruler's Crown",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4845,
+    "title": "Ruler's Audience",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4850,
+    "title": "Path Adorned With Color",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4851,
+    "title": "Up-And-Coming Challenger",
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4852,
+    "title": "Relentless Decluttering",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4857,
+    "title": "Star's Game of Chase",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4858,
+    "title": "Knight's Choice",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4859,
+    "title": "Star's Rivalry",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4861,
+    "title": "Knight's Desire",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4860,
+    "title": "Knight's Demeanor",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4853,
+    "title": "Knight's Seriousness",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4854,
+    "title": "Star's Boundary",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4855,
+    "title": "Star's Leeway",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4856,
+    "title": "Knight's Chance",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4862,
+    "title": "A Passion That Speaks",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4863,
+    "title": "Taming Ability",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4864,
+    "title": "Endless Summer",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4869,
+    "title": "Summer Spent Together",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4870,
+    "title": "Summer of a Passionate Vow",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4871,
+    "title": "Summer of an Unforgotten Promise",
+    "name": "Mashu Kuon"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4872,
+    "title": "Summer of an Eternal Bond",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4865,
+    "title": "Trial of Awakening",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4866,
+    "title": "Trial of Bonds",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4867,
+    "title": "Trial of Evolution",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4868,
+    "title": "Trial of Hope",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4873,
+    "title": "Noir Couture",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4874,
+    "title": "Your Figure Through the Screen",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4875,
+    "title": "Unyielding Battle",
+    "name": "Koga Ogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97013,
+    "title": "Fairytale Journey",
+    "name": "Souma Kanzaki"
   }
 ]
