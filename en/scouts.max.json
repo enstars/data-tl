@@ -2232,6 +2232,12 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 5000074,
+    "name": "Jazzy Jumble",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 545,
     "name": "Kanna Feature Scout",
     "story_author": "-",
@@ -2410,12 +2416,6 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 5000074,
-    "name": "Jazzy Jumble",
-    "story_author": "-"
-  },
-  {
-    "compliant": "TRUE",
     "gacha_id": 563,
     "name": "Ibuki Feature Scout",
     "story_author": "-"
@@ -2545,5 +2545,305 @@
     "gacha_id": 574,
     "name": "Arcadian",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101236,
+    "name": "10th Anniversary: Part 3 Group A"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101237,
+    "name": "10th Anniversary: Part 3 Group B"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101238,
+    "name": "10th Anniversary: Part 3 Group C"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101242,
+    "name": "SELECTION 10 UNIT SONG 07: Sore wa Zanzou no Shoushitsu-ten"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 577,
+    "name": "Bright me up!! -Stage: Adonis-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101239,
+    "name": "10th Anniversary: Part 3 Group D"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 576,
+    "name": "ResQ Bears"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101246,
+    "name": "Starry Symphony -Superbloom-: Group A"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101247,
+    "name": "Starry Symphony -Superbloom-: Group B"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101248,
+    "name": "Starry Symphony -Superbloom-: Group C"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101249,
+    "name": "Starry Symphony -Superbloom-: Group D"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101250,
+    "name": "Starry Symphony -Superbloom-: Group E"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101251,
+    "name": "Starry Symphony -Superbloom-: Group F"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101252,
+    "name": "Starry Symphony -Superbloom-: Group G"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101253,
+    "name": "Starry Symphony -Superbloom-: Group H"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101254,
+    "name": "Starry Symphony -Superbloom-: Group I"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101255,
+    "name": "Starry Symphony -Superbloom-: Group J"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000078,
+    "name": "Sending Love"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 579,
+    "name": "Bright me up!! -Stage: Yuta-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 578,
+    "name": "White Wonderland"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101333,
+    "name": "SELECTION 10 UNIT SONG 08: Saikau no Katamichikippu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 581,
+    "name": "Bright me up!! -Stage: Tatsumi-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 580,
+    "name": "Arsène"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 583,
+    "name": "Bright me up!! -Stage: Rei-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 582,
+    "name": "Sincerity Will Be Rewarded"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 585,
+    "name": "Bright me up!! -Stage: Kanata-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 584,
+    "name": "As Unbridled as a Heavenly Steed"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101342,
+    "name": "SELECTION 10 UNIT SONG 09: Fight Is Only Fate Group A"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101343,
+    "name": "SELECTION 10 UNIT SONG 09: Fight Is Only Fate Group B"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 587,
+    "name": "Bright me up!! -Stage: Hiyori-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 586,
+    "name": "Perfect Sundae"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101344,
+    "name": "10th Anniversary: Part 4 Group A"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101345,
+    "name": "10th Anniversary: Part 4 Group B"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101346,
+    "name": "10th Anniversary: Part 4 Group C"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101347,
+    "name": "10th Anniversary: Part 4 Group D"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 588,
+    "name": "Streaming Showdown"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101348,
+    "name": "10th Anniversary: Part 4 Group E"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101349,
+    "name": "10th Anniversary: Part 4 Group F"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101410,
+    "name": "SELECTION 10 UNIT SONG 10: Prologue no Sono Ato e"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 589,
+    "name": "Bright me up!! -Stage: Yume-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 590,
+    "name": "Music Box"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 592,
+    "name": "Day to Day"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 591,
+    "name": "Bright me up!! -Stage: Niki-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 594,
+    "name": "DECORATE"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000080,
+    "name": "HELL→LOAD"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 596,
+    "name": "TEN-CODE"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 593,
+    "name": "Bright me up!! -Stage: Raika-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101440,
+    "name": "11th Anniversary: Part 1 Group A"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 598,
+    "name": "Crimson Moonlit Night and Flying Bees"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101441,
+    "name": "11th Anniversary: Part 1 Group B"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 595,
+    "name": "Bright me up!! -Stage: Mitsuru-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101442,
+    "name": "11th Anniversary: Part 1 Group C"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 600,
+    "name": "Eye Fitting"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000081,
+    "name": "HEAVEN←SAVE"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 597,
+    "name": "Bright me up!! -Stage: Souma-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 602,
+    "name": "The Battle-Ready Knights and the Tricky-Scheming Stars"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 599,
+    "name": "Bright me up!! -Stage: Tsumugi-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 604,
+    "name": "Summer Solstice Night Breeze"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 601,
+    "name": "Bright me up!! -Stage: Shu-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 606,
+    "name": "The Unicorn Princes and the Ever-Growing Rabbits"
   }
 ]

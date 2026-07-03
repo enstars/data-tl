@@ -22491,5 +22491,53 @@
     "id": 97013,
     "title": "Fairytale Journey",
     "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4880,
+    "title": "Prince's Dream",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4881,
+    "title": "Rabbit's True Colors",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4882,
+    "title": "Rabbit's Friendship",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4883,
+    "title": "Prince's Efforts",
+    "name": "Raika"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4876,
+    "title": "Rabbit's Kindness",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4877,
+    "title": "Prince's Overall Best",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4878,
+    "title": "Rabbit's Meticulousness",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4879,
+    "title": "Prince's Perseverance",
+    "name": "Esu"
   }
 ]
