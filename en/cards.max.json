@@ -14514,7 +14514,10 @@
     "compliant": "TRUE",
     "id": 4076,
     "title": "Step-by-step Ball",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "quote": {
+      "n": "His name is one you'll find in textbooks, you know!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -14526,19 +14529,28 @@
     "compliant": "TRUE",
     "id": 4078,
     "title": "Adventurous Ball",
-    "name": "Esu Sagiri"
+    "name": "Esu Sagiri",
+    "quote": {
+      "n": "We're finally here at 4piece!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4079,
     "title": "Dreamy Ball",
-    "name": "Fuyume Hanamura"
+    "name": "Fuyume Hanamura",
+    "quote": {
+      "n": "Esu~, are you watching~?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4080,
     "title": "Sparkling Ball",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "quote": {
+      "n": "Thunderrrrrrrrr!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -21306,25 +21318,41 @@
     "compliant": "TRUE",
     "id": 4632,
     "title": "A Needle's Tip of Passion",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "quote": {
+      "n": "It is ''your'' selections that are giving this meaning.",
+      "e": "Let us sew together beautiful day after day."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4633,
     "title": "A Needle's Tip of Memories",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "quote": {
+      "n": "And here I was waitin' so eagerly! ",
+      "e": "Right now, I truly have achieved \"happiness\"...♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4634,
     "title": "A Relationship Sewn Together",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "That's what friends are for, you know♪",
+      "e": "You've been walking ''beside'' him, after all!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4635,
     "title": "An Inextricable Relationship",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "What a coincidence, it's Shu-kun~",
+      "e": "I'm looking forward to it, personally."
+    }
   },
   {
     "compliant": "TRUE",
