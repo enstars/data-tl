@@ -4405,7 +4405,11 @@
     "compliant": "TRUE",
     "id": 2554,
     "title": "Prank Corner",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Ta-dah~, Operation Hidden Camera: SUCCESS!",
+      "e": "You've gotta keep a little mischief in your heart, right♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4511,19 +4515,30 @@
     "compliant": "TRUE",
     "id": 2568,
     "title": "Seaside Foraging",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "quote": {
+      "e": "Let's enjoy eating...☆"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2573,
     "title": "Unsweet Sweets",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "A-Am I still dreaming?",
+      "e": "I feel like I'm melting into the sweet scent♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2574,
     "title": "Captivating Sweets",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "There's so much I don't know.",
+      "e": "The world is so complex and colorful, isn't it?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4531,6 +4546,7 @@
     "title": "Making Sweets",
     "name": "Tetora Nagumo",
     "quote": {
+      "n": "So it's 'bout division of labor, huh?",
       "e": "Sweet things cheer me up, ossu!"
     }
   },
@@ -4538,7 +4554,10 @@
     "compliant": "TRUE",
     "id": 2576,
     "title": "Sweets Classroom",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "quote": {
+      "n": "Why does it have to be the case?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -6165,7 +6184,11 @@
     "compliant": "TRUE",
     "id": 2810,
     "title": "As Both an Older and Younger Brother",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I wanna learn the secrets!",
+      "e": "Natural, keep natural...♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -6952,25 +6975,41 @@
     "compliant": "TRUE",
     "id": 2906,
     "title": "Awaiting the Day of Harvest",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "O-Otagari-senpai!",
+      "e": "A bountiful harvest this year too...♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2907,
     "title": "Rejoicing at the Harvest",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "quote": {
+      "n": "I was about to give up hope, so I'm really happy.",
+      "e": "...I'll give you one of these."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2908,
     "title": "Harvest and Work",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "quote": {
+      "n": "This one seems to be sturdy enough.",
+      "e": "It's turned such a nice color."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 2909,
     "title": "Harvest and Doubt",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "So that's what it meant?",
+      "e": "It smells like the fragrant scent of fruit."
+    }
   },
   {
     "compliant": "TRUE",
@@ -7330,7 +7369,11 @@
     "compliant": "TRUE",
     "id": 2936,
     "title": "A Way to Eat Vegetables",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "Those are the ones I harvested myself!",
+      "e": "This might be coming out better than I imagined!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -7741,7 +7784,11 @@
     "compliant": "TRUE",
     "id": 2979,
     "title": "Gamer Pride",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Why should I bother with this?",
+      "e": "Know that I'll win...!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -9274,7 +9321,10 @@
     "compliant": "TRUE",
     "id": 3163,
     "title": "Gazing upon the Tanabata Sky",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "quote": {
+      "n": "...Rain, again?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -9368,25 +9418,39 @@
     "compliant": "TRUE",
     "id": 3179,
     "title": "Cruise of Encounters",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "Why is he in a place like THIS?",
+      "e": "This must be Sora and Senpai's surPRISE."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3180,
     "title": "Cruise of Planning",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "We're still on a hot beach, you know?",
+      "e": "It's truly is an arrangement of coincidences."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3182,
     "title": "Butterfly and Cruise",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "quote": {
+      "n": "You, stay still!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3181,
     "title": "Cruise of Magic",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "quote": {
+      "n": "Does Shisho~ hate summer?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -9816,25 +9880,41 @@
     "compliant": "TRUE",
     "id": 3244,
     "title": "A Figure Like a Mirage",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "You look great, Shinobu-kun!",
+      "e": "I'll capture that brilliance."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3245,
     "title": "A Wish Within a Mirage",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "quote": {
+      "n": "You'll have to pay me back!",
+      "e": "I want to protect and cherish that brilliance...♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3246,
     "title": "Mirage and Hesitation",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I don't have anyone else to talk to!",
+      "e": "I'll be careful so it doesn't break, so it doesn't get damaged."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3247,
     "title": "Mirage and Retrospection",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "quote": {
+      "n": "I don't give a shit!",
+      "e": "I have to find it with my own two eyes."
+    }
   },
   {
     "compliant": "TRUE",
@@ -10320,7 +10400,11 @@
     "compliant": "TRUE",
     "id": 3276,
     "title": "Mr. Doctor",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "Shu~...",
+      "e": "Stay put and be a good boy, okay...♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -10805,25 +10889,40 @@
     "compliant": "TRUE",
     "id": 3332,
     "title": "Scenery of New Color",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "quote": {
+      "n": "That's quiiite the greeting, isn't it?",
+      "e": "Let's begin painting from here!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3333,
     "title": "Scenery of Colored Memories",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "Once upon a time...",
+      "e": "Let us all resound together, regardless of who we are!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3334,
     "title": "Scenery of Imminent Magic",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "They seem to be getting along wELL, don't thEY?",
+      "e": "Allow us to grant your simple WISH."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3335,
     "title": "Scenery That Raises Miracles",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "e": "Please come on up onstage~♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -10961,7 +11060,11 @@
     "compliant": "TRUE",
     "id": 3353,
     "title": "Reminiscing on Travels",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "quote": {
+      "n": " How about you just come inside the establishment?",
+      "e": "As thanks for carrying my luggage."
+    }
   },
   {
     "compliant": "TRUE",
@@ -11262,7 +11365,11 @@
     "compliant": "TRUE",
     "id": 3386,
     "title": "Discomfort and Identity",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "What I was looking at wasn't a mirror.",
+      "e": "I'm all motivated now, thanks to that♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12320,7 +12427,11 @@
     "compliant": "TRUE",
     "id": 3551,
     "title": "\"Strange\" Fish",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "If you could pour it into this.",
+      "e": "I'm sure this \"idea\" will be wonderful♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -12941,7 +13052,11 @@
     "compliant": "TRUE",
     "id": 3639,
     "title": "Miracle on the Way Home",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "It feels it became cold all at once.",
+      "e": "It is being spread throughout my body~"
+    }
   },
   {
     "compliant": "TRUE",
@@ -13908,7 +14023,11 @@
     "compliant": "TRUE",
     "id": 3744,
     "title": "Weapon of My Own",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "This tingling sensation is just the best...☆",
+      "e": "I believe I'll reach the future I desire."
+    }
   },
   {
     "compliant": "TRUE",
@@ -14516,14 +14635,19 @@
     "title": "Step-by-step Ball",
     "name": "Mao Isara",
     "quote": {
-      "n": "His name is one you'll find in textbooks, you know!"
+      "n": "His name is one you'll find in textbooks, you know!",
+      "e": "Let's dance one more song"
     }
   },
   {
     "compliant": "TRUE",
     "id": 4077,
     "title": "Musically Colored Ball",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "quote": {
+      "n": "Things are getting interesting...☆",
+      "e": "I'll be taking the lead!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -14531,7 +14655,8 @@
     "title": "Adventurous Ball",
     "name": "Esu Sagiri",
     "quote": {
-      "n": "We're finally here at 4piece!"
+      "n": "We're finally here at 4piece!",
+      "e": "Hyah, this is...!"
     }
   },
   {
@@ -14540,7 +14665,8 @@
     "title": "Dreamy Ball",
     "name": "Fuyume Hanamura",
     "quote": {
-      "n": "Esu~, are you watching~?"
+      "n": "Esu~, are you watching~?",
+      "e": "Yume's always a princess, deep down♪"
     }
   },
   {
@@ -14549,14 +14675,19 @@
     "title": "Sparkling Ball",
     "name": "Subaru Akehoshi",
     "quote": {
-      "n": "Thunderrrrrrrrr!"
+      "n": "Thunderrrrrrrrr!",
+      "e": "I feel like dancing forever☆"
     }
   },
   {
     "compliant": "TRUE",
     "id": 4081,
     "title": "Lovely Ball",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "quote": {
+      "n": "I would have been too embarrassed to do that.",
+      "e": "So this is the result of joining forces, huh?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -14688,25 +14819,41 @@
     "compliant": "TRUE",
     "id": 4098,
     "title": "Feelings that Joins Two Together",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "Him or me, who do you choose?",
+      "e": "I'm sure that our future is shining beautifully."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4099,
     "title": "Timbres that Joins Two Together",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Thank you...♪",
+      "e": "This isn't the time to get distracted."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4100,
     "title": "Roles that Joins Two Together",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "quote": {
+      "n": "I pointed my finger to the right one first.",
+      "e": "W-What are you talking about?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4101,
     "title": "Instruments that Joins Two Together",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "quote": {
+      "n": "HiMERU thought this was how it was going to turn out.",
+      "e": "We both love her and will not concede to one another."
+    }
   },
   {
     "compliant": "TRUE",
@@ -15234,7 +15381,11 @@
     "compliant": "TRUE",
     "id": 4156,
     "title": "Fresh Out the Steamer",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I came at a bad time, huh~",
+      "e": "Just one is ''definitely'' not enough!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -16043,37 +16194,61 @@
     "compliant": "TRUE",
     "id": 4188,
     "title": "Killer's Apprehension",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "It appears someone has taken notice of what I drEW.",
+      "e": "Have you forgotten to be skepticAL?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4189,
     "title": "Killer's Specialty",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "It's a real well known story.",
+      "e": "I'll clear any doubls you may have♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4190,
     "title": "Killer's Interest",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "If we just tear it here...",
+      "e": "Are you perhaps questioning my abilities?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4191,
     "title": "Killer's Truth",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "quote": {
+      "n": "Tell me everything.",
+      "e": "I shall stand firm by my convictions!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4192,
     "title": "Killer's Value",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "quote": {
+      "n": "What is this bottle exactly?",
+      "e": "Truth comes first, after all♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4193,
     "title": "Killer's Doubt",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "quote": {
+      "n": "I happened upon it by chance, you see.",
+      "e": "Hehe, is that hard to believe?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -16209,7 +16384,11 @@
     "compliant": "TRUE",
     "id": 4212,
     "title": "Two-sided Leader",
-    "name": "Esu"
+    "name": "Esu",
+    "quote": {
+      "n": "First, we do our stretches!",
+      "e": "Listen closely to our song, okay?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -16243,7 +16422,11 @@
     "compliant": "TRUE",
     "id": 4213,
     "title": "Strategic Debut",
-    "name": "Kanna"
+    "name": "Kanna",
+    "quote": {
+      "n": "It's an unproductive and useless waste of time.",
+      "e": "We've come from a dream to come and see you"
+    }
   },
   {
     "compliant": "TRUE",
@@ -16274,7 +16457,11 @@
     "compliant": "TRUE",
     "id": 4214,
     "title": "Calculated Opening",
-    "name": "Yume"
+    "name": "Yume",
+    "quote": {
+      "n": "You're staring, what is it?",
+      "e": "We ''love'' to toy with everyone."
+    }
   },
   {
     "compliant": "TRUE",
@@ -16308,7 +16495,11 @@
     "compliant": "TRUE",
     "id": 4215,
     "title": "Innocent Entrance",
-    "name": "Raika"
+    "name": "Raika",
+    "quote": {
+      "n": "They are just so well-made, huh!",
+      "e": "We'll deliver a song that will make your heart race!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -17689,25 +17880,41 @@
     "compliant": "TRUE",
     "id": 4262,
     "title": "Dreaming Cadence",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "quote": {
+      "n": "The night sky's beautiful tonight, isn't it?",
+      "e": "I'll have it echo to the very ends of the universe...☆"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4263,
     "title": "Star-gleaning Cadence",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "quote": {
+      "n": "It's a perspective I've never had.",
+      "e": "Let your heart guide this ship however it pleases."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4264,
     "title": "Overseeing Cadence",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "I can not allow it to fall through at this point in time.",
+      "e": "I could feel Mika-kun's enthusiasm."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4265,
     "title": "Assisting Cadence",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "quote": {
+      "n": "Be prepared, okay~!",
+      "e": "Now those stars from that night sky are right in front of you!"
+    }
   },
   {
     "compliant": "TRUE",
@@ -17749,31 +17956,51 @@
     "compliant": "TRUE",
     "id": 4272,
     "title": "Love Collector",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "Please marry me!",
+      "e": "Wouldn't that just be the best♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4273,
     "title": "Sincere Love",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "quote": {
+      "n": "Yes, just like that. You should listen to what I tell you.",
+      "e": "I think the straightforwardness you possess makes you very charming."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4274,
     "title": "Sweet Love",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "quote": {
+      "n": "If you say so, Su~chan.",
+      "e": "I guess we're all growing up, huh"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4275,
     "title": "Unbridled Love",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "quote": {
+      "n": "No matter what happens, I'll protect you, Naru.",
+      "e": "Happiness is contagious, y'know?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4276,
     "title": "Unchanging Love",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "quote": {
+      "n": "You already know what to do next, don't you?",
+      "e": "I'm expecting a repayment later, got it?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -17948,6 +18175,10 @@
       "center": {
         "name": "Fulfilled Promise"
       }
+    },
+    "quote": {
+      "n": "I just cannot let go of this wish.",
+      "e": "So that we may walk together towards a future filled with happiness."
     }
   },
   {
@@ -17959,6 +18190,10 @@
       "center": {
         "name": "Fulfilled Dream"
       }
+    },
+    "quote": {
+      "n": "It's only natural to be cautiOUS, you KNOW.",
+      "e": "How about we have Senpai show us his maGIC?"
     }
   },
   {
@@ -17970,6 +18205,10 @@
       "center": {
         "name": "Fulfilled Goal"
       }
+    },
+    "quote": {
+      "n": "Shisho~ seems to have been in a bad mood all day.",
+      "e": "Everyone's going to be surprised~!"
     }
   },
   {
@@ -17981,6 +18220,10 @@
       "center": {
         "name": "Fulfilled Play"
       }
+    },
+    "quote": {
+      "n": "I've made great progress♪",
+      "e": "It appears they treasure you, huh."
     }
   },
   {
@@ -18504,25 +18747,41 @@
     "compliant": "TRUE",
     "id": 4383,
     "title": "Connecting Dimensions and Worlds",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "We have to find hIM...",
+      "e": "We will continue to sing in this worLD."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4384,
     "title": "A World that Guides Imagination",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "quote": {
+      "n": "He'll end up losing sight of the kid~",
+      "e": "It looks exactly like the world inside the game~"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4385,
     "title": "A World that Cherishes Bonds",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Where are you going?",
+      "e": "We put our heart and soul into this work."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4386,
     "title": "A World of Unknown Changes",
-    "name": "Kanna"
+    "name": "Kanna",
+    "quote": {
+      "n": "My expectations were much too optimistic.",
+      "e": "The results are self-explanatory."
+    }
   },
   {
     "compliant": "TRUE",
@@ -18654,25 +18913,41 @@
     "compliant": "TRUE",
     "id": 4411,
     "title": "WINK of ThanX",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "...Zzz... Zzz...",
+      "e": " Don't take your eyes off us, even for a second!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4412,
     "title": "WINK of Smiles",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "Sorry I'm late, Yuta-kun!",
+      "e": "Yuta-kun, let's have even more fun!"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4413,
     "title": "wink of Assistance",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "Do you have some tough work, or something?",
+      "e": "They really are nimble, arne't they?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4414,
     "title": "wink of Proxy",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "quote": {
+      "n": "Don't make excuses.",
+      "e": "They'll just have to prove themselves, then."
+    }
   },
   {
     "compliant": "TRUE",
@@ -19411,7 +19686,11 @@
     "compliant": "TRUE",
     "id": 4509,
     "title": "Convenience Store Coincidence",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I bought a different snack in the end.",
+      "e": "Did you just say you'll have some?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -19627,13 +19906,21 @@
     "compliant": "TRUE",
     "id": 4547,
     "title": "Bonds of a Unit",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "quote": {
+      "n": "There is nothing to apologize for.",
+      "e": "This is a stage right up HiMERU's alley."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4548,
     "title": "The Five Elements",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "Ah, this is a gogyo diagrAM.",
+      "e": "It's fun listening, so I'm fine sitting back and watchiNG."
+    }
   },
   {
     "compliant": "TRUE",
@@ -21192,7 +21479,11 @@
     "compliant": "TRUE",
     "id": 4559,
     "title": "A Longing Star",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Could you accompany me for a little while♪",
+      "e": "I want you to see all the different sides of me."
+    }
   },
   {
     "compliant": "TRUE",
@@ -21986,25 +22277,37 @@
     "compliant": "TRUE",
     "id": 4736,
     "title": "Poppin' BUBBLE GUM",
-    "name": "Juis Kojika"
+    "name": "Juis Kojika",
+    "quote": {
+      "n": "...Are those the guys from the Z.K. Zaibatsu?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4737,
     "title": "Strategy BUBBLE GUM",
-    "name": "Nozomi Madoka"
+    "name": "Nozomi Madoka",
+    "quote": {
+      "n": "Please lie down."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4738,
     "title": "Unexpected BUBBLE GUM",
-    "name": "Mashu Kuon"
+    "name": "Mashu Kuon",
+    "quote": {
+      "n": "All's OK as long as I get paid♪"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4739,
     "title": "Sweet BUBBLE GUM",
-    "name": "Chitose Tsuzura"
+    "name": "Chitose Tsuzura",
+    "quote": {
+      "n": "They can be kind at times too."
+    }
   },
   {
     "compliant": "TRUE",
