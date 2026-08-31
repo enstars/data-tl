@@ -633,7 +633,7 @@
     },
     "quote": {
       "n": "The hero is here!",
-      "e": "I'll watch over and defend everyone☆"
+      "e": "I'll watch over and support everyone☆"
     }
   },
   {
@@ -706,7 +706,7 @@
       }
     },
     "quote": {
-      "n": "There's no more water...?",
+      "n": "Is there no more water...?",
       "e": "I'll dry up right away from sweating"
     }
   },
@@ -721,7 +721,7 @@
       }
     },
     "quote": {
-      "n": "It has not been a long time…"
+      "n": "It has not been a long time, has it?"
     }
   },
   {
@@ -830,7 +830,7 @@
     "title": "Idol Lover",
     "name": "Aira Shiratori",
     "quote": {
-      "n": "Sorry to wake you up from your good dream...",
+      "n": "I'm technically an idol, though...",
       "e": "I can fly through the sky! Even if it's ungraceful...!"
     }
   },
@@ -3076,8 +3076,8 @@
     "title": "Feelings and the Motor Show",
     "name": "Kanata Shinkai",
     "quote": {
-      "n": "Our hearts are together.",
-      "e": "Today's a very important day~♪"
+      "n": "Our hearts feel the same.",
+      "e": " This is a booming success~♪"
     }
   },
   {
@@ -3276,7 +3276,7 @@
     "title": "Volunteering",
     "name": "Tetora Nagumo",
     "quote": {
-      "n": "It's about time for us to meet up, ossu."
+      "n": "It's about time for us to meet up."
     }
   },
   {
@@ -3378,7 +3378,7 @@
     "title": "Escaping the Heat After School",
     "name": "Yuzuru Fushimi",
     "quote": {
-      "n": "This is a good idea, huh?"
+      "n": "That's a great idea."
     }
   },
   {
@@ -3661,7 +3661,11 @@
     "compliant": "TRUE",
     "id": 2464,
     "title": "Fantasy Dollhouse",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "quote": {
+      "n": "Please don't make such an unreasonable request...!",
+      "e": "Everything around me is just really small, right!?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -4076,7 +4080,7 @@
     "title": "Wasteland and Trial",
     "name": "Midori Takamine",
     "quote": {
-      "n": "Oh, I have to do this too..?",
+      "n": "I-I have to do this too..?",
       "e": "I wanna get this done with so I can go home already..."
     }
   },
@@ -4469,7 +4473,7 @@
     "title": "Within Touching Distance",
     "name": "Aira Shiratori",
     "quote": {
-      "n": "T-this is kinda embarrassing"
+      "n": "I-It's cringey, isn't it..."
     }
   },
   {
@@ -4478,7 +4482,7 @@
     "title": "That Which is Carried Upon These Wings",
     "name": "Tatsumi Kazehaya",
     "quote": {
-      "n": "God really has the power to change the world, doesn't he?"
+      "n": "God might be the power to change the world."
     }
   },
   {
@@ -5948,10 +5952,7 @@
     "compliant": "TRUE",
     "id": 2789,
     "title": "Rookie Skater",
-    "name": "Tsukasa Suou",
-    "quote": {
-      "n": "It's an easy task, right?"
-    }
+    "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
