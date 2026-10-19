@@ -2487,5 +2487,49 @@
       }
     ],
     "handedness": "Right"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 91,
+    "last_name": "Tsuzura",
+    "first_name": "Chitose",
+    "character_voice": "Sonosuke Hattori",
+    "hobby": "Watching movies",
+    "specialty": "Can play by ear",
+    "quote": "This is the place where I truly belong.",
+    "tagline": "Soft and sweet Brownie"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 92,
+    "last_name": "Kojika",
+    "first_name": "Juis",
+    "character_voice": "Ryota Iwasaki",
+    "hobby": "Visiting cafés",
+    "specialty": "Singing and dancing for hours on end",
+    "quote": "Enough with the chatter, let's introduce ourselves!",
+    "tagline": "Your #1 Torte, who will give you more than anyone else"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 93,
+    "last_name": "Madoka",
+    "first_name": "Nozomi",
+    "character_voice": "Fumiya Imai",
+    "hobby": "Manicures, dissection/dismemberment",
+    "specialty": "Reading other people's moods",
+    "quote": "Consider it an honor to know mine name.",
+    "tagline": "Ganache-sama, who is kind to his servants"
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 94,
+    "last_name": "Kuon",
+    "first_name": "Mashu",
+    "character_voice": "Fumito Tsuji",
+    "hobby": "Taking photos, updating social media",
+    "specialty": "Can memorize choreography in one go",
+    "quote": "#WannaConnectWithAllOurFans!",
+    "tagline": "Flødebolle who can really liven things up"
   }
 ]
