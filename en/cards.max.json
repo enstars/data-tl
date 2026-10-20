@@ -13,7 +13,7 @@
       }
     },
     "quote": {
-      "n": "I'm ''fine'''s Eichi Tenshouin.",
+      "n": "I'm <i>fine</i>'s Eichi Tenshouin.",
       "e": "I look forward to working with STAR PRO"
     }
   },
@@ -67,7 +67,7 @@
       }
     },
     "quote": {
-      "n": "I'm ''fine'''s Wataru Hibiki...☆",
+      "n": "I'm <i>fine</i>'s Wataru Hibiki...☆",
       "e": "STAR PRO is so fun!"
     }
   },
@@ -111,7 +111,7 @@
       }
     },
     "quote": {
-      "n": "I'm fine's Tori Himemiya♪"
+      "n": "I'm <i>fine</i>'s Tori Himemiya♪"
     }
   },
   {
@@ -168,7 +168,7 @@
       }
     },
     "quote": {
-      "n": "I'm ''fine'''s Yuzuru Fushimi."
+      "n": "I'm <i>fine</i>'s Yuzuru Fushimi."
     }
   },
   {
