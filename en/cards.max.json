@@ -14,7 +14,7 @@
     },
     "quote": {
       "n": "I'm <i>fine</i>'s Eichi Tenshouin.",
-      "e": "I look forward to working with STAR PRO"
+      "e": "I look forward to working with STAR PRO."
     }
   },
   {
@@ -31,7 +31,8 @@
       }
     },
     "quote": {
-      "e": "This is what it means to be an idol"
+      "n": "We'll definitely turn our dreams into reality.",
+      "e": "That's what it means to be an idol."
     }
   },
   {
@@ -83,6 +84,9 @@
       "live": {
         "name": "Score Up"
       }
+    },
+    "quote": {
+      "n": "I'll keep evolving every time we meet!"
     }
   },
   {
@@ -111,7 +115,8 @@
       }
     },
     "quote": {
-      "n": "I'm <i>fine</i>'s Tori Himemiya♪"
+      "n": "I'm <i>fine</i>'s Tori Himemiya♪",
+      "e": "Look forward to STAR PRO, too♪"
     }
   },
   {
@@ -129,6 +134,9 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I'll make sure you'll pay even more attention to me!"
     }
   },
   {
@@ -168,7 +176,8 @@
       }
     },
     "quote": {
-      "n": "I'm <i>fine</i>'s Yuzuru Fushimi."
+      "n": "I'm <i>fine</i>'s Yuzuru Fushimi.",
+      "e": "Please keep your eyes on STAR PRO as well."
     }
   },
   {
@@ -186,6 +195,9 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Let's aim to be the idols they hope for."
     }
   },
   {
@@ -219,7 +231,8 @@
       }
     },
     "quote": {
-      "n": "I'm Trickstar's Hokuto Hidaka"
+      "n": "I'm Trickstar's Hokuto Hidaka.",
+      "e": "I'm moving forward at STAR PRO."
     }
   },
   {
@@ -234,6 +247,9 @@
       "live": {
         "name": "Score Up"
       }
+    },
+    "quote": {
+      "n": "Let's stay true to ourselves."
     }
   },
   {
@@ -365,7 +381,7 @@
     },
     "quote": {
       "n": "I'm Trickstar's Mao Isara♪",
-      "e": "Cheer for STAR PRO too"
+      "e": "Cheer for STAR PRO too."
     }
   },
   {
@@ -397,7 +413,7 @@
     "name": "Mao Isara",
     "quote": {
       "n": "Come on, Hokuto, let's go~",
-      "e": "Let’s think about other things and the future when the Live is over!"
+      "e": "Let's think about other things and the future when the Live is over!"
     }
   },
   {
@@ -418,7 +434,7 @@
     },
     "quote": {
       "n": "I'm RYUSEITAI's Tetora Nagumo!",
-      "e": "I'll do my best at STAR PRO, ossu"
+      "e": "I'll do my best at STAR PRO, ossu."
     }
   },
   {
@@ -436,6 +452,9 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Keep your eyes on me as I grow!"
     }
   },
   {
@@ -505,6 +524,9 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "I also want to live up to expectations, so..."
     }
   },
   {
@@ -553,7 +575,8 @@
       }
     },
     "quote": {
-      "n": "I'm RYUSEITAI's Shinobu Sengoku, de gozaru!"
+      "n": "I'm RYUSEITAI's Shinobu Sengoku, de gozaru!",
+      "e": "I'm currently training at STAR PRO, de gozaru."
     }
   },
   {
@@ -612,7 +635,8 @@
       }
     },
     "quote": {
-      "n": "I'm RYUSEITAI's Chiaki Morisawa!"
+      "n": "I'm RYUSEITAI's Chiaki Morisawa!",
+      "e": "STAR PRO is my home base!"
     }
   },
   {
@@ -691,8 +715,8 @@
       }
     },
     "quote": {
-      "n": "Let's work hard for everyone's smiles",
-      "e": "There's no need to feel sad"
+      "n": "Let's work hard for everyone's smiles.",
+      "e": "There's no need to feel sad."
     }
   },
   {
@@ -735,7 +759,8 @@
       }
     },
     "quote": {
-      "n": "I'm ALKALOID's Hiiro Amagi."
+      "n": "I'm ALKALOID's Hiiro Amagi.",
+      "e": "I'm signed with STAR PRO."
     }
   },
   {
@@ -932,7 +957,8 @@
       }
     },
     "quote": {
-      "n": "I am ALKALOID's Tatsumi Kazehaya."
+      "n": "I am ALKALOID's Tatsumi Kazehaya.",
+      "e": "I will move forward with STAR PRO."
     }
   },
   {
@@ -986,7 +1012,8 @@
       }
     },
     "quote": {
-      "n": "...I'm Eden's Nagisa Ran."
+      "n": "...I'm Eden's Nagisa Ran.",
+      "e": "...To make COS PRO number one."
     }
   },
   {
@@ -1049,7 +1076,7 @@
     },
     "quote": {
       "n": "I'm Eden's Hiyori Tomoe!",
-      "e": "I look forward to working at COS PRO"
+      "e": "I look forward to working at COS PRO."
     }
   },
   {
@@ -1150,7 +1177,7 @@
     },
     "quote": {
       "n": "I'm Eden's Jun Sazanami.",
-      "e": "My idol activities are at COS PRO"
+      "e": "My idol activities are at COS PRO."
     }
   },
   {
@@ -1202,7 +1229,7 @@
     },
     "quote": {
       "n": "I am Valkyrie's Shu Itsuki.",
-      "e": "I'll convey to you from COS PRO"
+      "e": "I'll convey to you from COS PRO."
     }
   },
   {
@@ -1253,8 +1280,8 @@
       }
     },
     "quote": {
-      "n": "m Valkyrie's Mika Kagehira.",
-      "e": "I'll do my best at COS PRO"
+      "n": "I'm Valkyrie's Mika Kagehira.",
+      "e": "I'll do my best at COS PRO."
     }
   },
   {
@@ -1417,7 +1444,8 @@
       }
     },
     "quote": {
-      "n": "I'm Crazy:B's Rinne Amagi."
+      "n": "I'm Crazy:B's Rinne Amagi.",
+      "e": "I've hopped on COS PRO's ship."
     }
   },
   {
@@ -1469,7 +1497,7 @@
     },
     "quote": {
       "n": "This is Crazy:B's HiMERU.",
-      "e": "HiMERU works at COS PRO"
+      "e": "HiMERU works at COS PRO."
     }
   },
   {
@@ -1521,7 +1549,7 @@
     },
     "quote": {
       "n": "I'm Crazy:B's Kohaku Oukawa.",
-      "e": "I'm workin' at COS PRO"
+      "e": "I'm workin' at COS PRO."
     }
   },
   {
@@ -1584,7 +1612,7 @@
     },
     "quote": {
       "n": "I'm Crazy:B's Niki Shiina!",
-      "e": "COS PRO's got the vibe"
+      "e": "COS PRO's got the vibe."
     }
   },
   {
@@ -1636,7 +1664,7 @@
     },
     "quote": {
       "n": "I am UNDEAD's Rei Sakuma.",
-      "e": "Rhyth Lin is our castle"
+      "e": "Rhyth Lin is our castle."
     }
   },
   {
@@ -1698,7 +1726,8 @@
       }
     },
     "quote": {
-      "n": "I'm UNDEAD's Kaoru Hakaze♪"
+      "n": "I'm UNDEAD's Kaoru Hakaze♪",
+      "e": "I'm with Rhyth Lin♪"
     }
   },
   {
@@ -1750,7 +1779,7 @@
     },
     "quote": {
       "n": "I'm UNDEAD's Koga Ogami!",
-      "e": "I work at Rhythm Link"
+      "e": "I work at Rhyth Lin."
     }
   },
   {
@@ -1794,7 +1823,7 @@
     },
     "quote": {
       "n": "I'm UNDEAD's Adonis Otogari",
-      "e": "I'm studying at Rhyth Lin"
+      "e": "I'm studying at Rhyth Lin."
     }
   },
   {
@@ -1889,7 +1918,7 @@
     },
     "quote": {
       "n": "I'm Ra*bits' Nazuna Nito!",
-      "e": "I'm under Rhyth Lin's care"
+      "e": "I'm under Rhyth Lin's care."
     }
   },
   {
@@ -1937,7 +1966,8 @@
       }
     },
     "quote": {
-      "n": "I'm Ra*bits' Mitsuru Tenma!"
+      "n": "I'm Ra*bits' Mitsuru Tenma!",
+      "e": "I'm growing at Rhyth Lin~!"
     }
   },
   {
@@ -1983,7 +2013,7 @@
     },
     "quote": {
       "n": "I'm Ra*bits Hajime Shino.",
-      "e": "My idol activities are at Rhyth Lin"
+      "e": "My idol activities are at Rhyth Lin."
     }
   },
   {
@@ -2034,7 +2064,8 @@
       }
     },
     "quote": {
-      "n": "I'm AKATSUKI's Keito Hasumi."
+      "n": "I'm AKATSUKI's Keito Hasumi.",
+      "e": "I'm working at Rhyth Lin."
     }
   },
   {
@@ -2082,7 +2113,8 @@
       }
     },
     "quote": {
-      "n": "I'm AKATSUKI's Kuro Kiryu."
+      "n": "I'm AKATSUKI's Kuro Kiryu.",
+      "e": "I work at Rhyth Lin."
     }
   },
   {
@@ -2131,7 +2163,7 @@
     },
     "quote": {
       "n": "I am AKATSUKI's Souma Kanzaki.",
-      "e": "I am diligently working at Rhyth Lin"
+      "e": "I am diligently working at Rhyth Lin."
     }
   },
   {
@@ -2182,7 +2214,7 @@
     },
     "quote": {
       "n": "I am Knights' Tsukasa Suou.",
-      "e": "I will build the new era of NEW DI"
+      "e": "I will build the new era of NEW DI."
     }
   },
   {
@@ -2226,7 +2258,7 @@
     },
     "quote": {
       "n": "I'm Knights' Leo Tsukinaga!",
-      "e": "NEW DI seems interesting, huh"
+      "e": "NEW DI seems interesting, huh."
     }
   },
   {
@@ -2281,7 +2313,7 @@
     },
     "quote": {
       "n": "I'm Knights' Izumi Sena.",
-      "e": "I look forward to working at NEW DI"
+      "e": "I look forward to working at NEW DI."
     }
   },
   {
@@ -2296,6 +2328,10 @@
       "support": {
         "name": "Sparkling Cheer"
       }
+    },
+    "quote": {
+      "n": "I've got to be satisfied myself.",
+      "e": "After all, it's work shown to others."
     }
   },
   {
@@ -2338,7 +2374,7 @@
     },
     "quote": {
       "n": "I'm Knights' Ritsu Sakuma.",
-      "e": "I work at NEW DI"
+      "e": "I work at NEW DI."
     }
   },
   {
@@ -2353,6 +2389,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "I'll keep facing myself and others head-on.",
+      "e": "I've gotta protect where I belong."
     }
   },
   {
@@ -2393,7 +2433,7 @@
     },
     "quote": {
       "n": "I'm Knights' Arashi Narukami♪",
-      "e": "I wonder if NEW DI will be my new family"
+      "e": "I wonder if NEW DI will be my new family."
     }
   },
   {
@@ -2411,6 +2451,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "I'll polish my beauty even more♪",
+      "e": "More than for anyone else, but for myself."
     }
   },
   {
@@ -2469,6 +2513,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Welcome to a world you've never seen befoRE♪",
+      "e": "I must meet and exceed expectationS."
     }
   },
   {
@@ -4346,7 +4394,7 @@
     "title": "Underdog's Feelings",
     "name": "Hokuto Hidaka",
     "quote": {
-      "n": "Rest assured, I’m here to save you.",
+      "n": "Rest assured, I'm here to save you.",
       "e": "Why, why can't I win."
     }
   },
