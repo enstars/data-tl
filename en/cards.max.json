@@ -14659,6 +14659,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I'm Esu Sagiri!",
+      "e": "My charm point is my energy!"
     }
   },
   {
@@ -14670,6 +14674,10 @@
       "live": {
         "name": "Score Up"
       }
+    },
+    "quote": {
+      "n": "I'm Ibuki Taki.",
+      "e": "I'm a lil demon with alotta strength~♪"
     }
   },
   {
@@ -14681,6 +14689,10 @@
       "live": {
         "name": "Score Up"
       }
+    },
+    "quote": {
+      "n": "I am Kanna Natsu.",
+      "e": "That is sufficient, right?"
     }
   },
   {
@@ -14695,6 +14707,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "It's Fuyume Hanamura~",
+      "e": "This is Yume's story~"
     }
   },
   {
@@ -14706,6 +14722,10 @@
       "live": {
         "name": "Score Up"
       }
+    },
+    "quote": {
+      "n": "Raika Hojo here!",
+      "e": "I love ta sing♪"
     }
   },
   {
@@ -21849,7 +21869,11 @@
     "compliant": "TRUE",
     "id": 4628,
     "title": "Game START",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "Ehehe, time to dig in~♪",
+      "e": "I'll show off with a smile♪"
+    }
   },
   {
     "compliant": "TRUE",
@@ -22373,7 +22397,10 @@
     "compliant": "TRUE",
     "id": 4709,
     "title": "Form and Line of Sight",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "quote": {
+      "n": "Leave it to me. Ha!"
+    }
   },
   {
     "compliant": "TRUE",
